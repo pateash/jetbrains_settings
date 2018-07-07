@@ -17,6 +17,10 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
+  <action id="$SelectAll">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+    <keyboard-shortcut first-keystroke="meta a" />
+  </action>
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
     <keyboard-shortcut first-keystroke="alt back_space" />
@@ -72,6 +76,11 @@
   <action id="CollapseRegionRecursively">
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
   <action id="Console.Execute" />
   <action id="Console.TableResult.ColumnSortAsc" />
   <action id="Console.TableResult.ColumnSortDesc" />
@@ -96,6 +105,9 @@
   </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="meta a" />
   </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
@@ -177,6 +189,10 @@
   </action>
   <action id="Images.Thumbnails.EnterAction" />
   <action id="ImplementMethods" />
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
   <action id="NewElement">
@@ -225,6 +241,7 @@
   <action id="SurroundWith" />
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="shift ctrl j" />
+    <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
   <action id="SurroundWithLiveTemplate" />
   <action id="SwitchApply">

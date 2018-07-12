@@ -4,37 +4,5 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.css" />
-    <recentFileMasks>
-      <mask>h</mask>
-      <mask>b</mask>
-      <mask>bl</mask>
-      <mask>blad</mask>
-      <mask>blade</mask>
-      <mask>blade.</mask>
-      <mask>blade.p</mask>
-      <mask>blade.php</mask>
-      <mask>blade.ph</mask>
-      <mask>vue</mask>
-      <mask>vu</mask>
-      <mask>v</mask>
-      <mask>.vue</mask>
-      <mask>.vu</mask>
-      <mask>.v</mask>
-      <mask>.</mask>
-      <mask>*</mask>
-      <mask>*.vue</mask>
-      <mask>*.vu</mask>
-      <mask>*.v</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-    </recentFileMasks>
   </component>
 </application>

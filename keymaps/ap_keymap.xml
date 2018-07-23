@@ -223,6 +223,9 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
+  <action id="RefactoringMenu">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="meta r" />

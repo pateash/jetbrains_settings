@@ -215,6 +215,7 @@
   </action>
   <action id="ParameterInfo" />
   <action id="PreviousEditorTab" />
+  <action id="PropertyInspectorActions.EditValue" />
   <action id="QuickImplementations" />
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="shift ctrl e" />

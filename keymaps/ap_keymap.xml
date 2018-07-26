@@ -58,6 +58,7 @@
   </action>
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
+    <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
@@ -115,6 +116,9 @@
   <action id="EditorChooseLookupItem" />
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStartWithSelection" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="meta y" />
@@ -122,6 +126,9 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt equals" />
   </action>
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="ctrl alt j" />
@@ -208,6 +215,7 @@
   </action>
   <action id="ParameterInfo" />
   <action id="PreviousEditorTab" />
+  <action id="PropertyInspectorActions.EditValue" />
   <action id="QuickImplementations" />
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
@@ -216,6 +224,9 @@
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="ctrl e" />
     <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="RefactoringMenu">
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl r" />

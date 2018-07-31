@@ -46,9 +46,11 @@
   <action id="ActivateTODOToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
     <keyboard-shortcut first-keystroke="meta 6" />
+    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta g" />

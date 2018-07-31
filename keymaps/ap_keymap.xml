@@ -202,6 +202,9 @@
   </action>
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>

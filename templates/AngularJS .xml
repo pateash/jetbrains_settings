@@ -2,17 +2,29 @@
   <template name="ngm" value="angular.module('$moduleName$',[$moduleDependencies$]);&#10;$END$" description="A new angular module without a config function." toReformat="true" toShortenFQNames="true">
     <variable name="moduleName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="moduleDependencies" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="false" />
+    </context>
   </template>
   <template name="ngmc" value="var $moduleName$ = angular.module('$moduleName$',[$moduleDeps$], function($configDeps$){&#10;    $END$&#10;});" description="A new angular module with a config function" toReformat="true" toShortenFQNames="true">
     <variable name="moduleName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="moduleDeps" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="configDeps" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="false" />
+    </context>
   </template>
   <template name="$va" value="$scope.$variable$ = $variable$;&#10;$END$" description="Defines a new $scope'd variable inside an AngularJS controller and assigns a value from a contstructor arguments." toReformat="true" toShortenFQNames="true">
     <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="false" />
+    </context>
   </template>
   <template name="$b" value="$scope.$broadcast('$eventName$', $eventArgs$);&#10;$END$" description="Define a $broadcast for a $scope inside an Angular Controller / Angular Controller Function. You can change the event name and optional event arguments." toReformat="false" toShortenFQNames="true">
     <variable name="eventName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="eventArgs" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="false" />
+    </context>
   </template>
 </templateSet>

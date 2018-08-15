@@ -46,7 +46,6 @@
   <action id="ActivateTODOToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
     <keyboard-shortcut first-keystroke="meta 6" />
-    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl t" />
@@ -192,10 +191,15 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="GotoImplementation" />
+  <action id="GotoSuperMethod" />
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="shift ctrl 3" />
   </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="Images.ShowThumbnails" />
   <action id="Images.Thumbnails.EnterAction" />
   <action id="ImplementMethods" />
   <action id="InsertLiveTemplate">
@@ -245,6 +249,13 @@
     <keyboard-shortcut first-keystroke="numpad0" />
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="ScrollTreeToCenter" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift meta p" />

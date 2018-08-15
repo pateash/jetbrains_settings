@@ -49,7 +49,6 @@
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="meta t" />
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="ActivateVersionControlToolWindow">
@@ -240,6 +239,10 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="numpad0" />

@@ -258,6 +258,9 @@
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="ToggleBookmark3" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
+  </action>
   <action id="Vcs.ShowMessageHistory" />
   <action id="Vcs.UpdateProject" />
 </keymap>

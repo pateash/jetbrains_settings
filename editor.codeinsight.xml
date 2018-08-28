@@ -3,5 +3,9 @@
     <option name="SHOW_SOURCE_INFERRED_ANNOTATIONS" value="false" />
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_SMALL_ICONS_IN_GUTTER" value="false" />
   </component>
 </application>

@@ -238,6 +238,11 @@
   <action id="ParameterInfo" />
   <action id="PreviousEditorTab" />
   <action id="PropertyInspectorActions.EditValue" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt f8" />
+    <mouse-shortcut keystroke="alt button1" />
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
   <action id="QuickImplementations" />
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="shift ctrl e" />

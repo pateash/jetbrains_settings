@@ -45,7 +45,6 @@
   </template>
   <template name="a-http-get" value="return this.http.get('$url$')&#10; .map((response: Response) =&gt; response.json()$END$);" description="Angular Http.get" toReformat="true" toShortenFQNames="true">
     <variable name="url" expression="" defaultValue="&quot;url&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="a-output-event" value="@Output() $eventName$: EventEmitter&lt;$eventType$&gt; = new EventEmitter&lt;$eventType$&gt;();" description="Angular @Output event and emitter" toReformat="true" toShortenFQNames="true">
     <variable name="eventName" expression="" defaultValue="&quot;eventName&quot;" alwaysStopAt="true" />

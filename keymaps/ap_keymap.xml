@@ -205,6 +205,8 @@
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
@@ -219,11 +221,6 @@
   </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
-  </action>
-  <action id="GotoTypeDeclaration">
-    <keyboard-shortcut first-keystroke="shift ctrl b" />
-    <mouse-shortcut keystroke="shift control button1" />
-    <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="Images.ShowThumbnails" />
   <action id="Images.Thumbnails.EnterAction" />

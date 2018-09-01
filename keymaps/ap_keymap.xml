@@ -184,6 +184,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
   </action>
   <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
@@ -202,6 +203,8 @@
     <keyboard-shortcut first-keystroke="meta i" />
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <keyboard-shortcut first-keystroke="meta b" />
@@ -216,8 +219,9 @@
   <action id="GotoLine" />
   <action id="GotoSuperMethod" />
   <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="shift ctrl 3" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />

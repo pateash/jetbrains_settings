@@ -57,6 +57,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl i" />
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -202,6 +206,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
   <action id="ForceStepInto" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta i" />
     <keyboard-shortcut first-keystroke="ctrl i" />
@@ -250,9 +258,6 @@
   <action id="Move" />
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
-  <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="meta right" />
-  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>

@@ -95,12 +95,15 @@
   </action>
   <action id="Console.Execute" />
   <action id="Console.Execute.Multiline" />
+  <action id="Console.Jpa.GenerateSql" />
   <action id="Console.TableResult.ColumnSortAsc" />
   <action id="Console.TableResult.ColumnSortDesc" />
   <action id="Console.TableResult.ColumnVisibility" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Console.TableResult.EditValueMaximized">
+    <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="CopyElement" />
   <action id="Debug">
@@ -133,8 +136,10 @@
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="EditorChooseLookupItem" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStartWithSelection" />
+  <action id="EditorCompleteStatement" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
@@ -182,6 +187,7 @@
   </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
+    <keyboard-shortcut first-keystroke="shift alt enter" />
     <mouse-shortcut keystroke="alt button3" />
   </action>
   <action id="ExpandAllRegions">
@@ -224,11 +230,10 @@
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="ctrl b" />
-    <keyboard-shortcut first-keystroke="meta b" />
-    <mouse-shortcut keystroke="control button1" />
-    <mouse-shortcut keystroke="meta button1" />
-    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+    <mouse-shortcut keystroke="meta button3" />
+    <mouse-shortcut keystroke="control button3" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
@@ -237,6 +242,8 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoLine" />
   <action id="GotoSuperMethod" />
@@ -255,6 +262,7 @@
     <keyboard-shortcut first-keystroke="ctrl j" />
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
+  <action id="Jdbc.OpenEditor.DDL" />
   <action id="Move" />
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
@@ -278,9 +286,8 @@
   <action id="PreviousEditorTab" />
   <action id="PropertyInspectorActions.EditValue" />
   <action id="QuickEvaluateExpression">
-    <keyboard-shortcut first-keystroke="ctrl alt f8" />
+    <keyboard-shortcut first-keystroke="alt enter" />
     <mouse-shortcut keystroke="alt button1" />
-    <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="QuickImplementations" />
   <action id="RecentChangedFiles">
@@ -344,9 +351,6 @@
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
   <action id="SurroundWithLiveTemplate" />
-  <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="shift alt enter" />
-  </action>
   <action id="SwitchDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>

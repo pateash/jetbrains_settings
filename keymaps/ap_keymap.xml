@@ -62,6 +62,10 @@
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="ChangesView.GroupBy.Directory" />
+  <action id="ChangesView.Revert">
+    <keyboard-shortcut first-keystroke="ctrl alt z" />
+    <keyboard-shortcut first-keystroke="meta alt z" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl k" />
     <keyboard-shortcut first-keystroke="meta k" />

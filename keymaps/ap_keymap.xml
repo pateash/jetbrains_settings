@@ -8,6 +8,10 @@
     <keyboard-shortcut first-keystroke="shift delete" />
     <keyboard-shortcut first-keystroke="meta x" />
   </action>
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="meta v" />
@@ -126,6 +130,10 @@
   </action>
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
@@ -282,10 +290,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
-  <action id="OverrideMethods">
-    <keyboard-shortcut first-keystroke="ctrl o" />
-    <keyboard-shortcut first-keystroke="meta o" />
-  </action>
+  <action id="OverrideMethods" />
   <action id="ParameterInfo" />
   <action id="PreviousEditorTab" />
   <action id="PropertyInspectorActions.EditValue" />

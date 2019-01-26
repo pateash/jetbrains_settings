@@ -298,7 +298,10 @@
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="OverrideMethods" />
-  <action id="ParameterInfo" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+    <keyboard-shortcut first-keystroke="shift meta space" />
+  </action>
   <action id="PreviousEditorTab" />
   <action id="PropertyInspectorActions.EditValue" />
   <action id="QuickEvaluateExpression">
@@ -345,10 +348,14 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
+  <action id="ShowProjectStructureSettings">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
     <keyboard-shortcut first-keystroke="meta comma" />
   </action>
+  <action id="SmartTypeCompletion" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>

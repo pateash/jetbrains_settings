@@ -333,8 +333,7 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
     <keyboard-shortcut first-keystroke="shift ctrl t" />
-    <keyboard-shortcut first-keystroke="ctrl u" />
-    <keyboard-shortcut first-keystroke="meta u" />
+    <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
   <action id="ScrollTreeToCenter" />

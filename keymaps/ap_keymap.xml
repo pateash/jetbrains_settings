@@ -309,11 +309,6 @@
     <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="QuickImplementations" />
-  <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="ctrl q" />
-    <mouse-shortcut keystroke="alt button2" />
-    <keyboard-shortcut first-keystroke="meta q" />
-  </action>
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
     <keyboard-shortcut first-keystroke="shift meta e" />
@@ -338,8 +333,7 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
     <keyboard-shortcut first-keystroke="shift ctrl t" />
-    <keyboard-shortcut first-keystroke="ctrl u" />
-    <keyboard-shortcut first-keystroke="meta u" />
+    <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
   <action id="ScrollTreeToCenter" />

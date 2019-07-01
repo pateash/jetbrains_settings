@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Solhint Messages" shouldLog="false" />
-  </component>
-</application>

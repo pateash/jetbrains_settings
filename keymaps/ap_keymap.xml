@@ -269,6 +269,7 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl 3" />
     <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
@@ -286,7 +287,6 @@
   <action id="MoveLineUp" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
-    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="NextDiff" />
   <action id="NextEditorTab" />
@@ -334,11 +334,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
     <keyboard-shortcut first-keystroke="shift ctrl t" />
     <keyboard-shortcut first-keystroke="alt u" />
+    <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
-  <action id="SaveAll">
-    <keyboard-shortcut first-keystroke="ctrl s" />
-    <keyboard-shortcut first-keystroke="meta s" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="ScrollTreeToCenter" />
   <action id="SearchEverywhere">

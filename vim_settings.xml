@@ -1,0 +1,42 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1563122880302">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/code/main.cpp" timestamp="1563123538841">
+        <mark key="'" line="20" column="13" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="20" column="13" filename="$USER_HOME$/CLionProjects/code/main.cpp" />
+    </jumps>
+    <registers>
+      <register name="/" type="4">
+        <text>main</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>main</last-search>
+      <last-offset />
+      <last-pattern>main</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>main</entry>
+      </history-search>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

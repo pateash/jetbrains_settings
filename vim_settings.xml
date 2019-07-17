@@ -1,9 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1563218716306">
+      <file name="/Dummy.txt" timestamp="1563301714969">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.vim/.vimrc" timestamp="1563387319006" />
+      <file name="$USER_HOME$/Desktop/macos_config/.gitignore" timestamp="1563301669420">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/learn_hadoop/src/main/java/MapReduce.java" timestamp="1563218306972">

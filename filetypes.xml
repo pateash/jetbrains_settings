@@ -1,12 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="vim" type="Bash" />
       <mapping pattern=".part-r-00000.crc" type="PLAIN_TEXT" />
       <mapping pattern="part-r-00000" type="PLAIN_TEXT" />
       <mapping pattern="scripts" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
-      <removed_mapping ext="vim" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="vim" approved="true" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>

@@ -196,6 +196,9 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="EditorUnSelectWord" />
   <action id="EmmetEverywhere">
     <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />

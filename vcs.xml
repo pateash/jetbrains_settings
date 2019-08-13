@@ -9,11 +9,4 @@
       </list>
     </option>
   </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="COMPACT_REFERENCES_VIEW" value="false" />
-    <option name="SHOW_TAG_NAMES" value="true" />
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
-  </component>
 </application>

@@ -300,6 +300,9 @@
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
   </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="meta alt o" />
@@ -365,6 +368,7 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
     <keyboard-shortcut first-keystroke="meta comma" />
+    <keyboard-shortcut first-keystroke="alt comma" />
   </action>
   <action id="SmartTypeCompletion" />
   <action id="SplitHorizontally">

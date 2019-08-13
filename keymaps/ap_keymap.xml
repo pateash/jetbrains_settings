@@ -196,6 +196,7 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
+  <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
@@ -314,6 +315,7 @@
   </action>
   <action id="PreviousEditorTab" />
   <action id="PropertyInspectorActions.EditValue" />
+  <action id="QuickActionPopup" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="alt enter" />
     <mouse-shortcut keystroke="alt button1" />
@@ -361,6 +363,7 @@
   </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
   <action id="ShowProjectStructureSettings">
     <keyboard-shortcut first-keystroke="alt p" />

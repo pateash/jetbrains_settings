@@ -33,6 +33,9 @@
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="alt 1" />
@@ -197,9 +200,7 @@
   <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLineBefore" />
-  <action id="EditorToggleCase">
-    <keyboard-shortcut first-keystroke="alt c" />
-  </action>
+  <action id="EditorToggleCase" />
   <action id="EditorUnSelectWord" />
   <action id="EmmetEverywhere">
     <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
@@ -389,6 +390,9 @@
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="StringManipulation.Group.Main">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="SurroundWith" />
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="shift ctrl j" />
@@ -419,6 +423,8 @@
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
   <action id="Vcs.ShowMessageHistory" />
+  <action id="Vcs.ToggleAmendCommitMode" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
 </keymap>

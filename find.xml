@@ -13,5 +13,6 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>*s.vim</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>

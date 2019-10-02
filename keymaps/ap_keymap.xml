@@ -303,6 +303,9 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="alt dead_tilde" />
+  </action>
   <action id="NextDiff" />
   <action id="NextEditorTab" />
   <action id="NextTemplateVariable">

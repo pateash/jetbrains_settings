@@ -382,6 +382,9 @@
     <keyboard-shortcut first-keystroke="meta alt enter" />
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
+  <action id="ShowNpmScripts">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="ShowProjectStructureSettings">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>

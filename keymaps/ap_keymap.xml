@@ -315,8 +315,7 @@
   <action id="NextDiff" />
   <action id="NextEditorTab" />
   <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
-    <keyboard-shortcut first-keystroke="alt period" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
@@ -335,6 +334,9 @@
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
   <action id="PreviousEditorTab" />
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
   <action id="PropertyInspectorActions.EditValue" />
   <action id="QuickActionPopup" />
   <action id="QuickEvaluateExpression">

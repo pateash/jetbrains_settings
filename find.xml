@@ -7,12 +7,13 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.js</mask>
     <mask>*s.vim</mask>
     <mask>pom.xml</mask>
+    <mask>*.js</mask>
+    <mask>*.java</mask>
+    <mask>*.vue</mask>
   </component>
 </application>

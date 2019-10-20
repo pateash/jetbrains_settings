@@ -139,6 +139,9 @@
     <keyboard-shortcut first-keystroke="meta 5" />
     <keyboard-shortcut first-keystroke="alt 5" />
   </action>
+  <action id="DelombokActionGroup">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="meta d" />
@@ -297,6 +300,9 @@
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="Jdbc.OpenEditor.DDL" />
+  <action id="LombokActionGroup">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="Move" />
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
@@ -308,6 +314,10 @@
   </action>
   <action id="NextDiff" />
   <action id="NextEditorTab" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
   </action>
@@ -325,6 +335,10 @@
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
   <action id="PreviousEditorTab" />
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
   <action id="PropertyInspectorActions.EditValue" />
   <action id="QuickActionPopup" />
   <action id="QuickEvaluateExpression">
@@ -375,6 +389,9 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta alt enter" />
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="ShowNpmScripts">
+    <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="ShowProjectStructureSettings">
     <keyboard-shortcut first-keystroke="alt p" />
@@ -436,5 +453,6 @@
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="context.load" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
 </keymap>

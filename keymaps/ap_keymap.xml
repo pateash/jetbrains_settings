@@ -257,6 +257,9 @@
     <keyboard-shortcut first-keystroke="meta i" />
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="Git.Menu">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="alt a" />

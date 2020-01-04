@@ -257,6 +257,9 @@
     <keyboard-shortcut first-keystroke="meta i" />
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="Git.Menu">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="alt a" />
@@ -282,7 +285,10 @@
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="control button1" />
   </action>
-  <action id="GotoLine" />
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+    <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
   <action id="GotoSuperMethod" />
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl 3" />
@@ -361,6 +367,8 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f8" />
   </action>

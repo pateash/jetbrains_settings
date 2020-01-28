@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="scripts" type="PLAIN_TEXT" />
       <mapping pattern=".part-r-00000.crc" type="PLAIN_TEXT" />

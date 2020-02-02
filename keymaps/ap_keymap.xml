@@ -148,6 +148,7 @@
   </action>
   <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
@@ -264,6 +265,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="GotoBookmark1" />
   <action id="GotoChangedFile" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift ctrl n" />

@@ -9,6 +9,7 @@
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="greenkeeper" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
+      <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="vim" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />

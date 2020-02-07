@@ -476,5 +476,6 @@
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
   <action id="tasks.and.contexts">
     <keyboard-shortcut first-keystroke="alt i" />
+    <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
 </keymap>

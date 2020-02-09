@@ -317,6 +317,12 @@
   <action id="Move" />
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>

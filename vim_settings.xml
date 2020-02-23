@@ -1,97 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks>
-      <file name="/Dummy.txt" timestamp="1563301714969">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/.vim/.vimrc" timestamp="1563387319006" />
-      <file name="$USER_HOME$/Desktop/macos_config/.gitignore" timestamp="1563301669420">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/learn_hadoop/src/main/java/MapReduce.java" timestamp="1563218306972">
-        <mark key="'" line="27" column="24" />
-        <mark key="[" line="50" column="41" />
-        <mark key="]" line="50" column="41" />
-        <mark key="." line="50" column="41" />
-        <mark key="^" line="50" column="41" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/learn_hadoop/input/words.txt" timestamp="1563218152557">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="8" />
-        <mark key="^" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/code/main.cpp" timestamp="1563123538841">
-        <mark key="'" line="20" column="13" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/learn_hadoop/.gitignore" timestamp="1563218466231">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/learn_hadoop/output/.part-r-00000.crc" timestamp="1563218180310">
-        <mark key="[" line="0" column="7" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/learn_hadoop/README.md" timestamp="1563218395939">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/learn_hadoop/pom.xml" timestamp="1563218705732">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="20" column="13" filename="$USER_HOME$/CLionProjects/code/main.cpp" />
-      <jump line="29" column="4" filename="$USER_HOME$/IdeaProjects/learn_hadoop/src/main/java/MapReduce.java" />
-      <jump line="42" column="20" filename="$USER_HOME$/IdeaProjects/learn_hadoop/src/main/java/MapReduce.java" />
-      <jump line="43" column="20" filename="$USER_HOME$/IdeaProjects/learn_hadoop/src/main/java/MapReduce.java" />
-      <jump line="26" column="24" filename="$USER_HOME$/IdeaProjects/learn_hadoop/src/main/java/MapReduce.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/learn_hadoop/input/words.txt" />
-    </jumps>
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">y5wK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">y5wK</text>
-      </register>
-      <register name="2" type="4">
-        <text>public class MapReduce {
-}</text>
-      </register>
-      <register name=":" type="4">
-        <text>! echo &quot;hello&quot;</text>
-      </register>
-      <register name="-" type="4">
-        <text>args[1])</text>
-      </register>
-      <register name="/" type="4">
-        <text>write</text>
-      </register>
-    </registers>
-    <search>
-      <last-search>write</last-search>
-      <last-offset />
-      <last-pattern>write</last-pattern>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search>
-        <entry>main</entry>
-        <entry>write</entry>
-      </history-search>
-      <history-cmd>
-        <entry>wq</entry>
-        <entry>w</entry>
-        <entry>! echo &quot;hello&quot;</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="true" />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
@@ -103,5 +12,9 @@
     <editor>
       <key-repeat enabled="true" />
     </editor>
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>

@@ -3,19 +3,19 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="ashishpatel0720@gmail.com" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:ashishpatel0720/dbfrontrunnerApi.git" />
+          <option name="url" value="https://github.com/ashishpatel0720/code" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:ashishpatel0720/dbfrontrunner.git" />
+          <option name="url" value="https://github.com/ashishpatel0720/ashish.live.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:ashishpatel0720/vuetifyjs-template.git" />
+          <option name="url" value="git@github.com:codingtools/codingtools.github.io.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/codingtools/avro-viewer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
@@ -33,8 +33,5 @@
         <option value="3" />
       </list>
     </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>

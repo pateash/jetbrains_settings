@@ -148,6 +148,7 @@
   </action>
   <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
@@ -257,10 +258,14 @@
     <keyboard-shortcut first-keystroke="meta i" />
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="Git.Menu">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="GotoBookmark1" />
   <action id="GotoChangedFile" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
@@ -282,8 +287,14 @@
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="control button1" />
   </action>
-  <action id="GotoLine" />
-  <action id="GotoSuperMethod" />
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+    <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="shift ctrl alt enter" />
+    <keyboard-shortcut first-keystroke="shift meta alt enter" />
+  </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl 3" />
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -306,6 +317,12 @@
   <action id="Move" />
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
@@ -316,6 +333,7 @@
   <action id="NextEditorTab" />
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
@@ -336,6 +354,7 @@
   <action id="PreviousEditorTab" />
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="PropertyInspectorActions.EditValue" />
   <action id="QuickActionPopup" />
@@ -359,6 +378,8 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
@@ -375,6 +396,12 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ScrollPane-scrollEnd">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="ScrollPane-scrollHome">
+    <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="ScrollTreeToCenter" />
   <action id="SearchEverywhere">
@@ -453,4 +480,8 @@
   <action id="ViewSource" />
   <action id="context.load" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
+  <action id="tasks.and.contexts">
+    <keyboard-shortcut first-keystroke="alt i" />
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
 </keymap>

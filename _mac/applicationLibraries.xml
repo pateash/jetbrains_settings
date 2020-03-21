@@ -1,55 +1,21 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.7 interpreter library">
+    <library name="scala-sdk-2.13.1" type="Scala">
+      <properties>
+        <language-level>Scala_2_13</language-level>
+        <compiler-classpath>
+          <root url="file:///usr/local/Cellar/scala/2.13.1/libexec/lib/scala-library.jar" />
+          <root url="file:///usr/local/Cellar/scala/2.13.1/libexec/lib/scala-compiler.jar" />
+          <root url="file:///usr/local/Cellar/scala/2.13.1/libexec/lib/scala-reflect.jar" />
+        </compiler-classpath>
+      </properties>
       <CLASSES>
-        <root url="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/CLion2019.3/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
+        <root url="jar:///usr/local/Cellar/scala/2.13.1/libexec/lib/scala-library.jar!/" />
+        <root url="jar:///usr/local/Cellar/scala/2.13.1/libexec/lib/scala-reflect.jar!/" />
       </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/CLion2019.3/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 interpreter library">
-      <CLASSES>
-        <root url="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/CLion2019.3/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///usr/local/Cellar/python/3.7.4_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/CLion2019.3/python_stubs/-1199943126" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="R Skeletons">
-      <CLASSES />
+      <JAVADOC>
+        <root url="https://www.scala-lang.org/api/2.13.1/" />
+      </JAVADOC>
       <SOURCES />
     </library>
   </component>

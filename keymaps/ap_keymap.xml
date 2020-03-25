@@ -469,4 +469,7 @@
   <action id="ViewSource" />
   <action id="context.load" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
+  <action id="tasks.and.contexts">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
 </keymap>

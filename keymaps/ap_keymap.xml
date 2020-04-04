@@ -109,7 +109,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="CodeMenu">
-    <keyboard-shortcut first-keystroke="alt o" />
+    <keyboard-shortcut first-keystroke="alt i" />
   </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="ctrl alt minus" />

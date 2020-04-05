@@ -94,7 +94,9 @@
     </context>
   </template>
   <template name="br" value="&lt;br&gt;" description="&lt;br&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
   </template>
   <template name="frame" value="&lt;frame/&gt;" description="&lt;frame/&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
@@ -102,7 +104,9 @@
     </context>
   </template>
   <template name="hr" value="&lt;hr&gt;" description="&lt;hr&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
   </template>
   <template name="bdo" value="&lt;bdo dir=&quot;$VAR0$&quot;&gt;$END$&lt;/bdo&gt;" description="&lt;bdo dir=&quot;...&quot;&gt;...&lt;/bdo&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />

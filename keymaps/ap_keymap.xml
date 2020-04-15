@@ -35,6 +35,7 @@
   <action id="ActivateFindToolWindow" />
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
+    <keyboard-shortcut first-keystroke="meta 6" />
   </action>
   <action id="ActivateMavenToolWindow">
     <keyboard-shortcut first-keystroke="alt m" />
@@ -51,9 +52,7 @@
     <keyboard-shortcut first-keystroke="alt 2" />
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
-  <action id="ActivateTODOToolWindow">
-    <keyboard-shortcut first-keystroke="meta 6" />
-  </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="meta t" />
@@ -110,6 +109,7 @@
   </action>
   <action id="CodeMenu">
     <keyboard-shortcut first-keystroke="alt i" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="ctrl alt minus" />

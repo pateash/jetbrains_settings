@@ -477,6 +477,9 @@
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="ViewToolBar">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
   <action id="ViewToolButtons">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>

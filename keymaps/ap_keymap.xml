@@ -40,6 +40,7 @@
   <action id="ActivateMavenToolWindow">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
+  <action id="ActivateMessagesToolWindow" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="alt 1" />
@@ -476,6 +477,12 @@
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="ViewToolBar">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="ViewToolButtons">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>

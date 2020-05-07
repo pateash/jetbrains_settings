@@ -27,25 +27,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/code/src/resources/testcases.txt" timestamp="1588872390931" />
-      <file name="$USER_HOME$/Desktop/code/src/resources/in.txt" timestamp="1588872892742">
+      <file name="$USER_HOME$/Desktop/code/src/resources/in.txt" timestamp="1588874421127">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/code/src/main/libs/BitsUtils.h" timestamp="1588872679376" />
-      <file name="$USER_HOME$/Desktop/code/src/main/main.cpp" timestamp="1588873343797">
+      <file name="$USER_HOME$/Desktop/code/src/main/libs/BitsUtils.h" timestamp="1588873556681" />
+      <file name="$USER_HOME$/Desktop/code/src/main/main.cpp" timestamp="1588874528211">
         <mark key="'" line="219" column="20" />
-        <mark key="[" line="244" column="9" />
-        <mark key="]" line="244" column="45" />
-        <mark key="." line="244" column="44" />
-        <mark key="^" line="244" column="45" />
-      </file>
-      <file name="$USER_HOME$/Desktop/code/src/resources/out.txt" timestamp="1588872997601">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="229" column="10" />
+        <mark key="]" line="229" column="13" />
+        <mark key="." line="229" column="12" />
+        <mark key="^" line="229" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -57,31 +51,31 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>Y</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Y</text>
       </register>
       <register name="/" type="4">
         <text>solve</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoYT49bCBhbmQgYTw9cil7Cg==</text>
+        <text encoding="base64">ICAgIGNvdXQ8PFkudG9fc3RyaW5nKCk8PGVuZGw7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MDAwMDAxMTEKMDAwMDExMDAKMDAwMDExMTEKMTUKMDAwMDAxMTEKMDAwMDExMDAKNwowMDAwMTAwMQowMDAwMTEwMAowMDAwMTAwMQowMDAwMTEwMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MDAwMDAxMTEKMDAwMDExMDAKMDAwMDExMTEKMTUKMDAwMDAxMTEKMDAwMDExMDAKNwowMDAwMTAwMQowMDAwMTEwMAowMDAwMTAwMQowMDAwMTEwMAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -90,10 +84,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvdXQ8PFgudG9fc3RyaW5nKCk8PGVuZGw7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBqago=</text>
       </register>
     </registers>
   </component>

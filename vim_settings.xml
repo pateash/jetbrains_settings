@@ -6,7 +6,9 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-search />
+      <history-search>
+        <entry>solve</entry>
+      </history-search>
     </history>
   </component>
   <component name="VimKeySettings">
@@ -25,57 +27,78 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/code/src/resources/in.txt" timestamp="1588871241261">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Desktop/code/src/resources/testcases.txt" timestamp="1588872390931" />
+      <file name="$USER_HOME$/Desktop/code/src/resources/in.txt" timestamp="1588872892742">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/code/src/main/main.cpp" timestamp="1588871178984">
-        <mark key="[" line="217" column="46" />
-        <mark key="]" line="202" column="35" />
-        <mark key="." line="202" column="34" />
-        <mark key="^" line="202" column="35" />
+      <file name="$USER_HOME$/Desktop/code/src/main/libs/BitsUtils.h" timestamp="1588872679376" />
+      <file name="$USER_HOME$/Desktop/code/src/main/main.cpp" timestamp="1588872842998">
+        <mark key="'" line="219" column="20" />
+        <mark key="[" line="236" column="15" />
+        <mark key="]" line="237" column="21" />
+        <mark key="." line="237" column="20" />
+        <mark key="^" line="237" column="21" />
       </file>
+      <file name="$USER_HOME$/Desktop/code/src/resources/out.txt" timestamp="1588872890828" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="224" column="31" filename="$USER_HOME$/Desktop/code/src/main/main.cpp" />
+      <jump line="219" column="20" filename="$USER_HOME$/Desktop/code/src/main/main.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/code/src/resources/in.txt" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">NyAxMiAwIDgK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">MTExMQo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MTExMQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">MTEwMGRkCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">awo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">awo3IDEyIDAgOAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Mgo3IDEyIDQgMTcKNyAxMiAwIDgK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxsIHgseSxsLHI7CiAgICBzY2FuZigiJWxsZCAlbGxkICVsbGQgJWxsZCIsICZ4LCZ5LCZsLCZyKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>3</text>
+      </register>
+      <register name="/" type="4">
+        <text>solve</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">OSAxMiAxNCAzMQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBqago=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvdXQ8PFgudG9fc3RyaW5nKCk8PGVuZGw7Cgo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">MQo5IDEyIDQgMzEK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIC8vZmluZCBzbWFsbGVzdCBudW1iZXIgd2l0aCBtYXguIG5vLiBvZiAxJ3MgaW4gYml0c2V0CgogICAgLy8gaWYgYWxsIGJpdHMgc2V0IGZvciByIGFucyAtPiByCiAgICAvLyBvdGhlcndpc2UgZ2V0Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb3V0PDxpPDwiIC0+ICI8PHRtcDw8Ii0+Ijw8Yml0c2V0PDg+KHRtcCkudG9fc3RyaW5nKCk8PGVuZGw7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb3V0PDxpPDwiIC0+ICI8PHRtcDw8Ii0+Ijw8Yml0c2V0PDg+KHRtcCkudG9fc3RyaW5nKCk8PGVuZGw7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Mwo5IDEyIDE0IDMxCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>solve</last-search>
+      <last-offset />
+      <last-pattern>solve</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>

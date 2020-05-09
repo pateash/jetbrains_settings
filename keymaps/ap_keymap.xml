@@ -385,6 +385,10 @@
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />

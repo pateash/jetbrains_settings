@@ -27,34 +27,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/code/src/resources/in.txt" timestamp="1588874421127">
+      <file name="$USER_HOME$/Desktop/code/src/resources/in.txt" timestamp="1589094183763">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="4" column="7" />
+        <mark key="^" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/Cpp/main.cpp" timestamp="1589094069134" />
-      <file name="$USER_HOME$/Desktop/code/src/main/main.cpp" timestamp="1588874528211">
-        <mark key="'" line="219" column="20" />
-        <mark key="[" line="229" column="10" />
-        <mark key="]" line="229" column="13" />
-        <mark key="." line="229" column="12" />
-        <mark key="^" line="229" column="13" />
+      <file name="$USER_HOME$/Desktop/code/src/main/main.cpp" timestamp="1589094294089">
+        <mark key="'" line="270" column="16" />
+        <mark key="[" line="269" column="5" />
+        <mark key="]" line="264" column="0" />
+        <mark key="^" line="261" column="4" />
+        <mark key="." line="264" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="224" column="31" filename="$USER_HOME$/Desktop/code/src/main/main.cpp" />
       <jump line="219" column="20" filename="$USER_HOME$/Desktop/code/src/main/main.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/code/src/resources/in.txt" />
+      <jump line="270" column="16" filename="$USER_HOME$/Desktop/code/src/main/main.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZpIHYobik7CiAgICByZXAobikgdltpXT1yZWFkKGludCk7CgoKICAgIGludCBhbnM7CiAgICB3cml0ZShhbnMpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>Y</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>solve</text>
@@ -63,22 +64,22 @@
         <text encoding="base64">ICAgIGNvdXQ8PFkudG9fc3RyaW5nKCk8PGVuZGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZpIHYobik7CiAgICByZXAobikgdltpXT1yZWFkKGludCk7CgoKICAgIGludCBhbnM7CiAgICB3cml0ZShhbnMpOw==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MDAwMDAxMTEKMDAwMDExMDAKMDAwMDExMTEKMTUKMDAwMDAxMTEKMDAwMDExMDAKNwowMDAwMTAwMQowMDAwMTEwMAowMDAwMTAwMQowMDAwMTEwMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MDAwMDAxMTEKMDAwMDExMDAKMDAwMDExMTEKMTUKMDAwMDAxMTEKMDAwMDExMDAKNwowMDAwMTAwMQowMDAwMTEwMAowMDAwMTAwMQowMDAwMTEwMAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -87,7 +88,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
@@ -101,7 +102,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />

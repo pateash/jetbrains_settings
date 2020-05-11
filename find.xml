@@ -22,5 +22,6 @@
     <mask>*.test.ts</mask>
     <mask>*.php</mask>
     <mask>*.h</mask>
+    <mask>!*.dart</mask>
   </component>
 </application>

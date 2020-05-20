@@ -16,9 +16,9 @@
     <mask>*.java</mask>
     <mask>*.vue</mask>
     <mask>*test.ts</mask>
-    <mask>*.ts</mask>
     <mask>*.test.ts</mask>
     <mask>*.php</mask>
     <mask>*.h</mask>
+    <mask>*.ts</mask>
   </component>
 </application>

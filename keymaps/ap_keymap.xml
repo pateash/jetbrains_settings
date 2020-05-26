@@ -35,10 +35,12 @@
   <action id="ActivateFindToolWindow" />
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
+    <keyboard-shortcut first-keystroke="meta 6" />
   </action>
   <action id="ActivateMavenToolWindow">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
+  <action id="ActivateMessagesToolWindow" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="alt 1" />
@@ -51,9 +53,7 @@
     <keyboard-shortcut first-keystroke="alt 2" />
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
-  <action id="ActivateTODOToolWindow">
-    <keyboard-shortcut first-keystroke="meta 6" />
-  </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="meta t" />
@@ -110,6 +110,7 @@
   </action>
   <action id="CodeMenu">
     <keyboard-shortcut first-keystroke="alt i" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="ctrl alt minus" />
@@ -476,6 +477,12 @@
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="ViewToolBar">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="ViewToolButtons">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
@@ -487,4 +494,8 @@
   <action id="tasks.and.contexts">
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
+  <action id="tasks.close" />
+  <action id="tasks.goto" />
+  <action id="tasks.open.in.browser" />
+  <action id="tasks.switch" />
 </keymap>

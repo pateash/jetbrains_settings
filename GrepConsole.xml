@@ -91,13 +91,11 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*unwanted line.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="action" value="REMOVE_UNLESS_PREVIOUSLY_MATCHED" />
-                      <option name="enabled" value="false" />
-                      <option name="grepExpression" value=".*unwanted line.*" />
+                      <option name="action" value="REMOVE" />
+                      <option name="grepExpression" value=".*INFO.*" />
                     </GrepExpressionItem>
                   </list>
                 </option>
@@ -109,5 +107,6 @@
         </Profile>
       </list>
     </option>
+    <option name="version" value="1" />
   </component>
 </application>

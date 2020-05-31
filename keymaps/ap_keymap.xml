@@ -33,9 +33,14 @@
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
   <action id="ActivateMavenToolWindow">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
+  <action id="ActivateMessagesToolWindow" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="alt 1" />
@@ -48,10 +53,7 @@
     <keyboard-shortcut first-keystroke="alt 2" />
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
-  <action id="ActivateTODOToolWindow">
-    <keyboard-shortcut first-keystroke="alt 6" />
-    <keyboard-shortcut first-keystroke="meta 6" />
-  </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="meta t" />
@@ -105,6 +107,10 @@
   </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="CodeMenu">
+    <keyboard-shortcut first-keystroke="alt i" />
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="ctrl alt minus" />
@@ -236,6 +242,7 @@
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
   </action>
+  <action id="ExportToTextFile" />
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
@@ -255,10 +262,6 @@
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta right" />
-  </action>
-  <action id="Generate">
-    <keyboard-shortcut first-keystroke="meta i" />
-    <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="Git.Menu">
     <keyboard-shortcut first-keystroke="meta back_quote" />
@@ -312,6 +315,7 @@
   <action id="LombokActionGroup">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="Move" />
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
@@ -385,6 +389,10 @@
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
@@ -469,9 +477,25 @@
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="ViewToolBar">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="ViewToolButtons">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
   <action id="context.load" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
   <action id="tasks.and.contexts">
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
+  <action id="tasks.close" />
+  <action id="tasks.goto" />
+  <action id="tasks.open.in.browser" />
+  <action id="tasks.switch" />
 </keymap>

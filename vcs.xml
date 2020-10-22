@@ -31,7 +31,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/Littleboyss/laravel-hospital.git" />
+          <option name="url" value="https://github.com/sanketgautam/WordBook.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ashishpatel0720/WordBook.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>

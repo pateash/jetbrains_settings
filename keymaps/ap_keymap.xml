@@ -500,4 +500,8 @@
   <action id="tasks.and.contexts">
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
+  <action id="tasks.close" />
+  <action id="tasks.goto" />
+  <action id="tasks.open.in.browser" />
+  <action id="tasks.switch" />
 </keymap>

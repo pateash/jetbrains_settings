@@ -312,12 +312,6 @@
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="Jdbc.OpenEditor.DDL" />
-  <action id="JupyterSelectCellAboveAction">
-    <keyboard-shortcut first-keystroke="alt up" />
-  </action>
-  <action id="JupyterSelectCellBelowAction">
-    <keyboard-shortcut first-keystroke="alt down" />
-  </action>
   <action id="LombokActionGroup">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>

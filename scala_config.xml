@@ -5,5 +5,6 @@
   <component name="ScalaApplicationSettings">
     <option name="ADD_UNAMBIGUOUS_IMPORTS_ON_THE_FLY" value="true" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+    <option name="SUGGEST_IMPLICIT_HINTS" value="false" />
   </component>
 </application>

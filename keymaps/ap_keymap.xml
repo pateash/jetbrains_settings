@@ -479,6 +479,7 @@
     <keyboard-shortcut first-keystroke="shift insert" />
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="Terminal.SmartCommandExecution.Run" />
   <action id="ToggleBookmark3" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl meta f" />

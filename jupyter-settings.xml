@@ -1,5 +1,13 @@
 <application>
   <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="token" value="02e12e1315b6ecae20e8611a4b0d9d6ccc7b31c5434f14cf" />
+          <option name="urlString" value="http://localhost:8888/" />
+        </JupyterConnectionParameters>
+      </list>
+    </option>
     <option name="moduleParameters">
       <map>
         <entry key="$USER_HOME$/PycharmProjects/untitled/.idea/untitled.iml">
@@ -14,7 +22,6 @@
     </option>
   </component>
   <component name="JupyterSettings">
-    <option name="autoscrollFromSource" value="false" />
-    <option name="autoscrollToSource" value="false" />
+    <option name="showSourcesInPreview" value="false" />
   </component>
 </application>

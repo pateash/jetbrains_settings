@@ -4,7 +4,6 @@
       <mapping ext="avsc" type="JSON" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="scripts" type="PLAIN_TEXT" />
-      <mapping pattern="greenkeeper" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="syntastic.vim" type="PLAIN_TEXT" />
       <mapping pattern=".part-r-00000.crc" type="PLAIN_TEXT" />

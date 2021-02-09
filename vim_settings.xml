@@ -1,0 +1,111 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>solve</entry>
+      </history-search>
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Desktop/code/src/resources/in.txt" timestamp="1589094183763">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="1" column="1" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Cpp/main.cpp" timestamp="1589094069134" />
+      <file name="$USER_HOME$/Desktop/code/src/main/main.cpp" timestamp="1589094294089">
+        <mark key="'" line="270" column="16" />
+        <mark key="[" line="269" column="5" />
+        <mark key="]" line="264" column="0" />
+        <mark key="^" line="261" column="4" />
+        <mark key="." line="264" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="224" column="31" filename="$USER_HOME$/Desktop/code/src/main/main.cpp" />
+      <jump line="219" column="20" filename="$USER_HOME$/Desktop/code/src/main/main.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/code/src/resources/in.txt" />
+      <jump line="270" column="16" filename="$USER_HOME$/Desktop/code/src/main/main.cpp" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZpIHYobik7CiAgICByZXAobikgdltpXT1yZWFkKGludCk7CgoKICAgIGludCBhbnM7CiAgICB3cml0ZShhbnMpOw==</text>
+      </register>
+      <register name="-" type="4">
+        <text>2</text>
+      </register>
+      <register name="/" type="4">
+        <text>solve</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvdXQ8PFkudG9fc3RyaW5nKCk8PGVuZGw7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZpIHYobik7CiAgICByZXAobikgdltpXT1yZWFkKGludCk7CgoKICAgIGludCBhbnM7CiAgICB3cml0ZShhbnMpOw==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">MDAwMDAxMTEKMDAwMDExMDAKMDAwMDExMTEKMTUKMDAwMDAxMTEKMDAwMDExMDAKNwowMDAwMTAwMQowMDAwMTEwMAowMDAwMTAwMQowMDAwMTEwMAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>solve</last-search>
+      <last-offset />
+      <last-pattern>solve</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>

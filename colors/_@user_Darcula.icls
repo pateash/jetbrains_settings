@@ -1,0 +1,16 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2020-10-28T17:38:14</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2020.1.0.0</property>
+    <property name="modified">2020-10-28T18:07:34</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="EDITORCONFIG_SPECIAL_SYMBOL">
+      <value>
+        <option name="BACKGROUND" value="41312d" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

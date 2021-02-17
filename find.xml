@@ -25,5 +25,6 @@
     <mask>*.ts</mask>
     <mask>!*.json</mask>
     <mask>*.cpp</mask>
+    <mask>!*.xml</mask>
   </component>
 </application>

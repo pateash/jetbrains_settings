@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping ext="avsc" type="JSON" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="scripts" type="PLAIN_TEXT" />
       <mapping pattern="part-r-00000" type="PLAIN_TEXT" />

@@ -3,6 +3,9 @@
     <account id="dce84a76-b7c4-4103-8448-91c3d21b578d" name="ashishpatel0720">
       <server host="github.com" />
     </account>
+    <account id="c7c656e8-d0b3-474f-bca2-78f76c182298" name="a0p0a59">
+      <server useHttp="false" host="gecgithub01.walmart.com" />
+    </account>
   </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="ashishpatel0720" />

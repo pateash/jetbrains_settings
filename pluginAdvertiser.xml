@@ -883,7 +883,6 @@
             <plugin>
               <option name="myPluginId" value="PythonCore" />
               <option name="myPluginName" value="Python Community Edition" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -892,7 +891,6 @@
             <plugin>
               <option name="myPluginId" value="PythonCore" />
               <option name="myPluginName" value="Python Community Edition" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -901,7 +899,6 @@
             <plugin>
               <option name="myPluginId" value="PythonCore" />
               <option name="myPluginName" value="Python Community Edition" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1178,7 +1175,6 @@
             <plugin>
               <option name="myPluginId" value="PythonCore" />
               <option name="myPluginName" value="Python Community Edition" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1589,7 +1585,6 @@
             <plugin>
               <option name="myPluginId" value="PythonCore" />
               <option name="myPluginName" value="Python Community Edition" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>

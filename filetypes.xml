@@ -12,6 +12,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="part-r-00000" type="PLAIN_TEXT" />
+      <mapping ext="scala" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="vim" type="PLAIN_TEXT" />
       <mapping ext="dbp" type="PLAIN_TEXT" />

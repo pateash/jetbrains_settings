@@ -38,10 +38,7 @@
           <root url="file:///usr/local/Cellar/scala/2.13.1/libexec/lib/scala-reflect.jar" />
         </compiler-classpath>
       </properties>
-      <CLASSES>
-        <root url="jar:///usr/local/Cellar/scala/2.13.1/libexec/lib/scala-library.jar!/" />
-        <root url="jar:///usr/local/Cellar/scala/2.13.1/libexec/lib/scala-reflect.jar!/" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC>
         <root url="https://www.scala-lang.org/api/2.13.1/" />
       </JAVADOC>

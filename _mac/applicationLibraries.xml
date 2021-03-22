@@ -1,14 +1,12 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.8 interpreter library">
+    <library name="Python 3.6 (airflow-local) interpreter library">
       <CLASSES>
-        <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8" />
-        <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/lib-dynload" />
-        <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/site-packages" />
-        <root url="file:///Library/Python/3.8/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.3/python_stubs/-2066100795" />
+        <root url="file://$USER_HOME$/opt/anaconda3/envs/airflow-local/lib/python3.6" />
+        <root url="file://$USER_HOME$/opt/anaconda3/envs/airflow-local/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/opt/anaconda3/envs/airflow-local/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.3/python_stubs/1950141620" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
@@ -16,13 +14,11 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8" />
-        <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/lib-dynload" />
-        <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/site-packages" />
-        <root url="file:///Library/Python/3.8/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.3/python_stubs/-2066100795" />
+        <root url="file://$USER_HOME$/opt/anaconda3/envs/airflow-local/lib/python3.6" />
+        <root url="file://$USER_HOME$/opt/anaconda3/envs/airflow-local/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/opt/anaconda3/envs/airflow-local/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.3/python_stubs/1950141620" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />

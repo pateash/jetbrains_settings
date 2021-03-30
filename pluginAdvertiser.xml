@@ -38,6 +38,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.aj">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.aspectj" />
+              <option name="myPluginName" value="AspectJ" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.android_data_binding">
           <value>
             <plugin>
@@ -79,15 +88,6 @@
             <plugin>
               <option name="myPluginId" value="JavaScript" />
               <option name="myPluginName" value="JavaScript and TypeScript" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.asm">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.lang" />
-              <option name="myPluginName" value="C/C++ Language Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -191,15 +191,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.java" />
               <option name="myPluginName" value="Java" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.cmake">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.clion" />
-              <option name="myPluginName" value="CLion IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -355,15 +346,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.doxygen">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.lang" />
-              <option name="myPluginName" value="C/C++ Language Support" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.dtd">
           <value>
             <plugin>
@@ -495,6 +477,42 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ft">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.velocity" />
+              <option name="myPluginName" value="Velocity" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ftl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.freemarker" />
+              <option name="myPluginName" value="FreeMarker" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ftlh">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.freemarker" />
+              <option name="myPluginName" value="FreeMarker" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ftlx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.freemarker" />
+              <option name="myPluginName" value="FreeMarker" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.fxml">
           <value>
             <plugin>
@@ -518,15 +536,6 @@
             <plugin>
               <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
               <option name="myPluginName" value=".ignore" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.gdbcommandsfiletypeextension">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.base" />
-              <option name="myPluginName" value="CIDR Base" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -646,15 +655,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.hmap">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.lang" />
-              <option name="myPluginName" value="C/C++ Language Support" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.htm">
           <value>
             <plugin>
@@ -752,15 +752,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.ioc">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.clion.embedded" />
-              <option name="myPluginName" value="com.intellij.clion.embedded" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.ipr">
           <value>
             <plugin>
@@ -811,6 +802,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.jfr">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.java" />
+              <option name="myPluginName" value="com.intellij.java" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1101,15 +1101,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.lldbcommandsfiletypeextension">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.base" />
-              <option name="myPluginName" value="CIDR Base" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.log">
           <value>
             <plugin>
@@ -1163,28 +1154,11 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.mk">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="name.kropp.intellij.makefile" />
-              <option name="myPluginName" value="Makefile support" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.mod">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.modulemap">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.lang" />
-              <option name="myPluginName" value="C/C++ Language Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1430,7 +1404,6 @@
             <plugin>
               <option name="myPluginId" value="PythonCore" />
               <option name="myPluginName" value="Python Community Edition" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1439,7 +1412,6 @@
             <plugin>
               <option name="myPluginId" value="PythonCore" />
               <option name="myPluginName" value="Python Community Edition" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1448,7 +1420,6 @@
             <plugin>
               <option name="myPluginId" value="PythonCore" />
               <option name="myPluginName" value="Python Community Edition" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1503,6 +1474,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.routes">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.scala" />
+              <option name="myPluginName" value="org.intellij.scala" />
             </plugin>
           </value>
         </entry>
@@ -1571,6 +1550,14 @@
             <plugin>
               <option name="myPluginId" value="org.intellij.scala" />
               <option name="myPluginName" value="Scala" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.scala.html">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.scala" />
+              <option name="myPluginName" value="org.intellij.scala" />
             </plugin>
           </value>
         </entry>
@@ -1877,7 +1864,6 @@
             <plugin>
               <option name="myPluginId" value="PythonCore" />
               <option name="myPluginName" value="Python Community Edition" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1898,11 +1884,29 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.vm">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.velocity" />
+              <option name="myPluginName" value="Velocity" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.vsd">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.vsl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.velocity" />
+              <option name="myPluginName" value="Velocity" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1943,6 +1947,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.wsdd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.wsdl">
           <value>
             <plugin>
@@ -1962,6 +1975,15 @@
           </value>
         </entry>
         <entry key="*.xhtml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.xjb">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -2092,24 +2114,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key=".clang-format">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
-              <option name="myPluginName" value="YAML" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key=".clang-tidy">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
-              <option name="myPluginName" value="YAML" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -2246,6 +2250,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".springBeans">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.idea.eclipse" />
+              <option name="myPluginName" value="Eclipse Interoperability" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".stylelintignore">
           <value>
             <plugin>
@@ -2269,24 +2282,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="CMakeCache.txt">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.clion" />
-              <option name="myPluginName" value="CLion IDE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="CMakeLists.txt">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.clion" />
-              <option name="myPluginName" value="CLion IDE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -2336,23 +2331,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="GNUmakefile">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="name.kropp.intellij.makefile" />
-              <option name="myPluginName" value="Makefile support" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="_clang-format">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
-              <option name="myPluginName" value="YAML" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="bowerrc">
           <value>
             <plugin>
@@ -2367,7 +2345,6 @@
             <plugin>
               <option name="myPluginId" value="PythonCore" />
               <option name="myPluginName" value="Python Community Edition" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2425,14 +2402,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="makefile">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="name.kropp.intellij.makefile" />
-              <option name="myPluginName" value="Makefile support" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="maven.config">
           <value>
             <plugin>
@@ -2474,6 +2443,32 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="routes">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.scala" />
+              <option name="myPluginName" value="org.intellij.scala" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="spring.handlers">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.properties" />
+              <option name="myPluginName" value="Properties" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="spring.schemas">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.properties" />
+              <option name="myPluginName" value="Properties" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -2578,51 +2573,6 @@
                       <FeaturePluginData displayName="BSP test" pluginName="Scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
-                  <entry key="CLionExternalRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Custom Build Application" pluginName="CLion IDE" pluginId="com.intellij.clion" />
-                    </value>
-                  </entry>
-                  <entry key="CLionNativeAppRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Makefile Application" pluginName="Makefile" pluginId="com.intellij.clion-makefile" />
-                    </value>
-                  </entry>
-                  <entry key="CLion_CoreDump">
-                    <value>
-                      <FeaturePluginData displayName="Core Dump Debug" pluginName="CLion IDE" pluginId="com.intellij.clion" />
-                    </value>
-                  </entry>
-                  <entry key="CLion_Remote">
-                    <value>
-                      <FeaturePluginData displayName="GDB Remote Debug" pluginName="CLion IDE" pluginId="com.intellij.clion" />
-                    </value>
-                  </entry>
-                  <entry key="CMakeCatchTestRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Catch" pluginName="CLion Catch" pluginId="org.jetbrains.plugins.clion.test.catch" />
-                    </value>
-                  </entry>
-                  <entry key="CMakeDoctestTestRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Doctest" pluginName="CLion Doctest" pluginId="org.jetbrains.plugins.clion.test.doctest" />
-                    </value>
-                  </entry>
-                  <entry key="CMakeGoogleTestRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Google Test" pluginName="CLion Google Testing and Mocking Framework" pluginId="org.jetbrains.plugins.clion.test.google" />
-                    </value>
-                  </entry>
-                  <entry key="CMakeRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="CMake Application" pluginName="CLion IDE" pluginId="com.intellij.clion" />
-                    </value>
-                  </entry>
-                  <entry key="CTestRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="CTest Application" pluginName="CLion CTest" pluginId="org.jetbrains.plugins.clion.ctest" />
-                    </value>
-                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
@@ -2638,6 +2588,11 @@
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
+                  <entry key="CucumberJavaRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Cucumber Java" pluginName="Cucumber for Java" pluginId="cucumber-java" />
+                    </value>
+                  </entry>
                   <entry key="DatabaseScript">
                     <value>
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
@@ -2651,11 +2606,6 @@
                   <entry key="GCPDebug">
                     <value>
                       <FeaturePluginData displayName="Google Cloud Debugger" pluginName="com.google.gct.core" pluginId="com.google.gct.core" />
-                    </value>
-                  </entry>
-                  <entry key="GradleAppRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Gradle Native Application" pluginName="com.intellij.clion-gradle" pluginId="com.intellij.clion-gradle" />
                     </value>
                   </entry>
                   <entry key="GradleRunConfiguration">
@@ -2733,11 +2683,6 @@
                       <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
-                  <entry key="MAKEFILE_TARGET_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="Makefile" pluginName="Makefile support" pluginId="name.kropp.intellij.makefile" />
-                    </value>
-                  </entry>
                   <entry key="MUnitRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="MUnit" pluginName="Scala" pluginId="org.intellij.scala" />
@@ -2766,6 +2711,11 @@
                   <entry key="PhoneGap">
                     <value>
                       <FeaturePluginData displayName="Cordova" pluginName="Cordova" pluginId="com.github.masahirosuzuka.PhoneGapIntelliJPlugin" />
+                    </value>
+                  </entry>
+                  <entry key="Play2FrameworkRunConfigurations">
+                    <value>
+                      <FeaturePluginData displayName="Play 2 App" pluginName="org.intellij.scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
                   <entry key="PythonConfigurationType">
@@ -2813,6 +2763,16 @@
                       <FeaturePluginData displayName="Specs2" pluginName="Scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
+                  <entry key="SpringBootApplicationConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Spring Boot" pluginName="Spring Boot" pluginId="com.intellij.spring.boot" />
+                    </value>
+                  </entry>
+                  <entry key="SwaggerCodegen">
+                    <value>
+                      <FeaturePluginData displayName="Swagger Codegen" pluginName="OpenAPI Specifications" pluginId="com.intellij.swagger" />
+                    </value>
+                  </entry>
                   <entry key="TSqltConfigurationType">
                     <value>
                       <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
@@ -2836,21 +2796,6 @@
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
-                    </value>
-                  </entry>
-                  <entry key="com.jetbrains.cidr.embedded.customgdbserver.type">
-                    <value>
-                      <FeaturePluginData displayName="Embedded GDB Server" pluginName="com.intellij.clion.embedded" pluginId="com.intellij.clion.embedded" />
-                    </value>
-                  </entry>
-                  <entry key="com.jetbrains.cidr.embedded.openocd.conf.type">
-                    <value>
-                      <FeaturePluginData displayName="OpenOCD Download &amp; Run" pluginName="com.intellij.clion.embedded" pluginId="com.intellij.clion.embedded" />
-                    </value>
-                  </entry>
-                  <entry key="com.jetbrains.cidr.remote.gdbserver.type">
-                    <value>
-                      <FeaturePluginData displayName="Remote GDB Server" pluginName="CLion IDE" pluginId="com.intellij.clion" />
                     </value>
                   </entry>
                   <entry key="cucumber.js">
@@ -2923,9 +2868,24 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="AspectJ">
+                    <value>
+                      <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" />
+                    </value>
+                  </entry>
                   <entry key="Python">
                     <value>
                       <FeaturePluginData displayName="Python" pluginName="PythonCore" pluginId="PythonCore" />
+                    </value>
+                  </entry>
+                  <entry key="Spring">
+                    <value>
+                      <FeaturePluginData displayName="Spring" pluginName="Spring" pluginId="com.intellij.spring" />
+                    </value>
+                  </entry>
+                  <entry key="WebServicesClient">
+                    <value>
+                      <FeaturePluginData displayName="WebServices Client" pluginName="Java EE: Web Services (JAX-WS)" pluginId="com.jetbrains.jax.ws" />
                     </value>
                   </entry>
                   <entry key="android">
@@ -2958,9 +2918,24 @@
                       <FeaturePluginData displayName="Buildout Support" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
+                  <entry key="ejb">
+                    <value>
+                      <FeaturePluginData displayName="EJB" pluginName="Java EE: Enterprise Java Beans (EJB)" pluginId="com.intellij.javaee.ejb" />
+                    </value>
+                  </entry>
                   <entry key="java-gradle">
                     <value>
                       <FeaturePluginData displayName="Java-Gradle" pluginName="Android" pluginId="org.jetbrains.android" />
+                    </value>
+                  </entry>
+                  <entry key="javaeeApplication">
+                    <value>
+                      <FeaturePluginData displayName="JavaEE Application" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                    </value>
+                  </entry>
+                  <entry key="jpa">
+                    <value>
+                      <FeaturePluginData displayName="JPA" pluginName="Java EE: Persistence (JPA)" pluginId="com.intellij.javaee.jpa" />
                     </value>
                   </entry>
                   <entry key="kotlin-language">
@@ -2971,6 +2946,16 @@
                   <entry key="native-android-gradle">
                     <value>
                       <FeaturePluginData displayName="Native-Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" />
+                    </value>
+                  </entry>
+                  <entry key="web">
+                    <value>
+                      <FeaturePluginData displayName="Web" pluginName="Java EE: Web/Servlets" pluginId="com.intellij.javaee.web" />
+                    </value>
+                  </entry>
+                  <entry key="webservices">
+                    <value>
+                      <FeaturePluginData displayName="WebServices" pluginName="Java EE: Web Services (JAX-WS)" pluginId="com.jetbrains.jax.ws" />
                     </value>
                   </entry>
                 </map>
@@ -2986,6 +2971,31 @@
                   <entry key="apk">
                     <value>
                       <FeaturePluginData displayName="Android application" pluginName="Android" pluginId="org.jetbrains.android" />
+                    </value>
+                  </entry>
+                  <entry key="ear">
+                    <value>
+                      <FeaturePluginData displayName="JavaEE Application: Archive" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                    </value>
+                  </entry>
+                  <entry key="ejb-jar">
+                    <value>
+                      <FeaturePluginData displayName="EJB Application: Archive" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                    </value>
+                  </entry>
+                  <entry key="exploded-ear">
+                    <value>
+                      <FeaturePluginData displayName="JavaEE Application: Exploded" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                    </value>
+                  </entry>
+                  <entry key="exploded-ejb">
+                    <value>
+                      <FeaturePluginData displayName="EJB Application: Exploded" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                    </value>
+                  </entry>
+                  <entry key="exploded-war">
+                    <value>
+                      <FeaturePluginData displayName="Web Application: Exploded" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
                     </value>
                   </entry>
                   <entry key="jar">
@@ -3006,6 +3016,11 @@
                   <entry key="plain">
                     <value>
                       <FeaturePluginData displayName="Other" pluginName="Java" pluginId="com.intellij.java" />
+                    </value>
+                  </entry>
+                  <entry key="war">
+                    <value>
+                      <FeaturePluginData displayName="Web Application: Archive" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
                     </value>
                   </entry>
                 </map>

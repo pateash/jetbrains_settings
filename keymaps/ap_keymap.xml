@@ -356,7 +356,6 @@
   <action id="QuickActionPopup" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="alt enter" />
-    <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="QuickImplementations" />
   <action id="RecentChangedFiles">

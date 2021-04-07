@@ -125,7 +125,7 @@
   </action>
   <action id="CompareTwoFiles">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
-    <keyboard-shortcut first-keystroke="shift meta d" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="Console.Execute" />
   <action id="Console.Execute.Multiline" />
@@ -312,12 +312,6 @@
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="Jdbc.OpenEditor.DDL" />
-  <action id="JupyterSelectCellAboveAction">
-    <keyboard-shortcut first-keystroke="alt up" />
-  </action>
-  <action id="JupyterSelectCellBelowAction">
-    <keyboard-shortcut first-keystroke="alt down" />
-  </action>
   <action id="LombokActionGroup">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
@@ -362,7 +356,6 @@
   <action id="QuickActionPopup" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="alt enter" />
-    <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="QuickImplementations" />
   <action id="RecentChangedFiles">
@@ -398,6 +391,10 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
     <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="Scala.ExpandImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
@@ -471,6 +468,17 @@
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Terminal.Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="Terminal.SmartCommandExecution.Run" />
   <action id="ToggleBookmark3" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl meta f" />
@@ -496,6 +504,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
   <action id="context.load" />
+  <action id="hg4idea.QFold" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
   <action id="tasks.and.contexts">
     <keyboard-shortcut first-keystroke="meta alt i" />

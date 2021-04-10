@@ -1,0 +1,44 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.6 (airflow-local) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/opt/anaconda3/envs/airflow-local/lib/python3.6" />
+        <root url="file://$USER_HOME$/opt/anaconda3/envs/airflow-local/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/opt/anaconda3/envs/airflow-local/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.3/python_stubs/1950141620" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/opt/anaconda3/envs/airflow-local/lib/python3.6" />
+        <root url="file://$USER_HOME$/opt/anaconda3/envs/airflow-local/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/opt/anaconda3/envs/airflow-local/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.3/python_stubs/1950141620" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="scala-sdk-2.13.1" type="Scala">
+      <properties>
+        <language-level>Scala_2_13</language-level>
+        <compiler-classpath>
+          <root url="file:///usr/local/Cellar/scala/2.13.1/libexec/lib/scala-library.jar" />
+          <root url="file:///usr/local/Cellar/scala/2.13.1/libexec/lib/scala-compiler.jar" />
+          <root url="file:///usr/local/Cellar/scala/2.13.1/libexec/lib/scala-reflect.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES />
+      <JAVADOC>
+        <root url="https://www.scala-lang.org/api/2.13.1/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+  </component>
+</application>

@@ -1,0 +1,33 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sh" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*s.vim</mask>
+    <mask>pom.xml</mask>
+    <mask>*.js</mask>
+    <mask>*.vue</mask>
+    <mask>*test.ts</mask>
+    <mask>*.test.ts</mask>
+    <mask>*.php</mask>
+    <mask>*.h</mask>
+    <mask>!*.dart</mask>
+    <mask>*.ts</mask>
+    <mask>!*.json</mask>
+    <mask>*.cpp</mask>
+    <mask>!*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.py</mask>
+    <mask>*.sh</mask>
+  </component>
+</application>

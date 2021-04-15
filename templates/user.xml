@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="defalakfjd" value="user default" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,10 @@
+<templateSet group="Python">
+  <template name="f" value="def $NAME$($ARG$):&#10;    $BODY$&#10;$END$&#10;    &#10;" description="basic function" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARG" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="td" value="    #TODO: $MESSAGE$&#10;$END$" description="add todo" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

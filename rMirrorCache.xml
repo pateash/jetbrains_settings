@@ -1,0 +1,401 @@
+<application>
+  <component name="RMirrorCache">
+    <option name="lastUpdate" value="1579204367751" />
+    <option name="mirrors">
+      <list>
+        <RSerializableMirror>
+          <option name="name" value="0-Cloud" />
+          <option name="url" value="https://cloud.r-project.org/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Algeria" />
+          <option name="url" value="https://cran.usthb.dz/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Argentina (La Plata)" />
+          <option name="url" value="http://mirror.fcaglp.unlp.edu.ar/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Australia (Canberra)" />
+          <option name="url" value="https://cran.csiro.au/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Australia (Melbourne 1)" />
+          <option name="url" value="https://mirror.aarnet.edu.au/pub/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Australia (Melbourne 2)" />
+          <option name="url" value="https://cran.ms.unimelb.edu.au/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Australia (Perth)" />
+          <option name="url" value="https://cran.curtin.edu.au/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Austria" />
+          <option name="url" value="https://cran.wu.ac.at/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Belgium (Antwerp)" />
+          <option name="url" value="https://www.freestatistics.org/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Belgium (Ghent)" />
+          <option name="url" value="https://lib.ugent.be/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Brazil (BA)" />
+          <option name="url" value="https://nbcgib.uesc.br/mirrors/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Brazil (PR)" />
+          <option name="url" value="https://cran-r.c3sl.ufpr.br/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Brazil (RJ)" />
+          <option name="url" value="https://cran.fiocruz.br/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Brazil (SP 1)" />
+          <option name="url" value="https://vps.fmvz.usp.br/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Brazil (SP 2)" />
+          <option name="url" value="https://brieger.esalq.usp.br/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Bulgaria" />
+          <option name="url" value="https://ftp.uni-sofia.bg/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Canada (BC)" />
+          <option name="url" value="https://mirror.its.sfu.ca/mirror/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Canada (MB)" />
+          <option name="url" value="https://muug.ca/mirror/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Canada (NS)" />
+          <option name="url" value="https://mirror.its.dal.ca/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Canada (ON)" />
+          <option name="url" value="http://cran.utstat.utoronto.ca/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Chile (Santiago)" />
+          <option name="url" value="https://cran.dcc.uchile.cl/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Chile (Temuco)" />
+          <option name="url" value="https://cran.dme.ufro.cl/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="China (Beijing)" />
+          <option name="url" value="https://mirrors.tuna.tsinghua.edu.cn/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="China (Hefei)" />
+          <option name="url" value="https://mirrors.ustc.edu.cn/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="China (Hong Kong)" />
+          <option name="url" value="https://mirror-hk.koddos.net/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="China (Guangzhou)" />
+          <option name="url" value="https://mirrors.e-ducation.cn/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="China (Lanzhou)" />
+          <option name="url" value="https://mirror.lzu.edu.cn/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="China (Shanghai)" />
+          <option name="url" value="https://mirrors.tongji.edu.cn/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Colombia (Cali)" />
+          <option name="url" value="https://www.icesi.edu.co/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Czech Republic" />
+          <option name="url" value="https://mirrors.nic.cz/R/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Denmark" />
+          <option name="url" value="https://mirrors.dotsrc.org/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="East Asia" />
+          <option name="url" value="https://cran.asia/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Ecuador (Cuenca)" />
+          <option name="url" value="https://mirror.cedia.org.ec/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Ecuador (Quito)" />
+          <option name="url" value="https://mirror.epn.edu.ec/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="El Salvador" />
+          <option name="url" value="http://cran.salud.gob.sv/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Estonia" />
+          <option name="url" value="https://ftp.eenet.ee/pub/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="France (Lyon 1)" />
+          <option name="url" value="https://pbil.univ-lyon1.fr/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="France (Lyon 2)" />
+          <option name="url" value="https://mirror.ibcp.fr/pub/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="France (Marseille)" />
+          <option name="url" value="https://cran.biotools.fr/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="France (Montpellier)" />
+          <option name="url" value="https://ftp.igh.cnrs.fr/pub/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="France (Paris 1)" />
+          <option name="url" value="http://cran.irsn.fr/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Germany (Erlangen)" />
+          <option name="url" value="https://ftp.fau.de/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Germany (Göttingen)" />
+          <option name="url" value="https://ftp.gwdg.de/pub/misc/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Germany (Münster)" />
+          <option name="url" value="https://cran.uni-muenster.de/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Germany (Regensburg)" />
+          <option name="url" value="https://packages.othr.de/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Greece" />
+          <option name="url" value="https://ftp.cc.uoc.gr/mirrors/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Hungary" />
+          <option name="url" value="https://cran.rapporter.net/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Iceland" />
+          <option name="url" value="https://cran.hafro.is/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Indonesia (Jakarta)" />
+          <option name="url" value="https://repo.bppt.go.id/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Iran" />
+          <option name="url" value="https://cran.um.ac.ir/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Ireland" />
+          <option name="url" value="https://ftp.heanet.ie/mirrors/cran.r-project.org/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Italy (Milano)" />
+          <option name="url" value="http://cran.mirror.garr.it/mirrors/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Italy (Padua)" />
+          <option name="url" value="https://cran.stat.unipd.it/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Japan (Tokyo)" />
+          <option name="url" value="https://cran.ism.ac.jp/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Japan (Yonezawa)" />
+          <option name="url" value="https://ftp.yz.yamagata-u.ac.jp/pub/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Korea (Busan)" />
+          <option name="url" value="https://ftp.harukasan.org/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Korea (Gyeongsan-si)" />
+          <option name="url" value="https://cran.yu.ac.kr/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Korea (Seoul 1)" />
+          <option name="url" value="https://cran.seoul.go.kr/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Korea (Seoul 2)" />
+          <option name="url" value="http://healthstat.snu.ac.kr/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Korea (Ulsan)" />
+          <option name="url" value="https://cran.biodisk.org/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Malaysia" />
+          <option name="url" value="https://wbc.upm.edu.my/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Mexico (Mexico City)" />
+          <option name="url" value="https://cran.itam.mx/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Mexico (Texcoco)" />
+          <option name="url" value="http://www.est.colpos.mx/R-mirror/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Morocco" />
+          <option name="url" value="https://mirror.marwan.ma/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="New Zealand" />
+          <option name="url" value="https://cran.stat.auckland.ac.nz/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Norway" />
+          <option name="url" value="https://cran.uib.no/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Philippines" />
+          <option name="url" value="https://cran.stat.upd.edu.ph/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Portugal (Lisbon)" />
+          <option name="url" value="http://cran.radicaldevelop.com/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Portugal (Porto)" />
+          <option name="url" value="http://cran.dcc.fc.up.pt/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Russia" />
+          <option name="url" value="https://cran.cmm.msu.ru/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Singapore (Singapore)" />
+          <option name="url" value="https://cran.stat.nus.edu.sg/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="South Africa (Cape Town)" />
+          <option name="url" value="http://r.adu.org.za/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="South Africa (Johannesburg)" />
+          <option name="url" value="http://cran.mirror.ac.za/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Spain (Madrid)" />
+          <option name="url" value="https://cran.rediris.es/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Sweden" />
+          <option name="url" value="https://ftp.acc.umu.se/mirror/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Switzerland" />
+          <option name="url" value="https://stat.ethz.ch/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Taiwan (Chungli)" />
+          <option name="url" value="https://ftp.yzu.edu.tw/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Taiwan (Taipei)" />
+          <option name="url" value="http://cran.csie.ntu.edu.tw/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Thailand" />
+          <option name="url" value="http://mirrors.psu.ac.th/pub/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Turkey (Denizli)" />
+          <option name="url" value="https://cran.pau.edu.tr/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Turkey (Mersin)" />
+          <option name="url" value="https://cran.ncc.metu.edu.tr/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="UK (Bristol)" />
+          <option name="url" value="https://www.stats.bris.ac.uk/R/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="UK (London 1)" />
+          <option name="url" value="https://cran.ma.imperial.ac.uk/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="USA (CA)" />
+          <option name="url" value="https://cran.cnr.berkeley.edu/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="USA (IA)" />
+          <option name="url" value="https://mirror.las.iastate.edu/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="USA (IN)" />
+          <option name="url" value="https://ftp.ussg.iu.edu/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="USA (KS)" />
+          <option name="url" value="https://rweb.crmda.ku.edu/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="USA (MI 1)" />
+          <option name="url" value="https://cran.mtu.edu/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="USA (MI 2)" />
+          <option name="url" value="https://repo.miserver.it.umich.edu/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="USA (MO)" />
+          <option name="url" value="http://cran.wustl.edu/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="USA (NC)" />
+          <option name="url" value="http://archive.linux.duke.edu/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="USA (OH)" />
+          <option name="url" value="https://cran.case.edu/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="USA (OR)" />
+          <option name="url" value="https://ftp.osuosl.org/pub/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="USA (PA 1)" />
+          <option name="url" value="http://lib.stat.cmu.edu/R/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="USA (PA 2)" />
+          <option name="url" value="http://cran.mirrors.hoobly.com/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="USA (TN)" />
+          <option name="url" value="https://mirrors.nics.utk.edu/cran/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="USA (TX 1)" />
+          <option name="url" value="https://cran.revolutionanalytics.com/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Uruguay" />
+          <option name="url" value="https://espejito.fder.edu.uy/cran/" />
+        </RSerializableMirror>
+      </list>
+    </option>
+  </component>
+</application>

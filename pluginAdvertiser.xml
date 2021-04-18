@@ -34,7 +34,7 @@
                   </entry>
                   <entry key="Application">
                     <value>
-                      <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
+                      <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="BSP_TEST_RUN_CONFIGURATION">
@@ -112,6 +112,16 @@
                       <FeaturePluginData displayName="Cucumber Java" pluginName="Cucumber for Java" pluginId="cucumber-java" />
                     </value>
                   </entry>
+                  <entry key="DBNMethodRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="DB Method" pluginName="Database Navigator" pluginId="DBN" />
+                    </value>
+                  </entry>
+                  <entry key="DBNStatementRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="DB Statement" pluginName="Database Navigator" pluginId="DBN" />
+                    </value>
+                  </entry>
                   <entry key="DatabaseScript">
                     <value>
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
@@ -149,17 +159,17 @@
                   </entry>
                   <entry key="JUnit">
                     <value>
-                      <FeaturePluginData displayName="JUnit" pluginName="JUnit" pluginId="JUnit" />
+                      <FeaturePluginData displayName="JUnit" pluginName="JUnit" pluginId="JUnit" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JarApplication">
                     <value>
-                      <FeaturePluginData displayName="JAR Application" pluginName="Java" pluginId="com.intellij.java" />
+                      <FeaturePluginData displayName="JAR Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="Java Scratch">
                     <value>
-                      <FeaturePluginData displayName="Java Scratch" pluginName="Java" pluginId="com.intellij.java" />
+                      <FeaturePluginData displayName="Java Scratch" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JavaScriptNodeJsTraceType">
@@ -219,7 +229,7 @@
                   </entry>
                   <entry key="MavenRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" />
+                      <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" bundled="true" />
                     </value>
                   </entry>
                   <entry key="NodeJSConfigurationType">
@@ -249,7 +259,7 @@
                   </entry>
                   <entry key="PythonConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
+                      <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="ReactNative">
@@ -259,7 +269,7 @@
                   </entry>
                   <entry key="Remote">
                     <value>
-                      <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" />
+                      <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="SbtRunConfiguration">
@@ -285,6 +295,11 @@
                   <entry key="ShConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="SpaceRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Space Task" pluginName="Space" pluginId="com.jetbrains.space" bundled="true" />
                     </value>
                   </entry>
                   <entry key="Specs2RunConfiguration">
@@ -314,7 +329,7 @@
                   </entry>
                   <entry key="Tox">
                     <value>
-                      <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
+                      <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
@@ -349,12 +364,12 @@
                   </entry>
                   <entry key="docker-deploy">
                     <value>
-                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
+                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
                   <entry key="docs">
                     <value>
-                      <FeaturePluginData displayName="Python docs" pluginName="PythonCore" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="Python docs" pluginName="PythonCore" pluginId="PythonCore" bundled="true" />
                     </value>
                   </entry>
                   <entry key="gcp-app-engine-deploy">
@@ -394,7 +409,7 @@
                   </entry>
                   <entry key="tests">
                     <value>
-                      <FeaturePluginData displayName="Python tests" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
+                      <FeaturePluginData displayName="Python tests" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="uTestRunConfiguration">
@@ -419,7 +434,7 @@
                   </entry>
                   <entry key="Python">
                     <value>
-                      <FeaturePluginData displayName="Python" pluginName="PythonCore" pluginId="PythonCore" bundled="true" />
+                      <FeaturePluginData displayName="Python" pluginName="PythonCore" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="Spring">
@@ -459,7 +474,7 @@
                   </entry>
                   <entry key="buildout-python">
                     <value>
-                      <FeaturePluginData displayName="Buildout Support" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
+                      <FeaturePluginData displayName="Buildout Support" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="ejb">
@@ -544,7 +559,7 @@
                   </entry>
                   <entry key="jar">
                     <value>
-                      <FeaturePluginData displayName="JAR" pluginName="Java" pluginId="com.intellij.java" />
+                      <FeaturePluginData displayName="JAR" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="javafx">
@@ -559,7 +574,7 @@
                   </entry>
                   <entry key="plain">
                     <value>
-                      <FeaturePluginData displayName="Other" pluginName="Java" pluginId="com.intellij.java" />
+                      <FeaturePluginData displayName="Other" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="war">

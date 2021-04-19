@@ -259,7 +259,7 @@
                   </entry>
                   <entry key="PythonConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ReactNative">
@@ -329,7 +329,7 @@
                   </entry>
                   <entry key="Tox">
                     <value>
-                      <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
@@ -409,7 +409,7 @@
                   </entry>
                   <entry key="tests">
                     <value>
-                      <FeaturePluginData displayName="Python tests" pluginName="Python Community Edition" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="Python tests" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
                     </value>
                   </entry>
                   <entry key="uTestRunConfiguration">
@@ -434,7 +434,7 @@
                   </entry>
                   <entry key="Python">
                     <value>
-                      <FeaturePluginData displayName="Python" pluginName="PythonCore" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="Python" pluginName="PythonCore" pluginId="PythonCore" bundled="true" />
                     </value>
                   </entry>
                   <entry key="Spring">
@@ -474,7 +474,7 @@
                   </entry>
                   <entry key="buildout-python">
                     <value>
-                      <FeaturePluginData displayName="Buildout Support" pluginName="Python Community Edition" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="Buildout Support" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ejb">

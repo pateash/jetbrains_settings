@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="gdc_ib_actuals_summary" type="AUTO_DETECTED" />
+      <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping pattern="test1" type="AUTO_DETECTED" />
       <mapping pattern="test2" type="AUTO_DETECTED" />
       <mapping ext="avsc" type="JSON" />

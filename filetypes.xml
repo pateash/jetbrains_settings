@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="gdc_ib_actuals_summary" type="AUTO_DETECTED" />
+      <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping pattern="test1" type="AUTO_DETECTED" />
       <mapping pattern="test2" type="AUTO_DETECTED" />
       <mapping ext="avsc" type="JSON" />
@@ -16,6 +18,7 @@
       <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="vim" type="PLAIN_TEXT" />
       <mapping ext="dbp" type="PLAIN_TEXT" />
+      <mapping ext="hsql" type="SQL" />
       <mapping pattern=".ideavimrc" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />

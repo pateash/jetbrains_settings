@@ -3,12 +3,14 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.properties</mask>
-    <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -27,9 +29,10 @@
     <mask>*.cpp</mask>
     <mask>!*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.py</mask>
     <mask>*.xml</mask>
     <mask>*.sh</mask>
     <mask>!*.log</mask>
-    <mask>*.py</mask>
+    <mask>*.html</mask>
   </component>
 </application>

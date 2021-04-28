@@ -20,6 +20,8 @@
       <mapping ext="dbp" type="PLAIN_TEXT" />
       <mapping ext="hsql" type="SQL" />
       <mapping pattern=".ideavimrc" type="Shell Script" />
+      <mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yml" type="YAML_EX" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="chm" approved="true" type="Native" />
@@ -32,6 +34,7 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="vim" approved="true" type="Bash" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitignore_global" type="Git file" />

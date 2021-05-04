@@ -20,8 +20,8 @@
       <mapping ext="dbp" type="PLAIN_TEXT" />
       <mapping ext="hsql" type="SQL" />
       <mapping pattern=".ideavimrc" type="Shell Script" />
-      <removed_mapping ext="yml" type="YAML" />
-      <mapping ext="yml" type="YAML_EX" />
+      <mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yml" type="YAML_EX" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="chm" approved="true" type="Native" />

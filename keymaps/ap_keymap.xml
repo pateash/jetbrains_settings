@@ -143,6 +143,10 @@
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="CopyElement" />
+  <action id="DBNavigator.Actions.Execute">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="meta 5" />

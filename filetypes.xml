@@ -1,42 +1,49 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="gdc_ib_actuals_summary" type="AUTO_DETECTED" />
-      <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
-      <mapping pattern="test1" type="AUTO_DETECTED" />
-      <mapping pattern="test2" type="AUTO_DETECTED" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <mapping ext="webp" type="Image" />
       <mapping ext="avsc" type="JSON" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <removed_mapping ext="chm" approved="true" type="Native" />
       <mapping pattern="scripts" type="PLAIN_TEXT" />
-      <mapping pattern="syntastic.vim" type="PLAIN_TEXT" />
       <mapping pattern=".part-r-00000.crc" type="PLAIN_TEXT" />
-      <mapping pattern="_redirects" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="_redirects" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="part-r-00000" type="PLAIN_TEXT" />
+      <mapping pattern="syntastic.vim" type="PLAIN_TEXT" />
       <mapping ext="hql" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
-      <mapping ext="vim" type="PLAIN_TEXT" />
       <mapping ext="dbp" type="PLAIN_TEXT" />
+      <mapping ext="vim" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="hsql" type="SQL" />
       <mapping pattern=".ideavimrc" type="Shell Script" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="chm" approved="true" type="Native" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="pl" approved="true" type="textmate" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping ext="vim" approved="true" type="Bash" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="chm" approved="true" type="Native" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="vim" approved="true" type="Bash" />
+      <removed_mapping ext="pl" approved="true" type="textmate" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
+      <mapping pattern="gdc_ib_actuals_summary" type="AUTO_DETECTED" />
+      <mapping pattern="test1" type="AUTO_DETECTED" />
+      <mapping pattern="test2" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>

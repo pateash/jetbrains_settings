@@ -107,6 +107,11 @@
                       <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
+                  <entry key="docker-deploy">
+                    <value>
+                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="docs">
                     <value>
                       <FeaturePluginData displayName="Python docs" pluginName="PythonCore" pluginId="PythonCore" />

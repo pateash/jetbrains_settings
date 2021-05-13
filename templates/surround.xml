@@ -2,7 +2,6 @@
   <template name="B" value="{$SELECTION$}" shortcut="NONE" description="Surround with {}" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="JSP" value="false" />
     </context>
   </template>
 </templateSet>

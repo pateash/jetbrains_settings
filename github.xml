@@ -1,6 +1,9 @@
 <application>
   <component name="GithubAccounts">
-    <account id="dce84a76-b7c4-4103-8448-91c3d21b578d" name="ashishpatel0720">
+    <account id="c7c656e8-d0b3-474f-bca2-78f76c182298" name="a0p0a59">
+      <server useHttp="false" host="gecgithub01.walmart.com" />
+    </account>
+    <account id="9fdc8356-a911-4205-b845-33a75c43c12e" name="pateash">
       <server host="github.com" />
     </account>
   </component>

@@ -4,13 +4,11 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
-    <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*s.vim</mask>
-    <mask>pom.xml</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*test.ts</mask>
@@ -23,9 +21,11 @@
     <mask>*.cpp</mask>
     <mask>!*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.py</mask>
     <mask>*.xml</mask>
     <mask>*.sh</mask>
     <mask>!*.log</mask>
+    <mask>*.html</mask>
+    <mask>*.py</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>

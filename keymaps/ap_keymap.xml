@@ -508,6 +508,9 @@
   </action>
   <action id="context.load" />
   <action id="hg4idea.QFold" />
+  <action id="nl.deschepers.laraveltinker.action.RunConsoleAction">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
   <action id="tasks.and.contexts">
     <keyboard-shortcut first-keystroke="meta alt i" />

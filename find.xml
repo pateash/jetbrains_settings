@@ -10,10 +10,8 @@
     <mask>*.mxml</mask>
     <mask>*s.vim</mask>
     <mask>*.js</mask>
-    <mask>*.vue</mask>
     <mask>*test.ts</mask>
     <mask>*.test.ts</mask>
-    <mask>*.php</mask>
     <mask>*.h</mask>
     <mask>!*.dart</mask>
     <mask>*.ts</mask>
@@ -29,5 +27,7 @@
     <mask>pom.xml</mask>
     <mask>*.hql</mask>
     <mask>*config</mask>
+    <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>

@@ -7,6 +7,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="ApexOfflineDebuggerConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Apex Offline Debugger" pluginName="Illuminated Cloud 2" pluginId="com.illuminatedcloud2.intellij" />
+                    </value>
+                  </entry>
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
@@ -50,6 +55,26 @@
                   <entry key="DatabaseScript">
                     <value>
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
+                  <entry key="ErlangApplicationRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Erlang Application" pluginName="Erlang" pluginId="org.jetbrains.erlang" />
+                    </value>
+                  </entry>
+                  <entry key="ErlangConsoleRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Erlang Console" pluginName="Erlang" pluginId="org.jetbrains.erlang" />
+                    </value>
+                  </entry>
+                  <entry key="ErlangRemoteDebugRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Erlang Remote Node" pluginName="Erlang" pluginId="org.jetbrains.erlang" />
+                    </value>
+                  </entry>
+                  <entry key="ErlangUnitRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Erlang Eunit" pluginName="Erlang" pluginId="org.jetbrains.erlang" />
                     </value>
                   </entry>
                   <entry key="FirefoxRemoteDebugType">
@@ -197,6 +222,16 @@
                       <FeaturePluginData displayName="React Native" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
+                  <entry key="RebarEunitRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Erlang Rebar Eunit" pluginName="Erlang" pluginId="org.jetbrains.erlang" />
+                    </value>
+                  </entry>
+                  <entry key="RebarRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Erlang Rebar" pluginName="Erlang" pluginId="org.jetbrains.erlang" />
+                    </value>
+                  </entry>
                   <entry key="Remote">
                     <value>
                       <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
@@ -255,6 +290,11 @@
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
+                    </value>
+                  </entry>
+                  <entry key="com.illuminatedcloud.intellij">
+                    <value>
+                      <FeaturePluginData displayName="Apex Unit Tests" pluginName="Illuminated Cloud 2" pluginId="com.illuminatedcloud2.intellij" />
                     </value>
                   </entry>
                   <entry key="cucumber.js">
@@ -317,6 +357,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="IlluminatedCloud">
+                    <value>
+                      <FeaturePluginData displayName="Illuminated Cloud" pluginName="Illuminated Cloud 2" pluginId="com.illuminatedcloud2.intellij" />
+                    </value>
+                  </entry>
                   <entry key="Python">
                     <value>
                       <FeaturePluginData displayName="Python" pluginName="PythonCore" pluginId="PythonCore" />

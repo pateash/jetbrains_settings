@@ -5,6 +5,8 @@
       <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping pattern="test1" type="AUTO_DETECTED" />
       <mapping pattern="test2" type="AUTO_DETECTED" />
+      <mapping ext="gradle" type="Groovy" />
+      <mapping ext="gant" type="Groovy" />
       <mapping ext="avsc" type="JSON" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="scripts" type="PLAIN_TEXT" />

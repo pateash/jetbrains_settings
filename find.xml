@@ -19,7 +19,6 @@
     <mask>*.cpp</mask>
     <mask>!*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.sh</mask>
     <mask>!*.log</mask>
     <mask>*.html</mask>
@@ -29,5 +28,6 @@
     <mask>*config</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

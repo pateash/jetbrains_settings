@@ -1,13 +1,11 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.9 (ip-workflows) interpreter library">
+    <library name="Python 3.8 (ip-etl-us) interpreter library">
       <CLASSES>
-        <root url="file:///usr/local/Cellar/python@3.9/3.9.5/Frameworks/Python.framework/Versions/3.9/lib/python3.9" />
-        <root url="file:///usr/local/Cellar/python@3.9/3.9.5/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" />
-        <root url="file://$USER_HOME$/Desktop/ip-workflows/venv/lib/python3.9/site-packages" />
-        <root url="file:///usr/local/lib/python3.9/site-packages" />
-        <root url="file:///usr/local/Cellar/protobuf/3.15.8/libexec/lib/python3.9/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2021.1/python_stubs/879493885" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.8.5/lib/python3.8" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.8.5/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.8.5/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2021.1/python_stubs/-564044871" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/jwt" />
@@ -52,12 +50,10 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/Cellar/python@3.9/3.9.5/Frameworks/Python.framework/Versions/3.9/lib/python3.9" />
-        <root url="file:///usr/local/Cellar/python@3.9/3.9.5/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" />
-        <root url="file://$USER_HOME$/Desktop/ip-workflows/venv/lib/python3.9/site-packages" />
-        <root url="file:///usr/local/lib/python3.9/site-packages" />
-        <root url="file:///usr/local/Cellar/protobuf/3.15.8/libexec/lib/python3.9/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2021.1/python_stubs/879493885" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.8.5/lib/python3.8" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.8.5/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.8.5/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2021.1/python_stubs/-564044871" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/jwt" />

@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -13,7 +13,6 @@
     <mask>*.js</mask>
     <mask>*test.ts</mask>
     <mask>*.test.ts</mask>
-    <mask>*.php</mask>
     <mask>*.h</mask>
     <mask>!*.dart</mask>
     <mask>*.ts</mask>
@@ -21,14 +20,15 @@
     <mask>*.cpp</mask>
     <mask>!*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.sh</mask>
     <mask>!*.log</mask>
     <mask>*.html</mask>
-    <mask>*.py</mask>
     <mask>pom.xml</mask>
     <mask>*.hql</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
+    <mask>*.xml</mask>
+    <mask>*.py</mask>
   </component>
 </application>

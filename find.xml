@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'spark-gradle-template'" />
-    <option name="defaultScopeName" value="Project 'spark-gradle-template'" />
-    <option name="SEARCH_SCOPE" value="Project 'spark-gradle-template'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>

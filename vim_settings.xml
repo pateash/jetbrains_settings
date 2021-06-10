@@ -14,13 +14,13 @@
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFA=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed OPEN_BRACKET</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIE9QRU5fQlJBQ0tFVA==</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFE=</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -102,7 +102,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="7" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />

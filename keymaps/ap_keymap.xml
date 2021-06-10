@@ -143,6 +143,10 @@
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="CopyElement" />
+  <action id="DBNavigator.Actions.Execute">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="meta 5" />
@@ -304,6 +308,9 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Images.ShowThumbnails" />
   <action id="Images.Thumbnails.EnterAction" />
   <action id="ImplementMethods" />
@@ -388,10 +395,6 @@
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
-  <action id="SaveAll">
-    <keyboard-shortcut first-keystroke="ctrl s" />
-    <keyboard-shortcut first-keystroke="meta s" />
-  </action>
   <action id="Scala.ExpandImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
@@ -409,6 +412,10 @@
   <action id="ScrollTreeToCenter" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+    <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog">
     <keyboard-shortcut first-keystroke="meta alt u" />
@@ -445,7 +452,7 @@
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="StringManipulation.Group.Main">
-    <keyboard-shortcut first-keystroke="alt c" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="SurroundWith" />
   <action id="SurroundWithEmmet">
@@ -505,6 +512,9 @@
   </action>
   <action id="context.load" />
   <action id="hg4idea.QFold" />
+  <action id="nl.deschepers.laraveltinker.action.RunConsoleAction">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
   <action id="tasks.and.contexts">
     <keyboard-shortcut first-keystroke="meta alt i" />

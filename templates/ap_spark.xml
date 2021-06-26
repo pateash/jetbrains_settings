@@ -10,7 +10,7 @@
       <option name="SCALA" value="true" />
     </context>
   </template>
-  <template name="sst_write" value="    val query = linesAgg.writeStream&#10;      .outputMode(&quot;complete&quot;)&#10;      .format(&quot;console&quot;)&#10;      .start()&#10;      &#10;    query.awaitTermination()&#10;" description="Spark Streaming WriteStream" toReformat="false" toShortenFQNames="true">
+  <template name="sst_write" value="    val query = lines.writeStream&#10;      .outputMode(&quot;update&quot;)&#10;      .format(&quot;console&quot;)&#10;      .start()&#10;      &#10;    query.awaitTermination()&#10;" description="Spark Streaming WriteStream" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="SCALA" value="true" />
     </context>

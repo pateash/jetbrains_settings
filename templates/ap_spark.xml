@@ -1,0 +1,8 @@
+<templateSet group="ap_spark">
+  <template name="sparksession" value="val spark: org.apache.spark.sql.SparkSession = org.apache.spark.sql.SparkSession.builder()&#10;                            .appName(&quot;$APP_NAME$&quot;)&#10;                            .master(&quot;local[*]&quot;)&#10;                            .config(&quot;option&quot;, &quot;some-value&quot;)&#10;                            .getOrCreate()" description="Creating spark session" toReformat="true" toShortenFQNames="true">
+    <variable name="APP_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+</templateSet>

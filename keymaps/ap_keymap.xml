@@ -487,6 +487,9 @@
   </action>
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="ToggleBookmark3" />
+  <action id="ToggleCompletionHintsAction">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl meta f" />
   </action>

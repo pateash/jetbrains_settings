@@ -8,11 +8,11 @@
       <mapping ext="avsc" type="JSON" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="scripts" type="PLAIN_TEXT" />
-      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="syntastic.vim" type="PLAIN_TEXT" />
       <mapping pattern=".part-r-00000.crc" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="part-r-00000" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
@@ -21,7 +21,9 @@
       <mapping pattern="ddls_manual_update.hql" type="SQL" />
       <mapping ext="hsql" type="SQL" />
       <mapping ext="hql" type="SQL" />
+      <mapping pattern=".ideavimrc" type="Shell Script" />
       <mapping pattern="docker-compose.override.yml" type="YAML" />
+      <removed_mapping ext="yml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="chm" approved="true" type="Native" />
@@ -44,7 +46,6 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern=".ideavimrc" type="Shell Script" />
     </extensionMap>
   </component>
 </application>

@@ -31,6 +31,6 @@
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.py</mask>
-    <mask>*.vim</mask>
+    <mask>*.json</mask>
   </component>
 </application>

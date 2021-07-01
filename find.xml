@@ -30,7 +30,7 @@
     <mask>*.vue</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
-    <mask>*.py</mask>
     <mask>*.json</mask>
+    <mask>*.py</mask>
   </component>
 </application>

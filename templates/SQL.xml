@@ -2,6 +2,7 @@
   <template name="ins" value="insert into $table$ ($columns$) values ($END$);" description="insert rows into a table" toReformat="true" toShortenFQNames="false">
     <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="columns" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="sel" value="select * from $table$$END$;" description="select all rows from a table" toReformat="true" toShortenFQNames="false">
     <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />

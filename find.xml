@@ -29,8 +29,8 @@
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
-    <mask>*.py</mask>
     <mask>*.txt</mask>
     <mask>!*.txt</mask>
+    <mask>*.py</mask>
   </component>
 </application>

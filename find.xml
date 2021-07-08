@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cfg" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -30,7 +30,7 @@
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
-    <mask>*.py</mask>
     <mask>*.cfg</mask>
+    <mask>*.py</mask>
   </component>
 </application>

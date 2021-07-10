@@ -31,7 +31,7 @@
     <mask>*.json</mask>
     <mask>*.txt</mask>
     <mask>!*.txt</mask>
-    <mask>*.py</mask>
     <mask>*.cfg</mask>
+    <mask>*.py</mask>
   </component>
 </application>

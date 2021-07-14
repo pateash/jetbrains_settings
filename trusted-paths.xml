@@ -2,6 +2,7 @@
   <component name="Trusted.Paths.Settings">
     <option name="TRUSTED_PATHS">
       <list>
+        <option value="$USER_HOME$/Desktop/ip-all" />
         <option value="$USER_HOME$/dev" />
       </list>
     </option>

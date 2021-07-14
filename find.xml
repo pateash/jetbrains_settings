@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.hql" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -36,7 +36,7 @@
     <mask>!*.txt</mask>
     <mask>*.cfg</mask>
     <mask>*.py</mask>
-    <mask>*.hql</mask>
     <mask>*.xml</mask>
+    <mask>*.hql</mask>
   </component>
 </application>

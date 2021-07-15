@@ -279,7 +279,7 @@
                   </entry>
                   <entry key="PythonConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
+                      <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="R">
@@ -369,7 +369,7 @@
                   </entry>
                   <entry key="Tox">
                     <value>
-                      <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
+                      <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
@@ -414,7 +414,7 @@
                   </entry>
                   <entry key="docs">
                     <value>
-                      <FeaturePluginData displayName="Python docs" pluginName="PythonCore" pluginId="PythonCore" bundled="true" />
+                      <FeaturePluginData displayName="Python docs" pluginName="PythonCore" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
@@ -444,7 +444,7 @@
                   </entry>
                   <entry key="tests">
                     <value>
-                      <FeaturePluginData displayName="Python tests" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
+                      <FeaturePluginData displayName="Python tests" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="uTestRunConfiguration">
@@ -489,7 +489,7 @@
                   </entry>
                   <entry key="buildout-python">
                     <value>
-                      <FeaturePluginData displayName="Buildout Support" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
+                      <FeaturePluginData displayName="Buildout Support" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="ejb">

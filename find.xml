@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -28,11 +28,11 @@
     <mask>*config</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
-    <mask>*.xml</mask>
     <mask>*.json</mask>
     <mask>*.txt</mask>
     <mask>!*.txt</mask>
     <mask>*.cfg</mask>
     <mask>*.py</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

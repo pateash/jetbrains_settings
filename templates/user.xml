@@ -1,7 +1,8 @@
 <templateSet group="user">
-  <template name="defalakfjd" value="user default" description="" toReformat="true" toShortenFQNames="true">
+  <template name="&lt;abbreviation&gt;" value="val lines = spark.readStream&#10;      .format(&quot;socket&quot;)&#10;      .option(&quot;host&quot;, &quot;localhost&quot;)&#10;      .option(&quot;port&quot;, 9999)&#10;      .load()" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
-      <option name="HTML_TEXT" value="true" />
+      <option name="SCALA_BLANK_LINE" value="true" />
+      <option name="SCALA_CODE" value="true" />
     </context>
   </template>
 </templateSet>

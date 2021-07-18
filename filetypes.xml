@@ -23,6 +23,7 @@
       <mapping ext="hql" type="SQL" />
       <mapping pattern=".ideavimrc" type="Shell Script" />
       <mapping pattern="docker-compose.override.yml" type="YAML" />
+      <mapping ext="yml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="chm" approved="true" type="Native" />

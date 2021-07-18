@@ -143,6 +143,10 @@
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="CopyElement" />
+  <action id="DBNavigator.Actions.Execute">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="meta 5" />
@@ -202,9 +206,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt j" />
   </action>
   <action id="EditorScrollDown" />
-  <action id="EditorScrollDownAndMove">
-    <keyboard-shortcut first-keystroke="shift alt down" />
-  </action>
   <action id="EditorScrollLeft">
     <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
@@ -212,9 +213,6 @@
     <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
   <action id="EditorScrollToCenter" />
-  <action id="EditorScrollUpAndMove">
-    <keyboard-shortcut first-keystroke="shift alt up" />
-  </action>
   <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLineBefore" />
@@ -304,6 +302,9 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Images.ShowThumbnails" />
   <action id="Images.Thumbnails.EnterAction" />
   <action id="ImplementMethods" />
@@ -325,7 +326,9 @@
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="alt dead_tilde" />
   </action>
-  <action id="NextDiff" />
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
   <action id="NextEditorTab" />
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
@@ -347,6 +350,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
@@ -357,7 +364,9 @@
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
-  <action id="QuickImplementations" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
     <keyboard-shortcut first-keystroke="shift meta e" />
@@ -388,14 +397,11 @@
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
-  <action id="SaveAll">
-    <keyboard-shortcut first-keystroke="ctrl s" />
-    <keyboard-shortcut first-keystroke="meta s" />
-  </action>
   <action id="Scala.ExpandImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="Scala.ShowImplicitConversions" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
@@ -409,6 +415,10 @@
   <action id="ScrollTreeToCenter" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+    <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog">
     <keyboard-shortcut first-keystroke="meta alt u" />
@@ -445,7 +455,7 @@
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="StringManipulation.Group.Main">
-    <keyboard-shortcut first-keystroke="alt c" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="SurroundWith" />
   <action id="SurroundWithEmmet">
@@ -453,17 +463,11 @@
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
   <action id="SurroundWithLiveTemplate" />
-  <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="shift alt down" />
-  </action>
   <action id="SwitchLeft">
     <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="SwitchRight">
     <keyboard-shortcut first-keystroke="shift alt right" />
-  </action>
-  <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="ctrl tab" />
@@ -480,6 +484,9 @@
   </action>
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="ToggleBookmark3" />
+  <action id="ToggleCompletionHintsAction">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl meta f" />
   </action>
@@ -490,6 +497,12 @@
   <action id="Vcs.ShowMessageHistory" />
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="Vcs.UpdateProject" />
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
   <action id="ViewSource" />
   <action id="ViewToolBar">
     <keyboard-shortcut first-keystroke="alt 9" />
@@ -505,6 +518,9 @@
   </action>
   <action id="context.load" />
   <action id="hg4idea.QFold" />
+  <action id="nl.deschepers.laraveltinker.action.RunConsoleAction">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
   <action id="tasks.and.contexts">
     <keyboard-shortcut first-keystroke="meta alt i" />

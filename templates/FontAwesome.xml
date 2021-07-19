@@ -347,7 +347,7 @@
       <option name="JSP" value="true" />
     </context>
   </template>
-  <template name="fa-align-justify" value="&lt;i class=&quot;fa fa-align-justify&quot;&gt;&lt;/i&gt;$END$" description="fa-align-justify icon" toReformat="true" toShortenFQNames="true">
+  <template name="fa-align-justify" value="&lt;i class=&quot;fa fa-align-justify&quot;&gt;&lt;/i&gt;$END$" description="fa-align-justify icon" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="GSP" value="true" />
       <option name="JSP" value="true" />

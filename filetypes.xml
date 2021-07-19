@@ -14,21 +14,29 @@
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="part-r-00000" type="PLAIN_TEXT" />
-      <mapping ext="hql" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="vim" type="PLAIN_TEXT" />
       <mapping ext="dbp" type="PLAIN_TEXT" />
+      <mapping pattern="ddls_manual_update.hql" type="SQL" />
       <mapping ext="hsql" type="SQL" />
+      <mapping ext="hql" type="SQL" />
       <mapping pattern=".ideavimrc" type="Shell Script" />
+      <mapping pattern="docker-compose.override.yml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="chm" approved="true" type="Native" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="config" approved="true" type="XML" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="hql" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="md" approved="true" type="XML" />
+      <removed_mapping ext="permissionset" approved="true" type="XML" />
       <removed_mapping ext="pl" approved="true" type="textmate" />
+      <removed_mapping ext="profile" approved="true" type="XML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="vim" approved="true" type="Bash" />

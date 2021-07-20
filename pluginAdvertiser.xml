@@ -14,7 +14,7 @@
                   </entry>
                   <entry key="Application">
                     <value>
-                      <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
                     </value>
                   </entry>
                   <entry key="BSP_TEST_RUN_CONFIGURATION">
@@ -24,47 +24,47 @@
                   </entry>
                   <entry key="CLionExternalRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Custom Build Application" pluginName="CLion IDE" pluginId="com.intellij.clion" />
+                      <FeaturePluginData displayName="Custom Build Application" pluginName="CLion IDE" pluginId="com.intellij.clion" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CLionNativeAppRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Makefile Application" pluginName="Makefile" pluginId="com.intellij.clion-makefile" />
+                      <FeaturePluginData displayName="Makefile Application" pluginName="Makefile" pluginId="com.intellij.clion-makefile" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CLion_CoreDump">
                     <value>
-                      <FeaturePluginData displayName="Core Dump Debug" pluginName="CLion IDE" pluginId="com.intellij.clion" />
+                      <FeaturePluginData displayName="Core Dump Debug" pluginName="CLion IDE" pluginId="com.intellij.clion" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CLion_Remote">
                     <value>
-                      <FeaturePluginData displayName="GDB Remote Debug" pluginName="CLion IDE" pluginId="com.intellij.clion" />
+                      <FeaturePluginData displayName="GDB Remote Debug" pluginName="CLion IDE" pluginId="com.intellij.clion" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CMakeCatchTestRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Catch" pluginName="CLion Catch" pluginId="org.jetbrains.plugins.clion.test.catch" />
+                      <FeaturePluginData displayName="Catch" pluginName="CLion Catch" pluginId="org.jetbrains.plugins.clion.test.catch" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CMakeDoctestTestRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Doctest" pluginName="CLion Doctest" pluginId="org.jetbrains.plugins.clion.test.doctest" />
+                      <FeaturePluginData displayName="Doctest" pluginName="CLion Doctest" pluginId="org.jetbrains.plugins.clion.test.doctest" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CMakeGoogleTestRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Google Test" pluginName="CLion Google Testing and Mocking Framework" pluginId="org.jetbrains.plugins.clion.test.google" />
+                      <FeaturePluginData displayName="Google Test" pluginName="CLion Google Testing and Mocking Framework" pluginId="org.jetbrains.plugins.clion.test.google" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CMakeRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="CMake Application" pluginName="CLion IDE" pluginId="com.intellij.clion" />
+                      <FeaturePluginData displayName="CMake Application" pluginName="CLion IDE" pluginId="com.intellij.clion" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CTestRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="CTest Application" pluginName="CLion CTest" pluginId="org.jetbrains.plugins.clion.ctest" />
+                      <FeaturePluginData displayName="CTest Application" pluginName="CLion CTest" pluginId="org.jetbrains.plugins.clion.ctest" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ChromiumRemoteDebugType">
@@ -104,7 +104,7 @@
                   </entry>
                   <entry key="DatabaseScript">
                     <value>
-                      <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                      <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ErlangApplicationRunConfiguration">
@@ -134,7 +134,7 @@
                   </entry>
                   <entry key="GradleAppRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Gradle Native Application" pluginName="com.intellij.clion-gradle" pluginId="com.intellij.clion-gradle" />
+                      <FeaturePluginData displayName="Gradle Native Application" pluginName="com.intellij.clion-gradle" pluginId="com.intellij.clion-gradle" bundled="true" />
                     </value>
                   </entry>
                   <entry key="GradleRunConfiguration">
@@ -144,7 +144,7 @@
                   </entry>
                   <entry key="GroovyScriptRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Groovy" pluginName="Groovy" pluginId="org.intellij.groovy" bundled="true" />
+                      <FeaturePluginData displayName="Groovy" pluginName="Groovy" pluginId="org.intellij.groovy" />
                     </value>
                   </entry>
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
@@ -154,17 +154,17 @@
                   </entry>
                   <entry key="JUnit">
                     <value>
-                      <FeaturePluginData displayName="JUnit" pluginName="JUnit" pluginId="JUnit" bundled="true" />
+                      <FeaturePluginData displayName="JUnit" pluginName="JUnit" pluginId="JUnit" />
                     </value>
                   </entry>
                   <entry key="JarApplication">
                     <value>
-                      <FeaturePluginData displayName="JAR Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="JAR Application" pluginName="Java" pluginId="com.intellij.java" />
                     </value>
                   </entry>
                   <entry key="Java Scratch">
                     <value>
-                      <FeaturePluginData displayName="Java Scratch" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="Java Scratch" pluginName="Java" pluginId="com.intellij.java" />
                     </value>
                   </entry>
                   <entry key="JavaScriptNodeJsTraceType">
@@ -199,7 +199,7 @@
                   </entry>
                   <entry key="MAKEFILE_TARGET_RUN_CONFIGURATION">
                     <value>
-                      <FeaturePluginData displayName="Makefile" pluginName="Makefile support" pluginId="name.kropp.intellij.makefile" />
+                      <FeaturePluginData displayName="Makefile Target" pluginName="Makefile Language" pluginId="name.kropp.intellij.makefile" bundled="true" />
                     </value>
                   </entry>
                   <entry key="MUnitRunConfiguration">
@@ -209,7 +209,7 @@
                   </entry>
                   <entry key="MavenRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" bundled="true" />
+                      <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" />
                     </value>
                   </entry>
                   <entry key="NodeJSConfigurationType">
@@ -304,7 +304,7 @@
                   </entry>
                   <entry key="Remote">
                     <value>
-                      <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" />
                     </value>
                   </entry>
                   <entry key="SbtRunConfiguration">
@@ -334,7 +334,7 @@
                   </entry>
                   <entry key="SpaceRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Space Task" pluginName="Space" pluginId="com.jetbrains.space" bundled="true" />
+                      <FeaturePluginData displayName="Space Task" pluginName="Space" pluginId="com.jetbrains.space" />
                     </value>
                   </entry>
                   <entry key="Specs2RunConfiguration">
@@ -354,7 +354,7 @@
                   </entry>
                   <entry key="TSqltConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                      <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
                   <entry key="TailRunConfiguration">
@@ -374,7 +374,7 @@
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                      <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
                   <entry key="XSLT">
@@ -389,17 +389,17 @@
                   </entry>
                   <entry key="com.jetbrains.cidr.embedded.customgdbserver.type">
                     <value>
-                      <FeaturePluginData displayName="Embedded GDB Server" pluginName="com.intellij.clion.embedded" pluginId="com.intellij.clion.embedded" />
+                      <FeaturePluginData displayName="Embedded GDB Server" pluginName="com.intellij.clion.embedded" pluginId="com.intellij.clion.embedded" bundled="true" />
                     </value>
                   </entry>
                   <entry key="com.jetbrains.cidr.embedded.openocd.conf.type">
                     <value>
-                      <FeaturePluginData displayName="OpenOCD Download &amp; Run" pluginName="com.intellij.clion.embedded" pluginId="com.intellij.clion.embedded" />
+                      <FeaturePluginData displayName="OpenOCD Download &amp; Run" pluginName="com.intellij.clion.embedded" pluginId="com.intellij.clion.embedded" bundled="true" />
                     </value>
                   </entry>
                   <entry key="com.jetbrains.cidr.remote.gdbserver.type">
                     <value>
-                      <FeaturePluginData displayName="Remote GDB Server" pluginName="CLion IDE" pluginId="com.intellij.clion" />
+                      <FeaturePluginData displayName="Remote GDB Server" pluginName="CLion IDE" pluginId="com.intellij.clion" bundled="true" />
                     </value>
                   </entry>
                   <entry key="cucumber.js">
@@ -409,7 +409,7 @@
                   </entry>
                   <entry key="docker-deploy">
                     <value>
-                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                   <entry key="docs">
@@ -474,7 +474,7 @@
                   </entry>
                   <entry key="Python">
                     <value>
-                      <FeaturePluginData displayName="Python" pluginName="PythonCore" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="Python" pluginName="PythonCore" pluginId="PythonCore" bundled="true" />
                     </value>
                   </entry>
                   <entry key="Spring">
@@ -554,7 +554,7 @@
                   </entry>
                   <entry key="jar">
                     <value>
-                      <FeaturePluginData displayName="JAR" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="JAR" pluginName="Java" pluginId="com.intellij.java" />
                     </value>
                   </entry>
                   <entry key="javafx">
@@ -569,7 +569,7 @@
                   </entry>
                   <entry key="plain">
                     <value>
-                      <FeaturePluginData displayName="Other" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="Other" pluginName="Java" pluginId="com.intellij.java" />
                     </value>
                   </entry>
                   <entry key="war">

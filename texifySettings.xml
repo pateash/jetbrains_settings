@@ -1,0 +1,6 @@
+<application>
+  <component name="TexifySettings">
+    <option name="autoCompile" value="true" />
+    <option name="showPackagesInStructureView" value="true" />
+  </component>
+</application>

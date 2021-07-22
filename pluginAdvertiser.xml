@@ -414,7 +414,7 @@
                   </entry>
                   <entry key="docs">
                     <value>
-                      <FeaturePluginData displayName="Python docs" pluginName="PythonCore" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="Python docs" pluginName="PythonCore" pluginId="PythonCore" bundled="true" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">

@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -33,5 +32,6 @@
     <mask>!*.txt</mask>
     <mask>*.cfg</mask>
     <mask>*.py</mask>
+    <mask>!*.java</mask>
   </component>
 </application>

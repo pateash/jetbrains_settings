@@ -6,6 +6,8 @@
       <mapping pattern="test1" type="AUTO_DETECTED" />
       <mapping pattern="test2" type="AUTO_DETECTED" />
       <mapping ext="avsc" type="JSON" />
+      <mapping pattern="biblatex.cfg" type="LaTeX style file" />
+      <mapping pattern="biblatex-dm.cfg" type="LaTeX style file" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="scripts" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />

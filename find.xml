@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.as</mask>
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*s.vim</mask>
@@ -33,5 +33,6 @@
     <mask>*.java</mask>
     <mask>!*.py</mask>
     <mask>*.hql</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>

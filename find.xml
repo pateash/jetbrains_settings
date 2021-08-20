@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.mxml</mask>
     <mask>*s.vim</mask>
     <mask>*.js</mask>
@@ -24,7 +24,6 @@
     <mask>*config</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
-    <mask>*.xml</mask>
     <mask>*.json</mask>
     <mask>*.txt</mask>
     <mask>!*.txt</mask>
@@ -36,5 +35,6 @@
     <mask>*.vim</mask>
     <mask>*.hql</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

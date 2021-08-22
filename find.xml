@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vim" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.mxml</mask>
     <mask>*s.vim</mask>
     <mask>*.js</mask>
@@ -29,10 +31,10 @@
     <mask>*.cfg</mask>
     <mask>*.py</mask>
     <mask>!*.java</mask>
-    <mask>*.java</mask>
     <mask>!*.py</mask>
-    <mask>*.hql</mask>
     <mask>*.yaml</mask>
     <mask>*.vim</mask>
+    <mask>*.hql</mask>
+    <mask>*.java</mask>
   </component>
 </application>

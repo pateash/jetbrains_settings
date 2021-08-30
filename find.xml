@@ -30,8 +30,8 @@
     <mask>*.vim</mask>
     <mask>*.hql</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>!*.py</mask>
     <mask>*.py</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

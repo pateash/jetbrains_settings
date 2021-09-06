@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.mxml</mask>
     <mask>*s.vim</mask>
@@ -23,17 +21,17 @@
     <mask>*config</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
-    <mask>*.xml</mask>
     <mask>*.json</mask>
     <mask>*.txt</mask>
     <mask>!*.txt</mask>
     <mask>*.cfg</mask>
-    <mask>*.py</mask>
     <mask>!*.java</mask>
-    <mask>!*.py</mask>
     <mask>*.yaml</mask>
     <mask>*.vim</mask>
     <mask>*.hql</mask>
     <mask>*.java</mask>
+    <mask>!*.py</mask>
+    <mask>*.py</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

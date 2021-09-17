@@ -21,17 +21,17 @@
     <mask>*config</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
-    <mask>*.xml</mask>
     <mask>*.json</mask>
     <mask>*.txt</mask>
     <mask>!*.txt</mask>
     <mask>*.cfg</mask>
-    <mask>*.py</mask>
     <mask>!*.java</mask>
-    <mask>*.java</mask>
-    <mask>!*.py</mask>
-    <mask>*.hql</mask>
     <mask>*.yaml</mask>
     <mask>*.vim</mask>
+    <mask>*.hql</mask>
+    <mask>*.java</mask>
+    <mask>!*.py</mask>
+    <mask>*.xml</mask>
+    <mask>*.py</mask>
   </component>
 </application>

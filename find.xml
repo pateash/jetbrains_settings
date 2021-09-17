@@ -31,7 +31,7 @@
     <mask>*.hql</mask>
     <mask>*.java</mask>
     <mask>!*.py</mask>
-    <mask>*.py</mask>
     <mask>*.xml</mask>
+    <mask>*.py</mask>
   </component>
 </application>

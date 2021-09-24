@@ -7,21 +7,6 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
-                  <entry key="Application">
-                    <value>
-                      <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="BIBTEX_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="BibTeX" pluginName="TeXiFy IDEA" pluginId="nl.rubensten.texifyidea" />
-                    </value>
-                  </entry>
-                  <entry key="BSP_TEST_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="BSP test" pluginName="Scala" pluginId="org.intellij.scala" />
-                    </value>
-                  </entry>
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
@@ -37,89 +22,9 @@
                       <FeaturePluginData displayName="DB Statement" pluginName="Database Navigator" pluginId="DBN" />
                     </value>
                   </entry>
-                  <entry key="EXTERNAL_TOOL_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="External LaTeX Tool" pluginName="TeXiFy IDEA" pluginId="nl.rubensten.texifyidea" />
-                    </value>
-                  </entry>
-                  <entry key="GradleRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Gradle" pluginName="Gradle" pluginId="com.intellij.gradle" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="GroovyScriptRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Groovy" pluginName="Groovy" pluginId="org.intellij.groovy" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="JUnit">
-                    <value>
-                      <FeaturePluginData displayName="JUnit" pluginName="JUnit" pluginId="JUnit" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="JarApplication">
-                    <value>
-                      <FeaturePluginData displayName="JAR Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="Java Scratch">
-                    <value>
-                      <FeaturePluginData displayName="Java Scratch" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="LATEX_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="LaTeX" pluginName="TeXiFy IDEA" pluginId="nl.rubensten.texifyidea" />
-                    </value>
-                  </entry>
-                  <entry key="MAKEINDEX_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="Makeindex" pluginName="TeXiFy IDEA" pluginId="nl.rubensten.texifyidea" />
-                    </value>
-                  </entry>
-                  <entry key="MUnitRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="MUnit" pluginName="Scala" pluginId="org.intellij.scala" />
-                    </value>
-                  </entry>
-                  <entry key="MavenRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="PythonConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" />
-                    </value>
-                  </entry>
-                  <entry key="R">
-                    <value>
-                      <FeaturePluginData displayName="R" pluginName="R Language for IntelliJ" pluginId="R4Intellij" />
-                    </value>
-                  </entry>
-                  <entry key="Remote">
-                    <value>
-                      <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="SbtRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="sbt Task" pluginName="Scala" pluginId="org.intellij.scala" />
-                    </value>
-                  </entry>
-                  <entry key="ScalaAmmoniteRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Ammonite" pluginName="Scala" pluginId="org.intellij.scala" />
-                    </value>
-                  </entry>
-                  <entry key="ScalaScriptConsoleRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Scala REPL" pluginName="Scala" pluginId="org.intellij.scala" />
-                    </value>
-                  </entry>
-                  <entry key="ScalaTestRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="ScalaTest" pluginName="Scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
                   <entry key="ShConfigurationType">
@@ -127,29 +32,9 @@
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="SpaceRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Space Task" pluginName="Space" pluginId="com.jetbrains.space" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="Specs2RunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Specs2" pluginName="Scala" pluginId="org.intellij.scala" />
-                    </value>
-                  </entry>
-                  <entry key="TailRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Tail" pluginName="Grep Console" pluginId="GrepConsole" />
-                    </value>
-                  </entry>
                   <entry key="Tox">
                     <value>
                       <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" />
-                    </value>
-                  </entry>
-                  <entry key="docker-deploy">
-                    <value>
-                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
                   <entry key="docs">
@@ -162,11 +47,6 @@
                       <FeaturePluginData displayName="Python tests" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
-                  <entry key="uTestRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="utest" pluginName="Scala" pluginId="org.intellij.scala" />
-                    </value>
-                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
@@ -177,34 +57,9 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
-                  <entry key="Python">
-                    <value>
-                      <FeaturePluginData displayName="Python" pluginName="PythonCore" pluginId="PythonCore" />
-                    </value>
-                  </entry>
                   <entry key="buildout-python">
                     <value>
                       <FeaturePluginData displayName="Buildout Support" pluginName="Python Community Edition" pluginId="PythonCore" />
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </FeaturePluginsList>
-          </value>
-        </entry>
-        <entry key="com.intellij.packaging.artifacts.ArtifactType">
-          <value>
-            <FeaturePluginsList>
-              <option name="featureMap">
-                <map>
-                  <entry key="jar">
-                    <value>
-                      <FeaturePluginData displayName="JAR" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="plain">
-                    <value>
-                      <FeaturePluginData displayName="Other" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                 </map>

@@ -2,6 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.py" />
     <mask>*.mxml</mask>
@@ -17,7 +21,6 @@
     <mask>!*.xml</mask>
     <mask>*.sh</mask>
     <mask>!*.log</mask>
-    <mask>*.html</mask>
     <mask>pom.xml</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>
@@ -33,6 +36,7 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.hql</mask>
+    <mask>*.html</mask>
     <mask>*.py</mask>
   </component>
 </application>

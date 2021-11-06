@@ -1,24 +1,16 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 2.7 (dailyflow) interpreter library">
+    <library name="Python 3.8 (airflow-env) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/Desktop/ip-all/dailyflow/venv/lib/python2.7" />
-        <root url="file://$USER_HOME$/Desktop/ip-all/dailyflow/venv/lib/python2.7/lib-dynload" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/Desktop/ip-all/dailyflow/venv/lib/python2.7/site-packages" />
-        <root url="file:///Library/Python/2.7/site-packages" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2021.1/python_stubs/1597132354" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.8.5/lib/python3.8" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.8.5/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/airflow-env/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/dev/airflow" />
+        <root url="file://$USER_HOME$/dev/superset" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2021.1/python_stubs/-340590491" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/@python2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/jwt" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six/@python2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/mock" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/nmap" />
@@ -60,23 +52,15 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/Desktop/ip-all/dailyflow/venv/lib/python2.7" />
-        <root url="file://$USER_HOME$/Desktop/ip-all/dailyflow/venv/lib/python2.7/lib-dynload" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/Desktop/ip-all/dailyflow/venv/lib/python2.7/site-packages" />
-        <root url="file:///Library/Python/2.7/site-packages" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2021.1/python_stubs/1597132354" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.8.5/lib/python3.8" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.8.5/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/airflow-env/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/dev/airflow" />
+        <root url="file://$USER_HOME$/dev/superset" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2021.1/python_stubs/-340590491" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/@python2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/jwt" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six/@python2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/mock" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/nmap" />

@@ -6,6 +6,7 @@
         <root url="file://$USER_HOME$/.pyenv/versions/3.8.5/lib/python3.8/lib-dynload" />
         <root url="file://$USER_HOME$/.pyenv/versions/airflow-env/lib/python3.8/site-packages" />
         <root url="file://$USER_HOME$/dev/airflow" />
+        <root url="file://$USER_HOME$/dev/superset" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2021.1/python_stubs/-340590491" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
@@ -55,6 +56,7 @@
         <root url="file://$USER_HOME$/.pyenv/versions/3.8.5/lib/python3.8/lib-dynload" />
         <root url="file://$USER_HOME$/.pyenv/versions/airflow-env/lib/python3.8/site-packages" />
         <root url="file://$USER_HOME$/dev/airflow" />
+        <root url="file://$USER_HOME$/dev/superset" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2021.1/python_stubs/-340590491" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
@@ -98,6 +100,24 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/python-dateutil" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/typing-extensions" />
       </SOURCES>
+    </library>
+    <library name="scala-sdk-2.13.5" type="Scala">
+      <properties>
+        <language-level>Scala_2_13</language-level>
+        <compiler-classpath>
+          <root url="file:///usr/local/Cellar/scala/2.13.5/libexec/lib/scala-library.jar" />
+          <root url="file:///usr/local/Cellar/scala/2.13.5/libexec/lib/scala-compiler.jar" />
+          <root url="file:///usr/local/Cellar/scala/2.13.5/libexec/lib/scala-reflect.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar:///usr/local/Cellar/scala/2.13.5/libexec/lib/scala-library.jar!/" />
+        <root url="jar:///usr/local/Cellar/scala/2.13.5/libexec/lib/scala-reflect.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="https://www.scala-lang.org/api/2.13.5/" />
+      </JAVADOC>
+      <SOURCES />
     </library>
   </component>
 </application>

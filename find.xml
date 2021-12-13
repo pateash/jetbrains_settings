@@ -30,9 +30,9 @@
     <mask>!*.py</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.html</mask>
     <mask>*.py</mask>
     <mask>*.hql</mask>
+    <mask>*.html</mask>
     <mask>*.js</mask>
   </component>
 </application>

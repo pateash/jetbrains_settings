@@ -3,9 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.mxml</mask>
     <mask>*s.vim</mask>
-    <mask>*.js</mask>
     <mask>*test.ts</mask>
     <mask>*.test.ts</mask>
     <mask>*.h</mask>
@@ -33,5 +33,6 @@
     <mask>*.html</mask>
     <mask>*.py</mask>
     <mask>*.hql</mask>
+    <mask>*.js</mask>
   </component>
 </application>

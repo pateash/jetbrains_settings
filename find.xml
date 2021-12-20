@@ -5,6 +5,7 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.mxml</mask>
     <mask>*s.vim</mask>
+    <mask>*.js</mask>
     <mask>*test.ts</mask>
     <mask>*.test.ts</mask>
     <mask>*.h</mask>
@@ -29,9 +30,8 @@
     <mask>!*.py</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.html</mask>
     <mask>*.py</mask>
     <mask>*.hql</mask>
-    <mask>*.html</mask>
-    <mask>*.js</mask>
   </component>
 </application>

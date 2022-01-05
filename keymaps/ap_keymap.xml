@@ -300,7 +300,6 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl 3" />
     <keyboard-shortcut first-keystroke="ctrl n" />
-    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
@@ -325,6 +324,7 @@
   <action id="MoveLineUp" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="alt dead_tilde" />

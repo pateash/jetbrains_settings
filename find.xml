@@ -20,7 +20,6 @@
     <mask>*.vue</mask>
     <mask>*.php</mask>
     <mask>*.json</mask>
-    <mask>*.txt</mask>
     <mask>!*.txt</mask>
     <mask>*.cfg</mask>
     <mask>!*.java</mask>
@@ -33,5 +32,6 @@
     <mask>*.hql</mask>
     <mask>*.py</mask>
     <mask>*.yml</mask>
+    <mask>*.txt</mask>
   </component>
 </application>

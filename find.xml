@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*s.vim</mask>
+    <option name="FILE_MASK" value="*.rst" />
     <mask>*.js</mask>
     <mask>*test.ts</mask>
     <mask>*.test.ts</mask>
@@ -33,5 +33,6 @@
     <mask>*.py</mask>
     <mask>*.yml</mask>
     <mask>*.txt</mask>
+    <mask>*.rst</mask>
   </component>
 </application>

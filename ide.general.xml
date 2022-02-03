@@ -9,4 +9,11 @@
     <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>

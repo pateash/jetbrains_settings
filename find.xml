@@ -5,8 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.mxml</mask>
-    <mask>*s.vim</mask>
+    <option name="FILE_MASK" value="*.in" />
     <mask>*test.ts</mask>
     <mask>*.test.ts</mask>
     <mask>*.h</mask>
@@ -22,7 +21,6 @@
     <mask>*.vue</mask>
     <mask>*.php</mask>
     <mask>*.json</mask>
-    <mask>*.txt</mask>
     <mask>!*.txt</mask>
     <mask>*.cfg</mask>
     <mask>!*.java</mask>
@@ -31,9 +29,12 @@
     <mask>!*.py</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.py</mask>
-    <mask>*.hql</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
+    <mask>*.hql</mask>
+    <mask>*.yml</mask>
+    <mask>*.txt</mask>
+    <mask>*.rst</mask>
+    <mask>*.py</mask>
+    <mask>*.in</mask>
   </component>
 </application>

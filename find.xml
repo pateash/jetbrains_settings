@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.in" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*test.ts</mask>
     <mask>*.test.ts</mask>
     <mask>*.h</mask>
@@ -29,10 +29,10 @@
     <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.hql</mask>
-    <mask>*.yml</mask>
     <mask>*.txt</mask>
     <mask>*.rst</mask>
     <mask>*.py</mask>
     <mask>*.in</mask>
+    <mask>*.yml</mask>
   </component>
 </application>

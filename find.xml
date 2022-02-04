@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*.in" />
     <mask>*test.ts</mask>
     <mask>*.test.ts</mask>
     <mask>*.h</mask>
@@ -34,7 +32,7 @@
     <mask>*.txt</mask>
     <mask>*.rst</mask>
     <mask>*.py</mask>
-    <mask>*.in</mask>
     <mask>*.yml</mask>
+    <mask>*.in</mask>
   </component>
 </application>

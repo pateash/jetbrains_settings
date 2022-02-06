@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.mxml</mask>
-    <mask>*s.vim</mask>
-    <mask>*.js</mask>
+    <option name="FILE_MASK" value="*.in" />
     <mask>*test.ts</mask>
     <mask>*.test.ts</mask>
     <mask>*.h</mask>
@@ -21,7 +19,6 @@
     <mask>*.vue</mask>
     <mask>*.php</mask>
     <mask>*.json</mask>
-    <mask>*.txt</mask>
     <mask>!*.txt</mask>
     <mask>*.cfg</mask>
     <mask>!*.java</mask>
@@ -31,7 +28,11 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
-    <mask>*.py</mask>
     <mask>*.hql</mask>
+    <mask>*.txt</mask>
+    <mask>*.rst</mask>
+    <mask>*.py</mask>
+    <mask>*.yml</mask>
+    <mask>*.in</mask>
   </component>
 </application>

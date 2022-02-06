@@ -13,6 +13,7 @@
               <entry key="proxyHost" value="rO0ABXQAAA==" />
               <entry key="proxyPort" value="rO0ABXNyABFqYXZhLmxhbmcuSW50ZWdlchLioKT3gYc4AgABSQAFdmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAAABQ" />
               <entry key="proxyType" value="rO0ABX5yAC9jb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLlByb3h5VHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABEhUVFA=" />
+              <entry key="tunnel" value="rO0ABXNyAEpjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLnR1bm5lbC5tb2RlbC5Db25uZWN0aW9uU3NoVHVubmVsSW5mb4g0ot7wzEpsAgAEWgAJaXNFbmFibGVkSQAKcmVtb3RlUG9ydEwACGNvbmZpZ0lkdAASTGphdmEvbGFuZy9TdHJpbmc7TAAKcmVtb3RlSG9zdHEAfgABeHAA/////3QAAHEAfgAD" />
             </map>
           </option>
           <option name="fqn" value="com.jetbrains.spark.monitoring.settings.SparkConnectionData" />
@@ -24,5 +25,22 @@
         </ExtendedConnectionData>
       </list>
     </option>
+  </component>
+  <component name="RfsDownloadedStorageManager">
+    <option name="fileList">
+      <list>
+        <option value="u_____bZpart_00000_853b20a9_0c05_4e93_95a7_5755e525963c_c000_snappy_parquet_0.data.csv/part-00000-853b20a9-0c05-4e93-95a7-5755e525963c-c000.snappy.parquet(downloaded)" />
+        <option value="__a_part_00000_6812cccc_7940_4fd0_bbc9_8ef3af9b1579_c000_snappy_parquet_0.data.csv/part-00000-6812cccc-7940-4fd0-bbc9-8ef3af9b1579-c000.snappy.parquet(downloaded)" />
+        <option value="_g9_part_00000_ba5cea1b_9b89_497b_b1e6_776446eae0c0_c000_snappy_parquet_0.data.csv/part-00000-ba5cea1b-9b89-497b-b1e6-776446eae0c0-c000.snappy.parquet(downloaded)" />
+        <option value="VD__B___part_00000_76c3d806_f2c9_43cf_87d0_bfdcebc633b1_c000_snappy_parquet_0.data.csv/part-00000-76c3d806-f2c9-43cf-87d0-bfdcebc633b1-c000.snappy.parquet(downloaded)" />
+        <option value="_5_P_K84part_00000_5069dbdd_8a65_4240_818d_0c383a6b0a09_c000_snappy_parquet_0.data.csv/part-00000-5069dbdd-8a65-4240-818d-0c383a6b0a09-c000.snappy.parquet(downloaded)" />
+        <option value="__Y_ql__part_00135_671b8464_4e44_4b72_bc55_f0eed3ff3811_c000_snappy_parquet_0.data.csv/part-00135-671b8464-4e44-4b72-bc55-f0eed3ff3811-c000.snappy.parquet(downloaded)" />
+        <option value="vfoP_part_00123_259d8fe9_d3ab_444c_8dc8_7351ca542cad_c000_snappy_parquet_0.data.csv/part-00123-259d8fe9-d3ab-444c-8dc8-7351ca542cad-c000.snappy.parquet(downloaded)" />
+        <option value="j__s____8part_00019_e76c0be8_6261_42f8_8671_23bf608de7d2_c000_snappy_parquet_0.data.csv/part-00019-e76c0be8-6261-42f8-8671-23bf608de7d2-c000.snappy.parquet(downloaded)" />
+        <option value="R__e___part_00052_b143ce8a_a575_4dcf_a9af_d880fd683459_c000_snappy_parquet_0.data.csv/part-00052-b143ce8a-a575-4dcf-a9af-d880fd683459-c000.snappy.parquet(downloaded)" />
+        <option value="jE1n_9__2kpart_00000_ec839bef_49db_47eb_b5dd_82b94ab9fe7a_c000_snappy_parquet_0.data.csv/part-00000-ec839bef-49db-47eb-b5dd-82b94ab9fe7a-c000.snappy.parquet(downloaded)" />
+      </list>
+    </option>
+    <option name="mainDirPath" value="/private/var/folders/04/0m30sqlx3j71qsb3qwjytpx80000gp/T/HDFS-downloaded" />
   </component>
 </application>

@@ -25,7 +25,6 @@
       <mapping ext="hsql" type="SQL" />
       <mapping ext="hql" type="SQL" />
       <mapping pattern=".ideavimrc" type="Shell Script" />
-      <mapping ext="qrc" type="XML" />
       <mapping pattern="docker-compose.override.yml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="avro" approved="true" type="Avro" />

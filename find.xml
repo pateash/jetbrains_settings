@@ -2,7 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.test.ts</mask>
     <mask>*.h</mask>
     <mask>!*.dart</mask>
@@ -10,7 +15,6 @@
     <mask>!*.json</mask>
     <mask>*.cpp</mask>
     <mask>!*.xml</mask>
-    <mask>*.sh</mask>
     <mask>!*.log</mask>
     <mask>pom.xml</mask>
     <mask>*config</mask>
@@ -31,7 +35,8 @@
     <mask>*.rst</mask>
     <mask>*.in</mask>
     <mask>*.yml</mask>
-    <mask>*.py</mask>
+    <mask>*.sh</mask>
     <mask>!test*</mask>
+    <mask>*.py</mask>
   </component>
 </application>

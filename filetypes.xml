@@ -20,12 +20,13 @@
       <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="vim" type="PLAIN_TEXT" />
       <mapping ext="dbp" type="PLAIN_TEXT" />
-      <mapping ext="" type="PLAIN_TEXT" />
       <mapping pattern="ddls_manual_update.hql" type="SQL" />
       <mapping ext="hsql" type="SQL" />
       <mapping ext="hql" type="SQL" />
       <mapping pattern=".ideavimrc" type="Shell Script" />
+      <mapping ext="" type="Shell Script" />
       <mapping pattern="docker-compose.override.yml" type="YAML" />
+      <removed_mapping ext="" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="avro" approved="true" type="Avro" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />

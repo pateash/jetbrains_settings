@@ -3,25 +3,23 @@
     <extensionMap>
       <mapping ext="epub" type="ARCHIVE" />
       <mapping ext="htmlz" type="ARCHIVE" />
-      <mapping pattern="gdc_ib_actuals_summary" type="AUTO_DETECTED" />
-      <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping pattern="test1" type="AUTO_DETECTED" />
+      <mapping pattern="gdc_ib_actuals_summary" type="AUTO_DETECTED" />
       <mapping pattern="test2" type="AUTO_DETECTED" />
+      <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping ext="avsc" type="JSON" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="part-r-00000" type="PLAIN_TEXT" />
+      <mapping pattern="scripts" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern="syntastic.vim" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".part-r-00000.crc" type="PLAIN_TEXT" />
-      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
-      <mapping pattern="scripts" type="PLAIN_TEXT" />
-      <mapping pattern="syntastic.vim" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="vim" type="PLAIN_TEXT" />
       <mapping ext="dbp" type="PLAIN_TEXT" />
-      <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping pattern="ddls_manual_update.hql" type="SQL" />
       <mapping ext="hsql" type="SQL" />
       <mapping ext="hql" type="SQL" />
@@ -54,6 +52,8 @@
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>

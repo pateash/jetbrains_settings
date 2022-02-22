@@ -24,7 +24,6 @@
     <mask>!*.py</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.html</mask>
     <mask>*.hql</mask>
     <mask>*.txt</mask>
     <mask>*.rst</mask>
@@ -33,5 +32,6 @@
     <mask>*.sh</mask>
     <mask>*.py</mask>
     <mask>!test*</mask>
+    <mask>*.html</mask>
   </component>
 </application>

@@ -97,6 +97,11 @@
                       <option name="action" value="REMOVE" />
                       <option name="grepExpression" value=".*INFO.*" />
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="action" value="REMOVE" />
+                      <option name="grepExpression" value=".*WARNING.*" />
+                      <option name="inputFilter" value="true" />
+                    </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="default" />

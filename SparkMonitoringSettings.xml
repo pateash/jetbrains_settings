@@ -1,29 +1,7 @@
 <application>
   <component name="SparkMonitoringSettings">
-    <option name="configs">
-      <map>
-        <entry key="Spark monitoring connection@SparkMonitoringConnections@2698814524414510266">
-          <value>
-            <SparkConfig>
-              <option name="applicationsSplitterProportion" value="0.18955651" />
-              <option name="jobsSplitterProportion" value="0.44785276" />
-              <option name="selectedApplicationId" value="local-1605429284828" />
-              <option name="selectedPage" value="Jobs" />
-              <option name="selectedStageId" value="10" />
-              <option name="stagesSplitterProportion" value="0.74907064" />
-            </SparkConfig>
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="dataUpdateIntervalMillis" value="5000" />
-    <option name="defaultApplicationsColumns">
-      <list>
-        <option value="id" />
-        <option value="status" />
-        <option value="name" />
-        <option value="attempts" />
-      </list>
-    </option>
+    <option name="selectedConnectionId" value="Spark monitoring connection@SparkMonitoringConnections@2698814524414510266" />
+    <option name="version" value="2" />
   </component>
 </application>

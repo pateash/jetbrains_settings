@@ -1,0 +1,37 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.test.ts</mask>
+    <mask>*.h</mask>
+    <mask>!*.dart</mask>
+    <mask>*.ts</mask>
+    <mask>!*.json</mask>
+    <mask>*.cpp</mask>
+    <mask>!*.xml</mask>
+    <mask>!*.log</mask>
+    <mask>pom.xml</mask>
+    <mask>*config</mask>
+    <mask>*.vue</mask>
+    <mask>*.php</mask>
+    <mask>*.json</mask>
+    <mask>!*.txt</mask>
+    <mask>*.cfg</mask>
+    <mask>!*.java</mask>
+    <mask>*.yaml</mask>
+    <mask>*.vim</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.hql</mask>
+    <mask>*.txt</mask>
+    <mask>*.rst</mask>
+    <mask>*.in</mask>
+    <mask>*.yml</mask>
+    <mask>*.sh</mask>
+    <mask>!test*</mask>
+    <mask>*.html</mask>
+    <mask>*.py</mask>
+    <mask>!*.py</mask>
+  </component>
+</application>

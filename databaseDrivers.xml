@@ -1,0 +1,17 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="mysql.8" jre-path="$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home">
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
+    </driver>
+    <driver id="mysql">
+      <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.46" />
+    </driver>
+    <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.22" />
+    </driver>
+    <driver id="sqlite.xerial">
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.34.0" />
+    </driver>
+  </component>
+</application>

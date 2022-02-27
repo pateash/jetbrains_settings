@@ -1,0 +1,26 @@
+<templateSet group="ap_vueJs">
+  <template name="nvue" value="var app=new Vue({&#10;      el:&quot;$ELEMENT$&quot;,&#10;  data:{&#10;         $DATA$&#10;      },&#10;      methods:{&#10;         $METHOD$&#10;      },&#10;      computed:{&#10;         $COMPUTED$&#10;      }&#10;});&#10;$END$&#10;" description="new Vue Object" toReformat="false" toShortenFQNames="true">
+    <variable name="ELEMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATA" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COMPUTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="cvue" value="Vue.component('$NAME$', {&#10;    template: '$DATA$'&#10;});&#10;$END$" description="vue Component" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATA" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="tvue" value="&lt;template&gt;&#10;    $TEMPLATE$&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;    export default{&#10;        $JAVASCRIPT$       &#10;    }&#10;&lt;/script&gt;&#10;    &#10;&lt;style&gt;&#10;    $STYLE$    &#10;&lt;/style&gt;" description="new vue file template" toReformat="true" toShortenFQNames="true">
+    <variable name="TEMPLATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="JAVASCRIPT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="STYLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

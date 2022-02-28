@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.test.ts</mask>
+    <option name="FILE_MASK" value="!*.csv" />
     <mask>*.h</mask>
     <mask>!*.dart</mask>
     <mask>*.ts</mask>
@@ -24,7 +24,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.hql</mask>
-    <mask>*.txt</mask>
     <mask>*.rst</mask>
     <mask>*.in</mask>
     <mask>*.yml</mask>
@@ -33,5 +32,7 @@
     <mask>*.html</mask>
     <mask>!*.py</mask>
     <mask>*.py</mask>
+    <mask>*.txt</mask>
+    <mask>!*.csv</mask>
   </component>
 </application>

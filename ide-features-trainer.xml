@@ -7,6 +7,8 @@
       <map>
         <entry key="actions" value="NOT_PASSED" />
         <entry key="basic completion" value="NOT_PASSED" />
+        <entry key="before debugging: run/debug configurations" value="NOT_PASSED" />
+        <entry key="code editing tips and tricks" value="NOT_PASSED" />
         <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
         <entry key="codeassistance.localhistory" value="NOT_PASSED" />
@@ -17,12 +19,15 @@
         <entry key="completion with tab" value="NOT_PASSED" />
         <entry key="completion.f.string" value="NOT_PASSED" />
         <entry key="context.actions" value="NOT_PASSED" />
+        <entry key="debugging code. part i" value="NOT_PASSED" />
+        <entry key="debugging code. part ii" value="NOT_PASSED" />
         <entry key="declaration and usages" value="NOT_PASSED" />
         <entry key="duplicate" value="NOT_PASSED" />
         <entry key="extract method" value="NOT_PASSED" />
         <entry key="extract variable" value="NOT_PASSED" />
         <entry key="file structure" value="NOT_PASSED" />
         <entry key="find in files" value="NOT_PASSED" />
+        <entry key="fundamentals of testing in webstorm" value="NOT_PASSED" />
         <entry key="git.annotate" value="NOT_PASSED" />
         <entry key="git.basicworkflow" value="NOT_PASSED" />
         <entry key="git.changelistsandshelf" value="NOT_PASSED" />
@@ -45,16 +50,20 @@
         <entry key="refactoring menu" value="NOT_PASSED" />
         <entry key="refactoring.in.place" value="NOT_PASSED" />
         <entry key="refactoring.quick.fix" value="NOT_PASSED" />
+        <entry key="refactorings in a nutshell" value="NOT_PASSED" />
         <entry key="refactorings.extractmethod" value="NOT_PASSED" />
         <entry key="refactorings.rename" value="NOT_PASSED" />
         <entry key="rename" value="NOT_PASSED" />
         <entry key="search everywhere" value="NOT_PASSED" />
+        <entry key="secrets of efficient navigation" value="NOT_PASSED" />
         <entry key="select" value="NOT_PASSED" />
         <entry key="smart completion" value="NOT_PASSED" />
         <entry key="smart type completion" value="NOT_PASSED" />
         <entry key="statement completion" value="NOT_PASSED" />
         <entry key="surround and unwrap" value="NOT_PASSED" />
         <entry key="tab completion" value="NOT_PASSED" />
+        <entry key="the nuts and bolts of code completion" value="NOT_PASSED" />
+        <entry key="the power of code inspections" value="NOT_PASSED" />
       </map>
     </option>
   </component>

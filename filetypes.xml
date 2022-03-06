@@ -1,19 +1,19 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="gdc_ib_actuals_summary" type="AUTO_DETECTED" />
-      <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping pattern="test1" type="AUTO_DETECTED" />
+      <mapping pattern="gdc_ib_actuals_summary" type="AUTO_DETECTED" />
       <mapping pattern="test2" type="AUTO_DETECTED" />
+      <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping ext="avsc" type="JSON" />
       <mapping pattern="part-r-00000" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern="scripts" type="PLAIN_TEXT" />
+      <mapping pattern="syntastic.vim" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".part-r-00000.crc" type="PLAIN_TEXT" />
-      <mapping pattern="scripts" type="PLAIN_TEXT" />
-      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
-      <mapping pattern="syntastic.vim" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="vim" type="PLAIN_TEXT" />
@@ -23,7 +23,6 @@
       <mapping ext="hsql" type="SQL" />
       <mapping ext="hql" type="SQL" />
       <mapping pattern=".ideavimrc" type="Shell Script" />
-      <mapping ext="sh" type="Shell Script" />
       <mapping pattern="docker-compose.override.yml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="avro" approved="true" type="Avro" />

@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="epub" type="ARCHIVE" />
+      <mapping ext="htmlz" type="ARCHIVE" />
       <mapping pattern="test1" type="AUTO_DETECTED" />
       <mapping pattern="gdc_ib_actuals_summary" type="AUTO_DETECTED" />
       <mapping pattern="test2" type="AUTO_DETECTED" />
@@ -16,15 +18,15 @@
       <mapping pattern=".part-r-00000.crc" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
-      <mapping ext="txt" type="PLAIN_TEXT" />
       <mapping ext="vim" type="PLAIN_TEXT" />
       <mapping ext="dbp" type="PLAIN_TEXT" />
-      <mapping ext="" type="PLAIN_TEXT" />
       <mapping pattern="ddls_manual_update.hql" type="SQL" />
       <mapping ext="hsql" type="SQL" />
       <mapping ext="hql" type="SQL" />
       <mapping pattern=".ideavimrc" type="Shell Script" />
+      <mapping ext="" type="Shell Script" />
       <mapping pattern="docker-compose.override.yml" type="YAML" />
+      <removed_mapping ext="" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="avro" approved="true" type="Avro" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
@@ -45,6 +47,7 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="vim" approved="true" type="Bash" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />

@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>!*.dart</mask>
     <mask>*.ts</mask>
     <mask>!*.json</mask>
@@ -29,9 +30,9 @@
     <mask>!test*</mask>
     <mask>*.html</mask>
     <mask>!*.py</mask>
-    <mask>*.py</mask>
     <mask>!*.csv</mask>
     <mask>!*test*</mask>
     <mask>*.txt</mask>
+    <mask>*.py</mask>
   </component>
 </application>

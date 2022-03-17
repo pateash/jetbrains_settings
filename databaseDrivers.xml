@@ -13,5 +13,14 @@
     <driver id="sqlite.xerial">
       <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.36.0.3" />
     </driver>
+    <driver id="9e0f8a1d-5fb6-4894-8092-df17dad50b99" name=".coverage driver" dialect="SQLite" driver-class="org.sqlite.JDBC" icon="AllIcons.Providers.Sqlite">
+      <url-template name="default" template="jdbc:sqlite:!(:memory:){file::identifier.sqlite}?" />
+      <url-template name="In-memory" template="jdbc:sqlite::memory:" />
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.36.0.3" />
+      <property name="enable_load_extension" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.34.0/sqlite-jdbc-3.34.0.jar</url>
+      </library>
+    </driver>
   </component>
 </application>

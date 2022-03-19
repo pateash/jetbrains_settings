@@ -1,8 +1,8 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="Generate" />
       <action id="Terminal.SmartCommandExecution.Run" />
+      <action id="Generate" />
     </abbreviations>
   </component>
 </application>

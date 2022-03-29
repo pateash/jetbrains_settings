@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>!*.json</mask>
     <mask>*.cpp</mask>
@@ -33,7 +31,7 @@
     <mask>!*test*</mask>
     <mask>*.txt</mask>
     <mask>*test*</mask>
-    <mask>*.py</mask>
     <mask>*Hook*</mask>
+    <mask>*.py</mask>
   </component>
 </application>

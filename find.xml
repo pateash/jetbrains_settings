@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
-    <mask>*.ts</mask>
+    <option name="FILE_MASK" value="*Hook*" />
     <mask>!*.json</mask>
     <mask>*.cpp</mask>
     <mask>!*.xml</mask>
@@ -34,5 +33,6 @@
     <mask>*.txt</mask>
     <mask>*test*</mask>
     <mask>*.py</mask>
+    <mask>*Hook*</mask>
   </component>
 </application>

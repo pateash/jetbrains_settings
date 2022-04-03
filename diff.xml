@@ -34,9 +34,6 @@
               <option value="com.intellij.diff.tools.dir.DirDiffTool" />
               <option value="com.intellij.diff.tools.combined.CombinedUnifiedDiffTool" />
               <option value="com.intellij.diff.tools.combined.CombinedSideBySideDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
               <option value="com.intellij.database.model.diff.SchemaDiffTool" />
               <option value="com.intellij.database.diff.TableDiffTool" />
             </list>
@@ -51,13 +48,10 @@
               <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool" />
               <option value="com.intellij.diff.tools.combined.CombinedUnifiedDiffTool" />
               <option value="com.intellij.diff.tools.combined.CombinedSideBySideDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
               <option value="com.intellij.database.model.diff.SchemaDiffTool" />
               <option value="com.intellij.database.diff.TableDiffTool" />
-              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
+              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
               <option value="com.intellij.diff.tools.dir.DirDiffTool" />
             </list>
@@ -114,6 +108,12 @@
       <entry key="Merge">
         <PlaceSettings>
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+        </PlaceSettings>
+      </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
+          <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>
     </option>

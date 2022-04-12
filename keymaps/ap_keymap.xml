@@ -64,6 +64,9 @@
     <keyboard-shortcut first-keystroke="meta g" />
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="ActivatemakeToolWindow">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>

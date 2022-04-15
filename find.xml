@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>!*.json</mask>
+    <option name="FILE_MASK" value="*test*.py" />
     <mask>*.cpp</mask>
     <mask>!*.xml</mask>
     <mask>!*.log</mask>
@@ -33,5 +33,6 @@
     <mask>*Hook*</mask>
     <mask>!*.py</mask>
     <mask>*.py</mask>
+    <mask>*test*.py</mask>
   </component>
 </application>

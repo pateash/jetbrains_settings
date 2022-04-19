@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.cpp</mask>
     <mask>!*.xml</mask>
     <mask>!*.log</mask>
     <mask>pom.xml</mask>
@@ -20,7 +19,6 @@
     <mask>*.java</mask>
     <mask>*.hql</mask>
     <mask>*.rst</mask>
-    <mask>*.in</mask>
     <mask>*.yml</mask>
     <mask>*.sh</mask>
     <mask>!test*</mask>
@@ -33,5 +31,7 @@
     <mask>!*.py</mask>
     <mask>*.py</mask>
     <mask>*test*.py</mask>
+    <mask>req*db*.txt</mask>
+    <mask>*.in</mask>
   </component>
 </application>

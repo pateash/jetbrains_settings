@@ -118,6 +118,7 @@
   </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="ctrl alt minus" />
+    <keyboard-shortcut first-keystroke="meta alt minus" />
   </action>
   <action id="CollapseRegionRecursively">
     <keyboard-shortcut first-keystroke="shift ctrl minus" />

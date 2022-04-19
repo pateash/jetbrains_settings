@@ -246,6 +246,7 @@
   </action>
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="meta alt equals" />
   </action>
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="shift ctrl equals" />

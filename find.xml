@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>!*.xml</mask>
     <mask>!*.log</mask>
     <mask>pom.xml</mask>
@@ -28,10 +29,10 @@
     <mask>*.txt</mask>
     <mask>*Hook*</mask>
     <mask>!*.py</mask>
-    <mask>*.py</mask>
     <mask>*test*.py</mask>
     <mask>req*db*.txt</mask>
     <mask>*.in</mask>
     <mask>*test*</mask>
+    <mask>*.py</mask>
   </component>
 </application>

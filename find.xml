@@ -16,7 +16,6 @@
     <mask>*.yaml</mask>
     <mask>*.vim</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.hql</mask>
     <mask>*.rst</mask>
     <mask>*.yml</mask>
@@ -33,5 +32,6 @@
     <mask>*.in</mask>
     <mask>*test*</mask>
     <mask>*.py</mask>
+    <mask>*.java</mask>
   </component>
 </application>

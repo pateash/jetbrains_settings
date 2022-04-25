@@ -3,6 +3,9 @@
     <driver id="clickhouse">
       <artifact id="ClickHouse" name="ClickHouse" use="true" version="0.3.1" />
     </driver>
+    <driver id="h2.unified">
+      <artifact id="H2" name="H2" use="true" version="2.1.210" />
+    </driver>
     <driver id="mysql.8" jre-path="$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home">
       <artifact />
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />

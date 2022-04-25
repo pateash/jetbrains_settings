@@ -3,11 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
     <mask>!*.xml</mask>
     <mask>!*.log</mask>
     <mask>pom.xml</mask>
     <mask>*config</mask>
+    <mask>*.vue</mask>
     <mask>*.php</mask>
     <mask>*.json</mask>
     <mask>!*.txt</mask>
@@ -16,6 +16,7 @@
     <mask>*.yaml</mask>
     <mask>*.vim</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
     <mask>*.hql</mask>
     <mask>*.rst</mask>
     <mask>*.yml</mask>
@@ -32,7 +33,5 @@
     <mask>*.in</mask>
     <mask>*test*</mask>
     <mask>*.py</mask>
-    <mask>*.java</mask>
-    <mask>*.vue</mask>
   </component>
 </application>

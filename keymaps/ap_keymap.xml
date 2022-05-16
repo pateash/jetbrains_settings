@@ -36,6 +36,7 @@
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
     <keyboard-shortcut first-keystroke="meta 6" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
   <action id="ActivateMavenToolWindow">
     <keyboard-shortcut first-keystroke="alt m" />
@@ -52,9 +53,6 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
     <keyboard-shortcut first-keystroke="meta 2" />
-  </action>
-  <action id="ActivateTODOToolWindow">
-    <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl t" />

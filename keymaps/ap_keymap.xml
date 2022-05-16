@@ -68,6 +68,7 @@
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
+  <action id="AddToFavoritesPopup" />
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
     <keyboard-shortcut first-keystroke="shift meta i" />
@@ -265,6 +266,9 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="FlutterToolsActionGroup">
+    <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="ForceStepInto" />
   <action id="Forward">

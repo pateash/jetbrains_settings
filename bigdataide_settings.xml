@@ -2,16 +2,16 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="Users/ashishpatel/Desktop/skyscanner/daily-kpi-reports-job/tests/data/expected_calculate_hotels_columns.csv" />
-        <option value="Users/ashishpatel/Desktop/skyscanner/daily-kpi-reports-job/tests/data/expected_sessions_output.csv" />
-        <option value="Users/ashishpatel/Desktop/skyscanner/daily-kpi-reports-job/tests/data/expected_calculate_aggregated_columns.csv" />
-        <option value="Users/ashishpatel/Desktop/skyscanner/daily-kpi-reports-job/tests/data/expected_aggregated_sessions.csv" />
-        <option value="Users/ashishpatel/Desktop/skyscanner/daily-kpi-reports-job/tests/data/expected_add_revenue_columns.csv" />
-        <option value="Users/ashishpatel/Desktop/skyscanner/daily-kpi-reports-job/tests/data/d_platform.csv" />
-        <option value="Users/ashishpatel/Desktop/skyscanner/daily-kpi-reports-job/tests/data/d_market.csv" />
-        <option value="Users/ashishpatel/Desktop/skyscanner/daily-kpi-reports-job/tests/data/d_ga_device.csv" />
-        <option value="jE1n_9__2kpart_00000_ec839bef_49db_47eb_b5dd_82b94ab9fe7a_c000_snappy_parquet_0.data.csv/part-00000-ec839bef-49db-47eb-b5dd-82b94ab9fe7a-c000.snappy.parquet(downloaded)" />
+        <option value="__q_q_part_00102_0f1f2aad_fc02_4ae5_a237_f0ff0c29f599_c000_snappy_parquet_0.data.csv/part-00102-0f1f2aad-fc02-4ae5-a237-f0ff0c29f599-c000.snappy.parquet(downloaded)" />
+        <option value="_c__vpart_00079_b37acd75_ae8c_4b78_a5af_e988e4f65afe_c000_snappy_parquet_0.data.csv/part-00079-b37acd75-ae8c-4b78-a5af-e988e4f65afe-c000.snappy.parquet(downloaded)" />
+        <option value="__f_IH__K_y_part_00000_5e32d912_28f8_4d45_9165_d55ceb6ce988_c000_snappy_parquet_0.data.csv/part-00000-5e32d912-28f8-4d45-9165-d55ceb6ce988-c000.snappy.parquet(downloaded)" />
+        <option value="b___p3_Z1part_00000_1c0b8c05_cab4_484b_ac83_bd66ed9bbdec_c000_snappy_parquet_0.data.csv/part-00000-1c0b8c05-cab4-484b-ac83-bd66ed9bbdec-c000.snappy.parquet(downloaded)" />
+        <option value="3_____k__hpart_00003_58e58cbb_e9c4_405b_8c24_e38d457b89e5_c000_snappy_parquet_0.data.csv/part-00003-58e58cbb-e9c4-405b-8c24-e38d457b89e5.c000.snappy.parquet(downloaded)" />
+        <option value="h1___bpart_00002_58e58cbb_e9c4_405b_8c24_e38d457b89e5_c000_snappy_parquet_0.data.csv/part-00002-58e58cbb-e9c4-405b-8c24-e38d457b89e5.c000.snappy.parquet(downloaded)" />
         <option value="R__e___part_00052_b143ce8a_a575_4dcf_a9af_d880fd683459_c000_snappy_parquet_0.data.csv/part-00052-b143ce8a-a575-4dcf-a9af-d880fd683459-c000.snappy.parquet(downloaded)" />
+        <option value="jE1n_9__2kpart_00000_ec839bef_49db_47eb_b5dd_82b94ab9fe7a_c000_snappy_parquet_0.data.csv/part-00000-ec839bef-49db-47eb-b5dd-82b94ab9fe7a-c000.snappy.parquet(downloaded)" />
+        <option value="Users/ashishpatel/Desktop/skyscanner/daily-kpi-reports-job/tests/data/d_ga_device.csv" />
+        <option value="Users/ashishpatel/Desktop/skyscanner/daily-kpi-reports-job/tests/data/d_market.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/04/0m30sqlx3j71qsb3qwjytpx80000gp/T/HDFS-downloaded" />

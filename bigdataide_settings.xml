@@ -2,6 +2,7 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="_1npart_00102_933695d3_412d_4942_bbc1_0d7bde733a5a_c000_snappy_parquet_0.data.csv/part-00102-933695d3-412d-4942-bbc1-0d7bde733a5a-c000.snappy.parquet(downloaded)" />
         <option value="_c___qiZpart_00079_58240fac_a553_47b1_b723_5b4322da2358_c000_snappy_parquet_0.data.csv/part-00079-58240fac-a553-47b1-b723-5b4322da2358-c000.snappy.parquet(downloaded)" />
         <option value="________Jpart_00102_9e2638c7_7b5b_43d0_b683_cfbfb4c7d67b_c000_snappy_parquet_0.data.csv/part-00102-9e2638c7-7b5b-43d0-b683-cfbfb4c7d67b-c000.snappy.parquet(downloaded)" />
         <option value="_4v_9__part_00000_f4784e20_e66f_48b4_afac_0e9c840d6ee3_c000_snappy_parquet_0.data.csv/part-00000-f4784e20-e66f-48b4-afac-0e9c840d6ee3-c000.snappy.parquet(downloaded)" />
@@ -11,7 +12,6 @@
         <option value="b_R89______part_00001_b4d9ccca_e80e_48be_a328_b0b279b6143d_c000_snappy_parquet_0.data.csv/part-00001-b4d9ccca-e80e-48be-a328-b0b279b6143d.c000.snappy.parquet(downloaded)" />
         <option value="_a__oh_SWYpart_00000_b4d9ccca_e80e_48be_a328_b0b279b6143d_c000_snappy_parquet_0.data.csv/part-00000-b4d9ccca-e80e-48be-a328-b0b279b6143d.c000.snappy.parquet(downloaded)" />
         <option value="U1v_bp_part_00007_b4d9ccca_e80e_48be_a328_b0b279b6143d_c000_snappy_parquet_0.data.csv/part-00007-b4d9ccca-e80e-48be-a328-b0b279b6143d.c000.snappy.parquet(downloaded)" />
-        <option value="_P___part_00006_b4d9ccca_e80e_48be_a328_b0b279b6143d_c000_snappy_parquet_0.data.csv/part-00006-b4d9ccca-e80e-48be-a328-b0b279b6143d.c000.snappy.parquet(downloaded)" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/04/0m30sqlx3j71qsb3qwjytpx80000gp/T/HDFS-downloaded" />

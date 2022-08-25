@@ -1,0 +1,9 @@
+<application>
+  <component name="UISettings">
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="19" />
+    <option name="MAX_LOOKUP_WIDTH2" value="870" />
+    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
+    <option name="SHOW_INPLACE_COMMENTS" value="true" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+  </component>
+</application>

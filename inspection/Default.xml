@@ -1,10 +1,20 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
   <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ourVersions">
+      <value>
+        <list size="2">
+          <item index="0" class="java.lang.String" itemvalue="2.7" />
+          <item index="1" class="java.lang.String" itemvalue="3.11" />
+        </list>
+      </value>
+    </option>
+  </inspection_tool>
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="38">
+        <list size="39">
           <item index="0" class="java.lang.String" itemvalue="ruamel-yaml" />
           <item index="1" class="java.lang.String" itemvalue="ruamel-yaml-clib" />
           <item index="2" class="java.lang.String" itemvalue="pandas" />
@@ -43,6 +53,7 @@
           <item index="35" class="java.lang.String" itemvalue="object-pool" />
           <item index="36" class="java.lang.String" itemvalue="pytz" />
           <item index="37" class="java.lang.String" itemvalue="idna" />
+          <item index="38" class="java.lang.String" itemvalue="asn1crypto" />
         </list>
       </value>
     </option>

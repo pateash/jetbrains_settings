@@ -31,7 +31,7 @@
     <mask>!*test*</mask>
     <mask>*.in</mask>
     <mask>*.yml</mask>
-    <mask>*.py</mask>
     <mask>!*.py</mask>
+    <mask>*.py</mask>
   </component>
 </application>

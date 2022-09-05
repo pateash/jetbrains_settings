@@ -29,9 +29,9 @@
     <mask>*test*</mask>
     <mask>!*.js</mask>
     <mask>!*test*</mask>
-    <mask>*.in</mask>
     <mask>*.yml</mask>
     <mask>!*.py</mask>
     <mask>*.py</mask>
+    <mask>*.in</mask>
   </component>
 </application>

@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>!*.log</mask>
     <mask>pom.xml</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>
@@ -33,5 +32,6 @@
     <mask>!*.py</mask>
     <mask>*.py</mask>
     <mask>*.in</mask>
+    <mask>*.conf</mask>
   </component>
 </application>

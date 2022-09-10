@@ -1,0 +1,22 @@
+<scheme name="ashish-dracula-copy" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <colors>
+    <option name="ADDED_LINES_COLOR" value="3c7f2e" />
+    <option name="BORDER_LINES_COLOR" value="3c3f41" />
+    <option name="DELETED_LINES_COLOR" value="9e1d26" />
+    <option name="MODIFIED_LINES_COLOR" value="1d5eb5" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="8b831c" />
+  </colors>
+  <attributes>
+    <option name="PY.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

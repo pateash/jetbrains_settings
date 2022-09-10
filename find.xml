@@ -1,32 +1,37 @@
 <application>
   <component name="FindSettings">
-    <mask>*.css</mask>
-    <mask>*.html</mask>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>!*.log</mask>
+    <mask>pom.xml</mask>
+    <mask>*config</mask>
+    <mask>*.vue</mask>
+    <mask>*.php</mask>
+    <mask>*.json</mask>
+    <mask>!*.txt</mask>
+    <mask>*.cfg</mask>
+    <mask>!*.java</mask>
+    <mask>*.yaml</mask>
+    <mask>*.vim</mask>
     <mask>*.xml</mask>
-    <mask>*.cu</mask>
-    <mask>*.cxx</mask>
-    <mask>*.hp</mask>
-    <mask>*.i</mask>
-    <mask>*.hh</mask>
-    <mask>*.hxx</mask>
-    <mask>*.cuh</mask>
-    <mask>*.ii</mask>
-    <mask>*.ipp</mask>
-    <mask>*.m</mask>
-    <mask>*.inl</mask>
-    <mask>*.cp</mask>
-    <mask>*.icc</mask>
-    <mask>*.c++</mask>
-    <mask>*.ino</mask>
-    <mask>*.tcc</mask>
-    <mask>*.tpp</mask>
-    <mask>*.mm</mask>
-    <mask>*.pch</mask>
-    <mask>*.hpp</mask>
-    <mask>*.h</mask>
-    <mask>*.h++</mask>
-    <mask>*.cc</mask>
-    <mask>*.c</mask>
-    <mask>*.cpp</mask>
+    <mask>*.java</mask>
+    <mask>*.hql</mask>
+    <mask>*.rst</mask>
+    <mask>*.sh</mask>
+    <mask>!test*</mask>
+    <mask>*.html</mask>
+    <mask>!*.csv</mask>
+    <mask>*.txt</mask>
+    <mask>*Hook*</mask>
+    <mask>*test*.py</mask>
+    <mask>req*db*.txt</mask>
+    <mask>*test*</mask>
+    <mask>!*.js</mask>
+    <mask>!*test*</mask>
+    <mask>*.yml</mask>
+    <mask>!*.py</mask>
+    <mask>*.py</mask>
+    <mask>*.in</mask>
   </component>
 </application>

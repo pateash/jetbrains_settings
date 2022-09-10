@@ -1,0 +1,7 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <rules>
+      <Rule active="false" key="squid:S1220" />
+    </rules>
+  </component>
+</application>

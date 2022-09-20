@@ -21,6 +21,9 @@
       <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="vim" type="PLAIN_TEXT" />
       <mapping ext="dbp" type="PLAIN_TEXT" />
+      <mapping pattern="ddls_manual_update.hql" type="SQL" />
+      <mapping ext="hsql" type="SQL" />
+      <mapping ext="hql" type="SQL" />
       <mapping pattern=".ideavimrc" type="Shell Script" />
       <mapping ext="" type="Shell Script" />
       <mapping pattern="docker-compose.override.yml" type="YAML" />
@@ -52,11 +55,8 @@
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="hql" type="SQL" />
-      <mapping ext="hsql" type="SQL" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="ddls_manual_update.hql" type="SQL" />
     </extensionMap>
   </component>
 </application>

@@ -14,7 +14,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="39">
+        <list size="53">
           <item index="0" class="java.lang.String" itemvalue="ruamel-yaml" />
           <item index="1" class="java.lang.String" itemvalue="ruamel-yaml-clib" />
           <item index="2" class="java.lang.String" itemvalue="pandas" />
@@ -54,6 +54,20 @@
           <item index="36" class="java.lang.String" itemvalue="pytz" />
           <item index="37" class="java.lang.String" itemvalue="idna" />
           <item index="38" class="java.lang.String" itemvalue="asn1crypto" />
+          <item index="39" class="java.lang.String" itemvalue="alchemy-airflow-operators" />
+          <item index="40" class="java.lang.String" itemvalue="boto" />
+          <item index="41" class="java.lang.String" itemvalue="psycopg2" />
+          <item index="42" class="java.lang.String" itemvalue="moto" />
+          <item index="43" class="java.lang.String" itemvalue="deviceatlas" />
+          <item index="44" class="java.lang.String" itemvalue="aws-xray-sdk" />
+          <item index="45" class="java.lang.String" itemvalue="pyaml" />
+          <item index="46" class="java.lang.String" itemvalue="dataset-validator" />
+          <item index="47" class="java.lang.String" itemvalue="mshell-secrets" />
+          <item index="48" class="java.lang.String" itemvalue="wtforms" />
+          <item index="49" class="java.lang.String" itemvalue="jsondiff" />
+          <item index="50" class="java.lang.String" itemvalue="python-jose" />
+          <item index="51" class="java.lang.String" itemvalue="fact-dimension-helper" />
+          <item index="52" class="java.lang.String" itemvalue="pyproject-flake8" />
         </list>
       </value>
     </option>

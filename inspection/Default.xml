@@ -14,7 +14,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="53">
+        <list size="56">
           <item index="0" class="java.lang.String" itemvalue="ruamel-yaml" />
           <item index="1" class="java.lang.String" itemvalue="ruamel-yaml-clib" />
           <item index="2" class="java.lang.String" itemvalue="pandas" />
@@ -68,6 +68,9 @@
           <item index="50" class="java.lang.String" itemvalue="python-jose" />
           <item index="51" class="java.lang.String" itemvalue="fact-dimension-helper" />
           <item index="52" class="java.lang.String" itemvalue="pyproject-flake8" />
+          <item index="53" class="java.lang.String" itemvalue="charset-normalizer" />
+          <item index="54" class="java.lang.String" itemvalue="maxminddb" />
+          <item index="55" class="java.lang.String" itemvalue="geoip2" />
         </list>
       </value>
     </option>

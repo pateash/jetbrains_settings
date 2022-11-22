@@ -14,7 +14,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="56">
+        <list size="78">
           <item index="0" class="java.lang.String" itemvalue="ruamel-yaml" />
           <item index="1" class="java.lang.String" itemvalue="ruamel-yaml-clib" />
           <item index="2" class="java.lang.String" itemvalue="pandas" />
@@ -71,6 +71,28 @@
           <item index="53" class="java.lang.String" itemvalue="charset-normalizer" />
           <item index="54" class="java.lang.String" itemvalue="maxminddb" />
           <item index="55" class="java.lang.String" itemvalue="geoip2" />
+          <item index="56" class="java.lang.String" itemvalue="flask-migrate" />
+          <item index="57" class="java.lang.String" itemvalue="stringcase" />
+          <item index="58" class="java.lang.String" itemvalue="werkzeug" />
+          <item index="59" class="java.lang.String" itemvalue="alembic" />
+          <item index="60" class="java.lang.String" itemvalue="aniso8601" />
+          <item index="61" class="java.lang.String" itemvalue="backoff" />
+          <item index="62" class="java.lang.String" itemvalue="flask-sqlalchemy" />
+          <item index="63" class="java.lang.String" itemvalue="psycopg2-binary" />
+          <item index="64" class="java.lang.String" itemvalue="marshmallow" />
+          <item index="65" class="java.lang.String" itemvalue="flask-restful" />
+          <item index="66" class="java.lang.String" itemvalue="mako" />
+          <item index="67" class="java.lang.String" itemvalue="python-editor" />
+          <item index="68" class="java.lang.String" itemvalue="click" />
+          <item index="69" class="java.lang.String" itemvalue="sqlalchemy" />
+          <item index="70" class="java.lang.String" itemvalue="grappler-container-platform-wrapper" />
+          <item index="71" class="java.lang.String" itemvalue="cachetools" />
+          <item index="72" class="java.lang.String" itemvalue="configobj" />
+          <item index="73" class="java.lang.String" itemvalue="pygithub" />
+          <item index="74" class="java.lang.String" itemvalue="uwsgi" />
+          <item index="75" class="java.lang.String" itemvalue="flask" />
+          <item index="76" class="java.lang.String" itemvalue="itsdangerous" />
+          <item index="77" class="java.lang.String" itemvalue="pyjwt" />
         </list>
       </value>
     </option>

@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.txt" />
     <mask>pom.xml</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>
@@ -21,7 +22,6 @@
     <mask>!test*</mask>
     <mask>*.html</mask>
     <mask>!*.csv</mask>
-    <mask>*.txt</mask>
     <mask>*Hook*</mask>
     <mask>*test*.py</mask>
     <mask>req*db*.txt</mask>
@@ -33,5 +33,6 @@
     <mask>*.conf</mask>
     <mask>*.py</mask>
     <mask>*.in</mask>
+    <mask>*.txt</mask>
   </component>
 </application>

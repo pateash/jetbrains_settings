@@ -14,7 +14,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="78">
+        <list size="138">
           <item index="0" class="java.lang.String" itemvalue="ruamel-yaml" />
           <item index="1" class="java.lang.String" itemvalue="ruamel-yaml-clib" />
           <item index="2" class="java.lang.String" itemvalue="pandas" />
@@ -93,6 +93,66 @@
           <item index="75" class="java.lang.String" itemvalue="flask" />
           <item index="76" class="java.lang.String" itemvalue="itsdangerous" />
           <item index="77" class="java.lang.String" itemvalue="pyjwt" />
+          <item index="78" class="java.lang.String" itemvalue="tzlocal" />
+          <item index="79" class="java.lang.String" itemvalue="colorlog" />
+          <item index="80" class="java.lang.String" itemvalue="json-merge-patch" />
+          <item index="81" class="java.lang.String" itemvalue="tabulate" />
+          <item index="82" class="java.lang.String" itemvalue="defusedxml" />
+          <item index="83" class="java.lang.String" itemvalue="kombu" />
+          <item index="84" class="java.lang.String" itemvalue="apispec" />
+          <item index="85" class="java.lang.String" itemvalue="redis" />
+          <item index="86" class="java.lang.String" itemvalue="graphviz" />
+          <item index="87" class="java.lang.String" itemvalue="pendulum" />
+          <item index="88" class="java.lang.String" itemvalue="prison" />
+          <item index="89" class="java.lang.String" itemvalue="vine" />
+          <item index="90" class="java.lang.String" itemvalue="sqlalchemy-utils" />
+          <item index="91" class="java.lang.String" itemvalue="argcomplete" />
+          <item index="92" class="java.lang.String" itemvalue="gunicorn" />
+          <item index="93" class="java.lang.String" itemvalue="python3-openid" />
+          <item index="94" class="java.lang.String" itemvalue="psutil" />
+          <item index="95" class="java.lang.String" itemvalue="configparser" />
+          <item index="96" class="java.lang.String" itemvalue="marshmallow-enum" />
+          <item index="97" class="java.lang.String" itemvalue="humanize" />
+          <item index="98" class="java.lang.String" itemvalue="flask-appbuilder-skyscanner" />
+          <item index="99" class="java.lang.String" itemvalue="sqlalchemy-jsonfield" />
+          <item index="100" class="java.lang.String" itemvalue="python-daemon" />
+          <item index="101" class="java.lang.String" itemvalue="apache-airflow-skyscanner" />
+          <item index="102" class="java.lang.String" itemvalue="funcsigs" />
+          <item index="103" class="java.lang.String" itemvalue="flask-caching" />
+          <item index="104" class="java.lang.String" itemvalue="flask-admin" />
+          <item index="105" class="java.lang.String" itemvalue="flask-swagger" />
+          <item index="106" class="java.lang.String" itemvalue="pyrsistent" />
+          <item index="107" class="java.lang.String" itemvalue="flask-openid" />
+          <item index="108" class="java.lang.String" itemvalue="celery" />
+          <item index="109" class="java.lang.String" itemvalue="pytzdata" />
+          <item index="110" class="java.lang.String" itemvalue="zope.deprecation" />
+          <item index="111" class="java.lang.String" itemvalue="flask-login" />
+          <item index="112" class="java.lang.String" itemvalue="flask-babel" />
+          <item index="113" class="java.lang.String" itemvalue="tenacity" />
+          <item index="114" class="java.lang.String" itemvalue="markdown" />
+          <item index="115" class="java.lang.String" itemvalue="thrift" />
+          <item index="116" class="java.lang.String" itemvalue="cached-property" />
+          <item index="117" class="java.lang.String" itemvalue="billiard" />
+          <item index="118" class="java.lang.String" itemvalue="pygments" />
+          <item index="119" class="java.lang.String" itemvalue="cattrs" />
+          <item index="120" class="java.lang.String" itemvalue="croniter" />
+          <item index="121" class="java.lang.String" itemvalue="marshmallow-sqlalchemy" />
+          <item index="122" class="java.lang.String" itemvalue="tornado" />
+          <item index="123" class="java.lang.String" itemvalue="amqp" />
+          <item index="124" class="java.lang.String" itemvalue="iso8601" />
+          <item index="125" class="java.lang.String" itemvalue="flask-jwt-extended" />
+          <item index="126" class="java.lang.String" itemvalue="text-unidecode" />
+          <item index="127" class="java.lang.String" itemvalue="dill" />
+          <item index="128" class="java.lang.String" itemvalue="flower" />
+          <item index="129" class="java.lang.String" itemvalue="lazy-object-proxy" />
+          <item index="130" class="java.lang.String" itemvalue="lockfile" />
+          <item index="131" class="java.lang.String" itemvalue="termcolor" />
+          <item index="132" class="java.lang.String" itemvalue="colorama" />
+          <item index="133" class="java.lang.String" itemvalue="future" />
+          <item index="134" class="java.lang.String" itemvalue="babel" />
+          <item index="135" class="java.lang.String" itemvalue="flask-wtf" />
+          <item index="136" class="java.lang.String" itemvalue="setproctitle" />
+          <item index="137" class="java.lang.String" itemvalue="unicodecsv" />
         </list>
       </value>
     </option>

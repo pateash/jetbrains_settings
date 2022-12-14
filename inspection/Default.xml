@@ -14,7 +14,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="140">
+        <list size="145">
           <item index="0" class="java.lang.String" itemvalue="ruamel-yaml" />
           <item index="1" class="java.lang.String" itemvalue="ruamel-yaml-clib" />
           <item index="2" class="java.lang.String" itemvalue="pandas" />
@@ -155,6 +155,11 @@
           <item index="137" class="java.lang.String" itemvalue="unicodecsv" />
           <item index="138" class="java.lang.String" itemvalue="pytest" />
           <item index="139" class="java.lang.String" itemvalue="setuptools" />
+          <item index="140" class="java.lang.String" itemvalue="jprops" />
+          <item index="141" class="java.lang.String" itemvalue="Jinja2" />
+          <item index="142" class="java.lang.String" itemvalue="drone" />
+          <item index="143" class="java.lang.String" itemvalue="argparse" />
+          <item index="144" class="java.lang.String" itemvalue="pykwalify" />
         </list>
       </value>
     </option>

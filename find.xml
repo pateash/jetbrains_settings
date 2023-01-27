@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>pom.xml</mask>
+    <mask>*config</mask>
+    <mask>*.vue</mask>
+    <mask>*.php</mask>
+    <mask>*.json</mask>
+    <mask>!*.txt</mask>
+    <mask>*.cfg</mask>
+    <mask>!*.java</mask>
+    <mask>*.yaml</mask>
+    <mask>*.vim</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.hql</mask>
+    <mask>*.rst</mask>
+    <mask>*.sh</mask>
+    <mask>!test*</mask>
+    <mask>*.html</mask>
+    <mask>!*.csv</mask>
+    <mask>*Hook*</mask>
+    <mask>*test*.py</mask>
+    <mask>req*db*.txt</mask>
+    <mask>*test*</mask>
+    <mask>!*.js</mask>
+    <mask>!*test*</mask>
+    <mask>*.yml</mask>
+    <mask>!*.py</mask>
+    <mask>*.conf</mask>
+    <mask>*.in</mask>
+    <mask>*.txt</mask>
+    <mask>*.py</mask>
+  </component>
+</application>

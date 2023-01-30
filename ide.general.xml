@@ -10,6 +10,7 @@
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
     <entry key="python.scientific.show_help_window" value="false" />
     <entry key="python.scientific.always_use_sci_view" value="true" />
+    <entry key="editor.minimap.enabled" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

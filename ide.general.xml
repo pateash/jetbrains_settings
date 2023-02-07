@@ -11,8 +11,7 @@
     <entry key="python.scientific.show_help_window" value="false" />
     <entry key="python.scientific.always_use_sci_view" value="true" />
     <entry key="editor.minimap.enabled" value="true" />
-    <entry key="ide.experimental.ui" value="true" />
-    <entry key="debugger.new.tool.window.layout" value="true" />
+    <entry key="ide.experimental.ui" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

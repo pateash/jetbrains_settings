@@ -11,6 +11,7 @@
     <entry key="python.scientific.show_help_window" value="false" />
     <entry key="python.scientific.always_use_sci_view" value="true" />
     <entry key="editor.minimap.enabled" value="true" />
+    <entry key="analyze.exceptions.on.the.fly" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

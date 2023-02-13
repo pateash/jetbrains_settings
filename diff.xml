@@ -109,6 +109,7 @@
       </entry>
       <entry key="Default">
         <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="SHOW_WHITESPACES" value="true" />
           <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>

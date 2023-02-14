@@ -150,11 +150,13 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*PARSER_ERROR.*" />
                       <option name="inputFilter" value="true" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*                TOKENS:.*" />
                       <option name="inputFilter" value="true" />
                     </GrepExpressionItem>

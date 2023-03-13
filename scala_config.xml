@@ -3,6 +3,7 @@
     <option name="version" value="2" />
   </component>
   <component name="ScalaApplicationSettings">
+    <option name="SPECIFY_RETURN_TYPE_EXPLICITLY" value="ADD" />
     <option name="ADD_UNAMBIGUOUS_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_UNAMBIGUOUS_IMPORTS_ON_THE_FLY_METHODS" value="true" />
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />

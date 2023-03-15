@@ -270,7 +270,6 @@
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="ctrl u" />
-    <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="FlutterToolsActionGroup">
     <keyboard-shortcut first-keystroke="shift alt f" />
@@ -295,8 +294,7 @@
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="shift meta enter" />
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
-    <mouse-shortcut keystroke="meta button3" />
-    <mouse-shortcut keystroke="control button3" />
+    <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />

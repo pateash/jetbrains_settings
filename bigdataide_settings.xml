@@ -4,14 +4,14 @@
       <list>
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/informatica/POC/GUEST_APPOINTMENT_Target.csv" />
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/informatica/POC/V_ADGAPD_Source2.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/informatica/POC/dummy.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/informatica/POC/GUEST_APPOINTMENT_ORACLE_Target.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/informatica/POC/Target.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/informatica/POC/source1.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/informatica/POC/source-2.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/informatica/POC/source_1.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/prophecy/resources/test/informatica/AUDIT_JOB_RUN_LOG.csv" />
         <option value="___Xuibe_part_00102_c827f5af_4f00_47cc_b04f_135151db88e9_c000_snappy_parquet_0.data.csv/part-00102-c827f5af-4f00-47cc-b04f-135151db88e9-c000.snappy.parquet(downloaded)" />
+        <option value="Users/ashishpatel/prophecy-dev/prophecy/resources/test/informatica/AUDIT_JOB_RUN_LOG.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/informatica/POC/source_1.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/informatica/POC/source-2.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/informatica/POC/source1.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/informatica/POC/Target.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/informatica/POC/GUEST_APPOINTMENT_ORACLE_Target.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/informatica/POC/dummy.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/04/0m30sqlx3j71qsb3qwjytpx80000gp/T/HDFS-downloaded" />

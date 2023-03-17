@@ -43,7 +43,20 @@
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="ActivateMessagesToolWindow" />
+  <action id="ActivateProblemsViewToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
   <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ActivateTerminalToolWindow">
@@ -88,6 +101,7 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f10" />
     <keyboard-shortcut first-keystroke="alt 3" />
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
@@ -148,6 +162,7 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="alt 5" />
+    <keyboard-shortcut first-keystroke="meta 5" />
   </action>
   <action id="DelombokActionGroup">
     <keyboard-shortcut first-keystroke="shift alt l" />

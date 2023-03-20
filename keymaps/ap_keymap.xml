@@ -289,6 +289,9 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
+  <action id="Git.Log.Branches.Change.Branch.Filter">
+    <mouse-shortcut keystroke="button1 doubleClick" />
+  </action>
   <action id="Git.Menu">
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
@@ -338,6 +341,7 @@
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="Jdbc.OpenEditor.DDL" />
+  <action id="JupyterMarkdownDestroyControllerAction" />
   <action id="LombokActionGroup">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
@@ -441,6 +445,9 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ScalaConsole.Execute">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="ScrollPane-scrollEnd">
     <keyboard-shortcut first-keystroke="meta down" />

@@ -141,8 +141,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
-  <action id="Console.Execute" />
-  <action id="Console.Execute.Multiline" />
+  <action id="Console.Execute.Multiline">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="Console.Jdbc.Execute">
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
@@ -179,7 +180,6 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
-  <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -203,7 +203,6 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
-  <action id="EditorChooseLookupItem" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStartWithSelection" />
@@ -445,9 +444,6 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
-  <action id="ScalaConsole.Execute">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="ScrollPane-scrollEnd">
     <keyboard-shortcut first-keystroke="meta down" />

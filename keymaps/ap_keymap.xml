@@ -440,6 +440,9 @@
   <action id="Scala.RunWorksheet">
     <keyboard-shortcut first-keystroke="meta period" />
   </action>
+  <action id="Scala.ShowImplicitArguments">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="Scala.ShowImplicitConversions" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
@@ -452,9 +455,6 @@
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="ScrollTreeToCenter" />
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="shift meta p" />
-  </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
     <keyboard-shortcut first-keystroke="alt c" />

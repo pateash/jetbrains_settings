@@ -35,7 +35,7 @@
     <mask>*.in</mask>
     <mask>*.txt</mask>
     <mask>*.py</mask>
-    <mask>!*.scala</mask>
     <mask>*.scala</mask>
+    <mask>!*.scala</mask>
   </component>
 </application>

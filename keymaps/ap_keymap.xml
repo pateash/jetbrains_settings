@@ -288,6 +288,10 @@
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="alt f3" />

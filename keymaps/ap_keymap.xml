@@ -78,6 +78,12 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="AddToFavoritesPopup" />
+  <action id="Arrangement.Alias.Rule.Add">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="Arrangement.Rule.Add">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
     <keyboard-shortcut first-keystroke="shift meta i" />
@@ -85,6 +91,21 @@
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="BigDataTools.CreateConnectionsAction">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="BigDataTools.CreateFileAction">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="BigDataTools.NewElement">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="BigDataTools.RfsCreateBucketAction">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="BigDataTools.Zeppelin.CreateNoteAction">
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="CallHierarchy" />
   <action id="ChangesView.GroupBy.Directory" />
@@ -325,6 +346,7 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl 3" />
     <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
@@ -350,7 +372,6 @@
   <action id="MoveLineUp" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt n" />
-    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="alt dead_tilde" />
@@ -459,6 +480,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="ServiceView.AddService">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="ShelveChanges.UnshelveWithDialog">
     <keyboard-shortcut first-keystroke="meta alt u" />
   </action>
@@ -531,6 +555,9 @@
   </action>
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="Uml.NewElement">
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />

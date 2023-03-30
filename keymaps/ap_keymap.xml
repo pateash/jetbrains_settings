@@ -150,6 +150,11 @@
     <keyboard-shortcut first-keystroke="ctrl alt minus" />
     <keyboard-shortcut first-keystroke="meta alt minus" />
   </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
   <action id="CollapseRegionRecursively">
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
@@ -280,6 +285,11 @@
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="ctrl alt equals" />
     <keyboard-shortcut first-keystroke="meta alt equals" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+    <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
@@ -431,6 +441,10 @@
   <action id="RefactoringMenu">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
   <action id="RenameFile">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
@@ -489,6 +503,10 @@
   </action>
   <action id="ShelveChanges.UnshelveWithDialog">
     <keyboard-shortcut first-keystroke="meta alt u" />
+  </action>
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+    <keyboard-shortcut first-keystroke="meta quote" />
   </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta alt enter" />

@@ -78,12 +78,6 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="AddToFavoritesPopup" />
-  <action id="Arrangement.Alias.Rule.Add">
-    <keyboard-shortcut first-keystroke="alt n" />
-  </action>
-  <action id="Arrangement.Rule.Add">
-    <keyboard-shortcut first-keystroke="alt n" />
-  </action>
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
     <keyboard-shortcut first-keystroke="shift meta i" />
@@ -91,21 +85,6 @@
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta left" />
-  </action>
-  <action id="BigDataTools.CreateConnectionsAction">
-    <keyboard-shortcut first-keystroke="alt n" />
-  </action>
-  <action id="BigDataTools.CreateFileAction">
-    <keyboard-shortcut first-keystroke="alt n" />
-  </action>
-  <action id="BigDataTools.NewElement">
-    <keyboard-shortcut first-keystroke="alt n" />
-  </action>
-  <action id="BigDataTools.RfsCreateBucketAction">
-    <keyboard-shortcut first-keystroke="alt n" />
-  </action>
-  <action id="BigDataTools.Zeppelin.CreateNoteAction">
-    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="CallHierarchy" />
   <action id="ChangesView.GroupBy.Directory" />
@@ -232,10 +211,15 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="EditorAddCaretPerSelectedLine">
+    <mouse-shortcut keystroke="shift alt button1 doubleClick" />
+  </action>
+  <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorCompleteStatement" />
+  <action id="EditorCreateRectangularSelection" />
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="button2" />
   </action>
@@ -303,7 +287,7 @@
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
-    <keyboard-shortcut first-keystroke="meta s" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
@@ -335,6 +319,7 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="alt a" />
+    <keyboard-shortcut first-keystroke="alt dead_macron" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass">
@@ -383,11 +368,9 @@
   <action id="Move" />
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
-  <action id="NewElement">
-    <keyboard-shortcut first-keystroke="alt n" />
-  </action>
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="alt dead_tilde" />
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="shift alt down" />
@@ -471,6 +454,10 @@
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Scala.ExpandImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
     <keyboard-shortcut first-keystroke="shift ctrl alt subtract" />
@@ -492,9 +479,6 @@
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
     <keyboard-shortcut first-keystroke="alt c" />
-  </action>
-  <action id="ServiceView.AddService">
-    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog">
     <keyboard-shortcut first-keystroke="meta alt u" />
@@ -535,7 +519,7 @@
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="StringManipulation.Group.Main">
-    <keyboard-shortcut first-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
   <action id="SurroundWith" />
   <action id="SurroundWithEmmet">
@@ -573,9 +557,6 @@
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
-  <action id="Uml.NewElement">
-    <keyboard-shortcut first-keystroke="alt n" />
-  </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
     <keyboard-shortcut first-keystroke="shift meta k" />
@@ -603,6 +584,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
   <action id="context.load" />
+  <action id="context.save" />
   <action id="hg4idea.QFold" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />

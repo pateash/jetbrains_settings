@@ -214,6 +214,7 @@
   <action id="EditorAddCaretPerSelectedLine">
     <mouse-shortcut keystroke="shift alt button1 doubleClick" />
   </action>
+  <action id="EditorAddOrRemoveCaret" />
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCodeBlockEndWithSelection" />
@@ -252,6 +253,9 @@
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleCase" />
+  <action id="EditorToggleColumnMode">
+    <mouse-shortcut keystroke="shift alt button1" />
+  </action>
   <action id="EditorUnSelectWord" />
   <action id="EmmetEverywhere">
     <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />

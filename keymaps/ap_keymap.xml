@@ -482,6 +482,10 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="Scala.ShowImplicitConversions" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="ScrollPane-scrollEnd">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>

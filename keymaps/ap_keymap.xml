@@ -460,6 +460,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
     <keyboard-shortcut first-keystroke="shift ctrl t" />
     <keyboard-shortcut first-keystroke="meta u" />
+    <keyboard-shortcut first-keystroke="alt u" />
+    <keyboard-shortcut first-keystroke="alt dead_diaeresis" />
   </action>
   <action id="RunDashboard.Run">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
@@ -610,6 +612,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
     <keyboard-shortcut first-keystroke="shift ctrl t" />
     <keyboard-shortcut first-keystroke="meta u" />
+    <keyboard-shortcut first-keystroke="alt dead_diaeresis" />
+    <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="tasks.and.contexts">
     <keyboard-shortcut first-keystroke="meta alt i" />

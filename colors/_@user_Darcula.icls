@@ -4,11 +4,11 @@
     <property name="created">2020-10-28T17:38:14</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2023-04-27T03:23:33</property>
+    <property name="modified">2023-04-27T12:56:30</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="9" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <attributes>
     <option name="EDITORCONFIG_SPECIAL_SYMBOL">

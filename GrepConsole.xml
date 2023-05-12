@@ -140,10 +140,12 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*INFO.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*info.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
@@ -154,6 +156,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*warn.*" />
                       <option name="inputFilter" value="true" />
                     </GrepExpressionItem>
@@ -171,6 +174,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*unwanted line.*" />
                       <option name="inputFilter" value="true" />
                     </GrepExpressionItem>

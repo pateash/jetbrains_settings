@@ -9,7 +9,6 @@
     <mask>*config</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
-    <mask>*.json</mask>
     <mask>!*.txt</mask>
     <mask>*.cfg</mask>
     <mask>!*.java</mask>
@@ -37,5 +36,6 @@
     <mask>!*.scala</mask>
     <mask>*.py</mask>
     <mask>*.scala</mask>
+    <mask>*.json</mask>
   </component>
 </application>

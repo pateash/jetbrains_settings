@@ -2,16 +2,16 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="Users/ashishpatel/prophecy-dev/POC/wholesale-trade-survey-september-2022-quarter-csv.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/POC/test.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/POC/informatica/POC/GUEST_APPOINTMENT_Target.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/POC/informatica/POC/dummy.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/POC/HSBC-genome-sample/Street_Lights2.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/POC/HSBC-genome-sample/Street_Lights.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/POC/jaffle_shop/seeds/raw_payments.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/POC/clearwater_analytics_demo/seeds/raw_customers.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/informatica/POC/dummy.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/covid_data_india.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/covid_data_india2.csv" />
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/informatica/POC/GUEST_APPOINTMENT_ORACLE_Target.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/informatica/POC/dummy.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/POC/clearwater_analytics_demo/seeds/raw_customers.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/POC/jaffle_shop/seeds/raw_payments.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/POC/HSBC-genome-sample/Street_Lights.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/POC/HSBC-genome-sample/Street_Lights2.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/POC/informatica/POC/dummy.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/POC/informatica/POC/GUEST_APPOINTMENT_Target.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/04/0m30sqlx3j71qsb3qwjytpx80000gp/T/HDFS-downloaded" />

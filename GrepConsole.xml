@@ -83,7 +83,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-937820105" />
+                              <option name="color" value="-6514592" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -96,11 +96,16 @@
                       <option name="grepExpression" value=".*INFO.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="style">
                         <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-10322532" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
                           <option name="foregroundColor">
                             <GrepColor>
                               <option name="color" value="-8355712" />
@@ -140,12 +145,10 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*INFO.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*info.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>

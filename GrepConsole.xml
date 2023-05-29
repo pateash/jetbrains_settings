@@ -32,6 +32,7 @@
                       <option name="grepExpression" value=".*info.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="style">
@@ -46,6 +47,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value=".*warn.*" />
                     </GrepExpressionItem>

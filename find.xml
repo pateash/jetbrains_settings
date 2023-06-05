@@ -35,7 +35,8 @@
     <mask>*.txt</mask>
     <mask>!*.scala</mask>
     <mask>*.py</mask>
-    <mask>*.scala</mask>
     <mask>*.json</mask>
+    <mask>*.scala</mask>
+    <mask>config.scala</mask>
   </component>
 </application>

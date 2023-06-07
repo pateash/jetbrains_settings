@@ -189,6 +189,9 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="Documentation.ViewExternal">
+    <keyboard-shortcut first-keystroke="shift f1" />
+  </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
@@ -568,6 +571,9 @@
   </action>
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="Vcs.Log.ShowTooltip">
+    <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />

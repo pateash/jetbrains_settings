@@ -7,6 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scala" />
     <mask>pom.xml</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>
@@ -38,7 +39,7 @@
     <mask>!*.scala</mask>
     <mask>*.py</mask>
     <mask>*.json</mask>
-    <mask>*.scala</mask>
     <mask>config.scala</mask>
+    <mask>*.scala</mask>
   </component>
 </application>

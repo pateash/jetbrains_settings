@@ -499,7 +499,7 @@
   </action>
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="ctrl f1" />
-    <keyboard-shortcut first-keystroke="meta j" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta alt enter" />

@@ -238,9 +238,6 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
-  <action id="EditorIncreaseFontSize">
-    <keyboard-shortcut first-keystroke="alt equals" />
-  </action>
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="ctrl alt j" />
   </action>
@@ -288,7 +285,9 @@
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="ExportToTextFile" />
-  <action id="ExpressionTypeInfo" />
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
   <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
@@ -359,6 +358,7 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="HippieCompletion" />
   <action id="IlluminatedCloud.SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
@@ -402,6 +402,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
+  <action id="Play2.TypeInfo" />
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift f7" />
     <keyboard-shortcut first-keystroke="shift alt up" />
@@ -414,7 +415,7 @@
   <action id="PropertyInspectorActions.EditValue" />
   <action id="QuickActionPopup" />
   <action id="QuickEvaluateExpression">
-    <keyboard-shortcut first-keystroke="alt period" />
+    <keyboard-shortcut first-keystroke="alt equals" />
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
@@ -482,6 +483,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="Scala.TypeInfo" />
   <action id="ScrollPane-scrollEnd">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -561,6 +563,7 @@
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="TerminalIncreaseFontSize" />
   <action id="ToggleBookmark3" />
   <action id="ToggleCompletionHintsAction">
     <keyboard-shortcut first-keystroke="alt k" />

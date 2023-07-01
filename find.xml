@@ -2,11 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="!*.py" />
     <mask>pom.xml</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>
@@ -31,7 +28,6 @@
     <mask>!*.js</mask>
     <mask>!*test*</mask>
     <mask>*.yml</mask>
-    <mask>!*.py</mask>
     <mask>*.conf</mask>
     <mask>*.in</mask>
     <mask>*.txt</mask>
@@ -40,5 +36,6 @@
     <mask>config.scala</mask>
     <mask>!*.scala</mask>
     <mask>*.scala</mask>
+    <mask>!*.py</mask>
   </component>
 </application>

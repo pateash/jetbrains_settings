@@ -4,7 +4,7 @@
       <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="/opt/homebrew/bin/node">
-      <version-cache version="19.5.0" last-modified="1674828717095" />
+      <version-cache version="20.3.1" last-modified="1688369262139" />
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/17.2.0/bin/node">
       <version-cache last-modified="0" />

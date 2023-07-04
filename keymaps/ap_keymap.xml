@@ -168,6 +168,10 @@
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
+  <action id="Console.TableResult.NavigateExportedAction">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="CopyElement" />
   <action id="DBNavigator.Actions.Execute">
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -305,6 +309,10 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="FindUsagesMenuGroup">
+    <keyboard-shortcut first-keystroke="alt dead_diaeresis" />
+    <keyboard-shortcut first-keystroke="alt u" />
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
   <action id="FlutterToolsActionGroup">
@@ -455,8 +463,6 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
     <keyboard-shortcut first-keystroke="meta u" />
-    <keyboard-shortcut first-keystroke="alt u" />
-    <keyboard-shortcut first-keystroke="alt dead_diaeresis" />
   </action>
   <action id="RunDashboard.Run">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
@@ -607,12 +613,14 @@
   <action id="context.save" />
   <action id="hg4idea.QFold" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
+  <action id="org.jetbrains.security.toolwindow.tree.actions.FindUsagesAction">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
   <action id="runShellFileAction">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
     <keyboard-shortcut first-keystroke="meta u" />
-    <keyboard-shortcut first-keystroke="alt dead_diaeresis" />
-    <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="tasks.and.contexts">
     <keyboard-shortcut first-keystroke="meta alt i" />

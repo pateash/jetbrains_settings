@@ -88,7 +88,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*ERROR.*" />
+                      <option name="grepExpression" value=".*error.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">

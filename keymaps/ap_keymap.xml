@@ -311,8 +311,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
   <action id="FindUsagesMenuGroup">
-    <keyboard-shortcut first-keystroke="alt dead_diaeresis" />
-    <keyboard-shortcut first-keystroke="alt u" />
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
   <action id="FlutterToolsActionGroup">
@@ -328,6 +326,9 @@
   </action>
   <action id="Git.Menu">
     <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
+  <action id="GoToCodeGroup">
+    <keyboard-shortcut first-keystroke="alt dead_diaeresis" />
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
@@ -524,6 +525,7 @@
     <keyboard-shortcut first-keystroke="meta comma" />
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
+  <action id="ShowUsages" />
   <action id="SmartTypeCompletion" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift alt h" />

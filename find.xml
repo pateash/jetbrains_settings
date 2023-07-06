@@ -3,7 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.sbt" />
     <mask>pom.xml</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>
@@ -37,5 +37,6 @@
     <mask>!*.scala</mask>
     <mask>!*.py</mask>
     <mask>*.scala</mask>
+    <mask>*.sbt</mask>
   </component>
 </application>

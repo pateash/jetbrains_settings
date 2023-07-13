@@ -1,8 +1,9 @@
 <application>
   <component name="ScalaSettings">
     <option name="COMPILE_SERVER_PORT" value="51316" />
-    <option name="COMPILE_SERVER_SDK" value="java version &quot;17.0.6+1&quot;" />
+    <option name="COMPILE_SERVER_SDK" value="zulu-11" />
     <option name="COMPILE_SERVER_ID" value="9a2bd8a5-a03e-4b3a-b2b9-efb618cc4f3a" />
+    <option name="USE_DEFAULT_SDK" value="false" />
     <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="4096" />
     <option name="COMPILE_SERVER_PARALLELISM" value="12" />
   </component>

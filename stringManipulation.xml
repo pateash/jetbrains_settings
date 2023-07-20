@@ -1,0 +1,12 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="lastActionModel">
+      <UniversalActionModel>
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToUpperCaseAction" />
+        <option name="description" value="To Upper Case" />
+        <option name="textWithMnemonic" value="To UPPER CASE" />
+      </UniversalActionModel>
+    </option>
+    <option name="version" value="2" />
+  </component>
+</application>

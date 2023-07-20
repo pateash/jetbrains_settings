@@ -1,0 +1,9 @@
+<application>
+  <component name="CommonProfilerUISettings">
+    <option name="processOptions">
+      <process-tab>
+        <option name="filterDevelopmentTools" value="false" />
+      </process-tab>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="pateash" id="9fdc8356-a911-4205-b845-33a75c43c12e">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="CLONE_GIT_USING_SSH" value="true" />
+  </component>
+</application>

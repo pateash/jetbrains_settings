@@ -1,0 +1,213 @@
+<templateSet group="BulmaCSS">
+  <template name="bm:box" value="&lt;div class=&quot;box&quot;&gt;&lt;!--media for box--&gt;&#10;    &lt;article class=&quot;media&quot;&gt;&#10;        &lt;div class=&quot;media-left&quot;&gt;&#10;            &lt;figure class=&quot;image is-64x64&quot;&gt;&#10;                &lt;img src=&quot;$IMAGE$&quot; alt=&quot;Image&quot;&gt;&#10;            &lt;/figure&gt;&#10;        &lt;/div&gt;&#10;        &lt;div class=&quot;media-content&quot;&gt;&#10;            &lt;div class=&quot;content&quot;&gt;&#10;                &lt;p&gt;&lt;!--title--&gt;&#10;                    &lt;strong&gt;$TITLE$&lt;/strong&gt; &lt;small&gt;$TITLEINFO$&lt;/small&gt;&#10;                    &lt;br&gt;&lt;!--body--&gt;&#10;                      $BODY$&#10;                &lt;/p&gt;&#10;            &lt;/div&gt;&lt;!--font-awesome icons--&gt;&#10;            &lt;nav class=&quot;level is-mobile&quot;&gt;&#10;                &lt;div class=&quot;level-left&quot;&gt;&#10;                    &lt;a class=&quot;level-item&quot;&gt;&#10;                        &lt;span class=&quot;icon is-small&quot;&gt;&lt;i class=&quot;fa fa-reply&quot;&gt;&lt;/i&gt;&lt;/span&gt;&#10;                    &lt;/a&gt;&#10;                    &lt;a class=&quot;level-item&quot;&gt;&#10;                        &lt;span class=&quot;icon is-small&quot;&gt;&lt;i class=&quot;fa fa-retweet&quot;&gt;&lt;/i&gt;&lt;/span&gt;&#10;                    &lt;/a&gt;&#10;                    &lt;a class=&quot;level-item&quot;&gt;&#10;                        &lt;span class=&quot;icon is-small&quot;&gt;&lt;i class=&quot;fa fa-heart&quot;&gt;&lt;/i&gt;&lt;/span&gt;&#10;                    &lt;/a&gt;&#10;                &lt;/div&gt;&#10;            &lt;/nav&gt;&#10;        &lt;/div&gt;&#10;    &lt;/article&gt;&#10;&lt;/div&gt;" description="bulma box" toReformat="false" toShortenFQNames="true">
+    <variable name="IMAGE" expression="" defaultValue="image url" alwaysStopAt="true" />
+    <variable name="TITLE" expression="" defaultValue="title" alwaysStopAt="true" />
+    <variable name="TITLEINFO" expression="" defaultValue="title info" alwaysStopAt="true" />
+    <variable name="BODY" expression="" defaultValue="body" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:all" value="&#10;  &lt;a class=&quot;button&quot;&gt;$Button$&lt;/a&gt;&#10;  &lt;a class=&quot;button is-white&quot;&gt;$Button$&lt;/a&gt;&#10;  &lt;a class=&quot;button is-light&quot;&gt;$Button$&lt;/a&gt;&#10;  &lt;a class=&quot;button is-dark&quot;&gt;$Button$&lt;/a&gt;&#10;  &lt;a class=&quot;button is-black&quot;&gt;$Button$&lt;/a&gt;&#10;  &lt;a class=&quot;button is-link&quot;&gt;$Button$&lt;/a&gt;&#10;  &lt;a class=&quot;button is-primary&quot;&gt;$Button$&lt;/a&gt;&#10;  &lt;a class=&quot;button is-info&quot;&gt;$Button$&lt;/a&gt;&#10;  &lt;a class=&quot;button is-success&quot;&gt;$Button$&lt;/a&gt;&#10;  &lt;a class=&quot;button is-warning&quot;&gt;$Button$&lt;/a&gt;&#10;  &lt;a class=&quot;button is-danger&quot;&gt;$Button$&lt;/a&gt;&#10;" description="all button styles" toReformat="false" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:disabled" value="&lt;a class=&quot;button&quot; title=&quot;Disabled button&quot; disabled&gt;$BUTTON$&lt;/a&gt;" description="default disabled button" toReformat="true" toShortenFQNames="true">
+    <variable name="BUTTON" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:hovered" value="&lt;a class=&quot;button is-hovered&quot;&gt;$Button$&lt;/a&gt;" description="default hovered button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:focused" value="&lt;a class=&quot;button is-focused&quot;&gt;$Button$&lt;/a&gt;" description="default  focused button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:active" value="&lt;a class=&quot;button is-active&quot;&gt;$Button$&lt;/a&gt;" description="default  active button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:loading" value="&lt;a class=&quot;button is-loading&quot;&gt;$Button$&lt;/a&gt;" description="default loading button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:black" value="&lt;a class=&quot;button is-black&quot;&gt;$Button$&lt;/a&gt;" description="black button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:danger" value="&lt;a class=&quot;button is-danger&quot;&gt;$Button$&lt;/a&gt;" description="danger button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:danger:outlined" value="&lt;a class=&quot;button is-danger is-outlined&quot;&gt;$Button$&lt;/a&gt;" description="danger outlined button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:dark" value="&lt;a class=&quot;button is-dark&quot;&gt;$Button$&lt;/a&gt;" description="dark button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:default" value="&lt;a class=&quot;button&quot;&gt;$Button$&lt;/a&gt;" description="default button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:icon" value="&lt;a class=&quot;button&quot;&gt;&#10;    &lt;span class=&quot;icon&quot;&gt;&#10;      &lt;!-- icon to be used --&gt;&#10;      &lt;i class=&quot;fa fa-$ICON$&quot;&gt;&lt;/i&gt;&#10;    &lt;/span&gt;&#10;    &lt;!-- button text --&gt;&#10;    &lt;span&gt;$BUTTON$&lt;/span&gt;&#10;&lt;/a&gt;" description="default button with icon and text" toReformat="true" toShortenFQNames="true">
+    <variable name="ICON" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BUTTON" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:icon:only" value="&lt;a class=&quot;button&quot;&gt;&#10;    &lt;span class=&quot;icon&quot;&gt;&#10;      &lt;!-- icon to be used --&gt;&#10;      &lt;i class=&quot;fa fa-$ICON$&quot;&gt;&lt;/i&gt;&#10;    &lt;/span&gt;&#10;&lt;/a&gt;" description="default button with icon only" toReformat="true" toShortenFQNames="true">
+    <variable name="ICON" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:info" value="&lt;a class=&quot;button is-info&quot;&gt;$Button$&lt;/a&gt;" description="info button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:info:outlined" value="&lt;a class=&quot;button is-info is-outlined&quot;&gt;$Button$&lt;/a&gt;" description="Info outlined button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:large" value="&lt;a class=&quot;button is-large&quot;&gt;$Button$&lt;/a&gt;" description="large button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:light" value="&lt;a class=&quot;button is-light&quot;&gt;$Button$&lt;/a&gt;" description="light button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:link" value="&lt;a class=&quot;button is-link&quot;&gt;$Button$&lt;/a&gt;" description="link" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:medium" value="&lt;a class=&quot;button is-medium&quot;&gt;$Button$&lt;/a&gt;" description="medium button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:outlined" value="&lt;a class=&quot;button is-outlined&quot;&gt;$Button$&lt;/a&gt;" description="outlined button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:primary" value="&lt;a class=&quot;button is-primary&quot;&gt;$Button$&lt;/a&gt;" description="primary button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:primary:outlined" value="&lt;a class=&quot;button is-primary is-outlined&quot;&gt;$Button$&lt;/a&gt;" description="primary outlined button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:small" value="&lt;a class=&quot;button is-small&quot;&gt;$Button$&lt;/a&gt;" description="small button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:success" value="&lt;a class=&quot;button is-success&quot;&gt;$Button$&lt;/a&gt;" description="success button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:success:outlined" value="&lt;a class=&quot;button is-success is-outlined&quot;&gt;$Button$&lt;/a&gt;" description="success outlined button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:warning" value="&lt;a class=&quot;button is-warning&quot;&gt;$Button$&lt;/a&gt;" description="warning button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:btn:white" value="&lt;a class=&quot;button is-white&quot;&gt;$Button$&lt;/a&gt;" description="white button" toReformat="true" toShortenFQNames="true">
+    <variable name="Button" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:content" value="&lt;div class=&quot;content&quot;&gt;&#10;    &lt;!-- text --&gt;&#10;    $TEXT$&#10;&lt;/div&gt;&#10;$END$" description="default content" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:content:large" value="&lt;div class=&quot;content is-large&quot;&gt;&#10;    &lt;!-- text --&gt;&#10;    $TEXT$&#10;&lt;/div&gt;&#10;$END$" description="large content" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:content:medium" value="&lt;div class=&quot;content is-medium&quot;&gt;&#10;    &lt;!-- text --&gt;&#10;    $TEXT$&#10;&lt;/div&gt;&#10;$END$" description="medium content" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:content:small" value="&lt;div class=&quot;content is-small&quot;&gt;&#10;    &lt;!-- text --&gt;&#10;    $TEXT$&#10;&lt;/div&gt;&#10;$END$" description="small content" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:delete:medium" value="&lt;a class=&quot;delete is-large&quot;&gt;&lt;/a&gt;" description="stand-alone large delete element" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:delete:small" value="&lt;a class=&quot;delete is-small&quot;&gt;&lt;/a&gt;" description="stand-alone small delete element" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bm:delete" value="&lt;a class=&quot;delete&quot;&gt;&lt;/a&gt;" description="stand-alone delete element" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="CSS/Replace quotes" />
+    <ignoreAction name="Scala/Internal/Extract Java String to Intellj Bundle" />
+  </component>
+</application>

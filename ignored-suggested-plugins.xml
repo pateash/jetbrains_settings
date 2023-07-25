@@ -3,6 +3,8 @@
     <option name="pluginIds">
       <list>
         <option value="org.intellij.plugins.postcss" />
+        <option value="intellij.prettierJS" />
+        <option value="com.deadlock.scsyntax" />
       </list>
     </option>
   </component>

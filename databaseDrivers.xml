@@ -16,6 +16,9 @@
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.6.0" />
     </driver>
+    <driver id="redshift">
+      <artifact id="Redshift" name="Redshift" use="true" version="2.1.0.13" />
+    </driver>
     <driver id="sqlite.xerial">
       <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.40.1" />
     </driver>

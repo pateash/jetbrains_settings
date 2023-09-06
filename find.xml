@@ -34,9 +34,9 @@
     <mask>config.scala</mask>
     <mask>!*.py</mask>
     <mask>*.sbt</mask>
-    <mask>*.py</mask>
     <mask>!*.scala</mask>
     <mask>*.scala</mask>
     <mask>*.md</mask>
+    <mask>*.py</mask>
   </component>
 </application>

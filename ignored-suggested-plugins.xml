@@ -8,6 +8,7 @@
         <option value="com.jetbrains.restWebServices" />
         <option value="com.intellij.beanValidation" />
         <option value="com.intellij.bigdatatools.spark" />
+        <option value="com.intellij.bigdatatools.rfs" />
       </list>
     </option>
   </component>

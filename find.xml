@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.scala" />
     <mask>pom.xml</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>
@@ -33,12 +36,12 @@
     <mask>config.scala</mask>
     <mask>!*.py</mask>
     <mask>*.sbt</mask>
-    <mask>!*.scala</mask>
     <mask>*.md</mask>
     <mask>*.py</mask>
     <mask>!*test/*</mask>
     <mask>!*test*</mask>
     <mask>!*.md</mask>
+    <mask>!*.scala</mask>
     <mask>*.scala</mask>
   </component>
 </application>

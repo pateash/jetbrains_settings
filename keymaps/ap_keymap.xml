@@ -153,7 +153,6 @@
   </action>
   <action id="CompareTwoFiles">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
-    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="Console.Execute.Multiline">
     <keyboard-shortcut first-keystroke="enter" />
@@ -461,6 +460,7 @@
   <action id="ResizeToolWindowUp" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="r" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="numpad0" />
@@ -541,12 +541,15 @@
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f6" />
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="i" />
   </action>
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="o" />
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f5" />
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="c" />
   </action>
   <action id="StringManipulation.Group.Main">
     <keyboard-shortcut first-keystroke="shift alt s" />

@@ -24,6 +24,7 @@
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="dbp" type="PLAIN_TEXT" />
+      <mapping ext="pset" type="PLAIN_TEXT" />
       <mapping pattern="ddls_manual_update.hql" type="SQL" />
       <mapping ext="hsql" type="SQL" />
       <mapping ext="hql" type="SQL" />

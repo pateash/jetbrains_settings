@@ -3,7 +3,6 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="!*test/*" />
     <mask>pom.xml</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>
@@ -37,9 +36,9 @@
     <mask>*.md</mask>
     <mask>*.py</mask>
     <mask>!*test*</mask>
-    <mask>!*.md</mask>
     <mask>!*.scala</mask>
     <mask>*.scala</mask>
     <mask>!*test/*</mask>
+    <mask>!*.md</mask>
   </component>
 </application>

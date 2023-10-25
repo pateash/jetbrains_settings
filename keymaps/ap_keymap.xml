@@ -229,7 +229,15 @@
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
   <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
   <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorCompleteStatement" />
   <action id="EditorCreateRectangularSelection" />
@@ -252,10 +260,6 @@
   </action>
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="ctrl alt j" />
-  </action>
-  <action id="EditorMatchBrace">
-    <keyboard-shortcut first-keystroke="shift ctrl m" />
-    <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollLeft">
@@ -395,8 +399,8 @@
   </action>
   <action id="NextEditorTab" />
   <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="alt close_bracket" />
     <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
@@ -421,8 +425,8 @@
   </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousProjectWindow">
-    <keyboard-shortcut first-keystroke="alt open_bracket" />
     <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="PropertyInspectorActions.EditValue" />
   <action id="QuickActionPopup" />

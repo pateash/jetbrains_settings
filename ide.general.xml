@@ -8,10 +8,10 @@
   <component name="Registry">
     <entry key="python.scientific.show_help_window" value="false" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
+    <entry key="ide.experimental.ui" value="true" />
     <entry key="python.scientific.always_use_sci_view" value="true" />
     <entry key="editor.minimap.enabled" value="true" />
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
-    <entry key="ide.experimental.ui" value="true" />
     <entry key="ide.experimental.ui.inter.font" value="false" />
     <entry key="debugger.new.tool.window.layout" value="false" />
     <entry key="idea.plugins.compatible.build" value="" />

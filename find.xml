@@ -37,9 +37,9 @@
     <mask>*.py</mask>
     <mask>!*test*</mask>
     <mask>!*.scala</mask>
-    <mask>*.scala</mask>
     <mask>!*test/*</mask>
     <mask>!*.md</mask>
     <mask>*target*</mask>
+    <mask>*.scala</mask>
   </component>
 </application>

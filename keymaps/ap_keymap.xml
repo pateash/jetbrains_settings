@@ -471,12 +471,12 @@
   </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
-    <keyboard-shortcut first-keystroke="meta u" />
+    <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="RunDashboard.Run">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
     <keyboard-shortcut first-keystroke="shift ctrl t" />
-    <keyboard-shortcut first-keystroke="meta u" />
+    <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SaveAll">
@@ -535,6 +535,7 @@
   </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="alt u" />
+    <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="SmartTypeCompletion" />
   <action id="SplitHorizontally">
@@ -641,7 +642,7 @@
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
   <action id="runShellFileAction">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
-    <keyboard-shortcut first-keystroke="meta u" />
+    <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="tasks.and.contexts">
     <keyboard-shortcut first-keystroke="meta alt i" />

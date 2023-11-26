@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.scala" />
     <mask>pom.xml</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>
@@ -44,7 +44,7 @@
     <mask>!*test/*</mask>
     <mask>!*.md</mask>
     <mask>*target*</mask>
-    <mask>*.scala</mask>
     <mask>*.py</mask>
+    <mask>*.scala</mask>
   </component>
 </application>

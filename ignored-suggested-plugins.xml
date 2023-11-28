@@ -9,6 +9,8 @@
         <option value="com.intellij.beanValidation" />
         <option value="com.intellij.bigdatatools.spark" />
         <option value="com.intellij.bigdatatools.rfs" />
+        <option value="com.intellij.bigdatatools.kafka" />
+        <option value="com.intellij.aqua" />
       </list>
     </option>
   </component>

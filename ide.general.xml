@@ -12,7 +12,9 @@
     <entry key="editor.minimap.enabled" value="true" />
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
     <entry key="ide.experimental.ui" value="false" />
+    <entry key="ide.experimental.ui.inter.font" value="false" />
     <entry key="debugger.new.tool.window.layout" value="false" />
+    <entry key="idea.plugins.compatible.build" value="" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

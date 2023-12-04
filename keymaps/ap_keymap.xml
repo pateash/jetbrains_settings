@@ -422,7 +422,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
-  <action id="Play2.TypeInfo" />
+  <action id="Play2.TypeInfo">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift f7" />
     <keyboard-shortcut first-keystroke="shift alt up" />
@@ -503,7 +505,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
-  <action id="Scala.TypeInfo" />
+  <action id="Scala.TypeInfo">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
   <action id="ScrollPane-scrollEnd">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>

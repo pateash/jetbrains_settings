@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>pom.xml</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>
@@ -25,7 +28,6 @@
     <mask>req*db*.txt</mask>
     <mask>*test*</mask>
     <mask>!*.js</mask>
-    <mask>*.yml</mask>
     <mask>*.conf</mask>
     <mask>*.in</mask>
     <mask>*.txt</mask>
@@ -41,5 +43,6 @@
     <mask>*target*</mask>
     <mask>*.py</mask>
     <mask>*.scala</mask>
+    <mask>*.yml</mask>
   </component>
 </application>

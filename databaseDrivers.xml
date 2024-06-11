@@ -19,8 +19,12 @@
     <driver id="redshift">
       <artifact id="Redshift" name="Redshift" use="true" version="2.1.0.13" />
     </driver>
+    <driver id="snowflake">
+      <artifact id="Snowflake" name="Snowflake" use="true" version="3.14.4" />
+      <artifact id="jna-platform" name="jna-platform" use="true" version="5.8.0" />
+    </driver>
     <driver id="sqlite.xerial">
-      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.40.1" />
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.45.1" />
     </driver>
     <driver id="9e0f8a1d-5fb6-4894-8092-df17dad50b99" name=".coverage driver" dialect="SQLite" driver-class="org.sqlite.JDBC" icon="AllIcons.Providers.Sqlite">
       <url-template name="default" template="jdbc:sqlite:!(:memory:){file::identifier.sqlite}?" />

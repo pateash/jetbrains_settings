@@ -6,6 +6,14 @@
       <place><![CDATA[groovyElement().annotationParam("groovy.lang.Newify", "pattern")]]></place>
       <place><![CDATA[groovyLiteralExpression().regExpOperatorArgument()]]></place>
     </injection>
+    <injection language="Spring-MongoDB-JSON" injector-id="java">
+      <display-name>Aggregation (org.springframework.data.mongodb.repository)</display-name>
+      <ignore-pattern>(:#\{#\w+\}|\?#\{.+\})</ignore-pattern>
+      <single-file value="false" />
+      <place><![CDATA[psiMethod().withName("collation").withParameters().definedInClass("org.springframework.data.mongodb.repository.Aggregation")]]></place>
+      <place><![CDATA[psiMethod().withName("pipeline").withParameters().definedInClass("org.springframework.data.mongodb.repository.Aggregation")]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.data.mongodb.repository.Aggregation")]]></place>
+    </injection>
     <injection language="http-url-reference" injector-id="java">
       <display-name>Android Volley (com.android.volley)</display-name>
       <single-file value="true" />
@@ -90,11 +98,28 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("withHeader").definedInClass("org.mockserver.model.HttpRequest"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("withHeader", "getHeader", "getFirstHeader", "containsHeader", "removeHeader").definedInClass("org.mockserver.model.HttpResponse"))]]></place>
     </injection>
+    <injection language="SQL" injector-id="java">
+      <display-name>MyBatis @Select/@Delete/@Insert/@Update</display-name>
+      <single-file value="true" />
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Delete")]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Insert")]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Select")]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Update")]]></place>
+    </injection>
     <injection language="http-url-reference" injector-id="java">
       <display-name>OkHttp (okhttp3)</display-name>
       <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("parse", "get", "newBuilder").withParameters("java.lang.String").definedInClass("okhttp3.HttpUrl"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("url").withParameters("java.lang.String").definedInClass("okhttp3.Request.Builder"))]]></place>
+    </injection>
+    <injection language="Spring-MongoDB-JSON" injector-id="java">
+      <display-name>Query (org.springframework.data.mongodb.repository)</display-name>
+      <ignore-pattern>(:#\{#\w+\}|\?#\{.+\})</ignore-pattern>
+      <single-file value="true" />
+      <place><![CDATA[psiMethod().withName("collation").withParameters().definedInClass("org.springframework.data.mongodb.repository.Query")]]></place>
+      <place><![CDATA[psiMethod().withName("fields").withParameters().definedInClass("org.springframework.data.mongodb.repository.Query")]]></place>
+      <place><![CDATA[psiMethod().withName("sort").withParameters().definedInClass("org.springframework.data.mongodb.repository.Query")]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.data.mongodb.repository.Query")]]></place>
     </injection>
     <injection language="SQL" injector-id="java">
       <display-name>QueryProducer (org.hibernate.query)</display-name>
@@ -200,6 +225,7 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.mutiny.Mutiny.StatelessSession"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.stage.Stage.Session"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.stage.Stage.StatelessSession"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery", "createSelectionQuery", "createMutationQuery").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
     </injection>
     <injection language="SQL" injector-id="java">
       <display-name>SmallRye Axle SqlClient (io.vertx.axle.sqlclient)</display-name>
@@ -248,6 +274,22 @@
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.messaging.handler.annotation.Payload")]]></place>
     </injection>
     <injection language="SQL" injector-id="java">
+      <display-name>Spring JDBC (org.springframework.jdbc.core.JdbcOperations)</display-name>
+      <single-file value="true" />
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("batchUpdate").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execute").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForInt").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForList").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForLong").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForMap").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForObject").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForRowSet").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForStream").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("sql").definedInClass("org.springframework.jdbc.core.simple.JdbcClient"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("update").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+    </injection>
+    <injection language="SQL" injector-id="java">
       <display-name>Spring JDBC (org.springframework.jdbc.core.PreparedStatementCreatorFactory)</display-name>
       <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("PreparedStatementCreatorFactory").withParameters("java.lang.String").definedInClass("org.springframework.jdbc.core.PreparedStatementCreatorFactory"))]]></place>
@@ -261,6 +303,24 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("customTranslate").withParameters("java.lang.String", "java.lang.String", "java.sql.SQLException").definedInClass("org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("doTranslate").withParameters("java.lang.String", "java.lang.String", "java.sql.SQLException").definedInClass("org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("logTranslation").withParameters("java.lang.String", "java.lang.String", "java.sql.SQLException", "boolean").definedInClass("org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator"))]]></place>
+    </injection>
+    <injection language="SpEL" injector-id="java">
+      <display-name>Spring Security @PostAuthorize/@PostFilter/@PreAuthorize/@PreFilter/@AuthenticationPrincipal</display-name>
+      <single-file value="true" />
+      <place><![CDATA[psiMethod().withName("expression").withParameters().definedInClass("org.springframework.security.core.annotation.AuthenticationPrincipal")]]></place>
+      <place><![CDATA[psiMethod().withName("expression").withParameters().definedInClass("org.springframework.security.core.annotation.CurrentSecurityContext")]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.security.access.prepost.PostAuthorize")]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.security.access.prepost.PostFilter")]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.security.access.prepost.PreAuthorize")]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.security.access.prepost.PreFilter")]]></place>
+    </injection>
+    <injection language="SpEL" injector-id="java">
+      <display-name>Spring State Machine</display-name>
+      <single-file value="true" />
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("event").withParameters("java.lang.String").definedInClass("org.springframework.statemachine.config.configurers.SecurityConfigurer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("guardExpression").withParameters("java.lang.String").definedInClass("org.springframework.statemachine.config.configurers.TransitionConfigurer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("secured").withParameters("java.lang.String").definedInClass("org.springframework.statemachine.config.configurers.TransitionConfigurer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("transition").withParameters("java.lang.String").definedInClass("org.springframework.statemachine.config.configurers.SecurityConfigurer"))]]></place>
     </injection>
     <injection language="RegExp" injector-id="java">
       <display-name>String (java.lang)</display-name>
@@ -278,6 +338,14 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("doesNotContainMatch").definedInClass("com.google.common.truth.StringSubject"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("doesNotMatch").definedInClass("com.google.common.truth.StringSubject"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("matches").definedInClass("com.google.common.truth.StringSubject"))]]></place>
+    </injection>
+    <injection language="Spring-MongoDB-JSON" injector-id="java">
+      <display-name>Update.value (org.springframework.data.mongodb.repository)</display-name>
+      <ignore-pattern>(:#\{#\w+\}|\?#\{.+\})</ignore-pattern>
+      <single-file value="true" />
+      <place><![CDATA[psiMethod().withName("pipeline").withParameters().definedInClass("org.springframework.data.mongodb.repository.Update")]]></place>
+      <place><![CDATA[psiMethod().withName("update").withParameters().definedInClass("org.springframework.data.mongodb.repository.Update")]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.data.mongodb.repository.Update")]]></place>
     </injection>
     <injection language="SQL" injector-id="java">
       <display-name>Vert.x SQL Extensions (io.vertx.ext.sql)</display-name>
@@ -430,6 +498,7 @@
       <place><![CDATA[sqlElement().forDialects("Oracle").functionArgument(0, sqlFunctionCall().name("json_table"))]]></place>
       <place><![CDATA[sqlElement().forDialects("Oracle").functionArgument(1, -1, 2, sqlFunctionCall().name("json_object"))]]></place>
       <place><![CDATA[sqlElement().forDialects("Oracle").functionArgument(1, sqlFunctionCall().name("json_object_agg"))]]></place>
+      <place><![CDATA[sqlExpression().forDialects("Oracle").functionArgument(0, -1, 1, sqlFunctionCall().name("json_object")).withNextMeaningfulSibling(leafTokens("format"), 0).withNextMeaningfulSibling(leafTokens("json"), 1)]]></place>
     </injection>
     <injection language="RegExp" injector-id="sql">
       <display-name>Oracle RegExp</display-name>

@@ -27,7 +27,6 @@
           <option name="DIFF_TOOLS_ORDER">
             <list>
               <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
-              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool" />
               <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
               <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
@@ -36,9 +35,8 @@
               <option value="com.intellij.diff.tools.combined.CombinedSideBySideDiffTool" />
               <option value="com.intellij.database.model.diff.SchemaDiffTool" />
               <option value="com.intellij.database.diff.TableDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool.Unified" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool.SideBySide" />
             </list>
           </option>
         </PlaceSettings>
@@ -132,6 +130,14 @@
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="SHOW_WHITESPACES" value="true" />
+          <option name="USE_SOFT_WRAPS" value="true" />
+        </PlaceSettings>
+      </entry>
+      <entry key="Merge">
+        <PlaceSettings>
+          <option name="BREADCRUMBS_PLACEMENT" value="BOTTOM" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+          <option name="SHOW_LINE_NUMBERS" value="false" />
           <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>

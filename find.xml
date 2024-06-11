@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="fromCursor" value="false" />
+    <option name="FIND_ORIGIN" value="entire_scope" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py,!*test*" />
     <mask>pom.xml</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>
@@ -11,35 +14,47 @@
     <mask>*.cfg</mask>
     <mask>!*.java</mask>
     <mask>*.yaml</mask>
-    <mask>*.vim</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.hql</mask>
-    <mask>*.rst</mask>
     <mask>*.sh</mask>
     <mask>!test*</mask>
     <mask>*.html</mask>
     <mask>!*.csv</mask>
     <mask>*Hook*</mask>
-    <mask>*test*.py</mask>
     <mask>req*db*.txt</mask>
-    <mask>*test*</mask>
     <mask>!*.js</mask>
     <mask>*.yml</mask>
     <mask>*.conf</mask>
     <mask>*.in</mask>
-    <mask>*.txt</mask>
     <mask>*.json</mask>
     <mask>config.scala</mask>
-    <mask>!*.py</mask>
     <mask>*.sbt</mask>
-    <mask>*.md</mask>
-    <mask>!*test*</mask>
-    <mask>!*.scala</mask>
     <mask>!*test/*</mask>
     <mask>!*.md</mask>
     <mask>*target*</mask>
+    <mask>*.rst</mask>
+    <mask>!test*.py</mask>
+    <mask>!*.py</mask>
+    <mask>*.txt</mask>
+    <mask>*.sql</mask>
+    <mask>!*test*.py</mask>
+    <mask>!*test*.py,*.py</mask>
+    <mask>*test*.py</mask>
+    <mask>!*.scala</mask>
+    <mask>*.js</mask>
+    <mask>*.py,!test*</mask>
     <mask>*.py</mask>
+    <mask>*.md</mask>
+    <mask>*.js,*json</mask>
+    <mask>!*doc*, !*test*,*.html</mask>
+    <mask>!*docs*, !*test*,*.html</mask>
+    <mask>!*test*</mask>
+    <mask>!*test*,*.scala</mask>
+    <mask>*.vim</mask>
     <mask>*.scala</mask>
+    <mask>*test*.scala</mask>
+    <mask>*test*</mask>
+    <mask>*.py,!*test*</mask>
   </component>
 </application>

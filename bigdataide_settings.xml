@@ -1,19 +1,36 @@
 <application>
+  <component name="BigDataIdeGlobalConnectionSettings">
+    <option name="connections">
+      <list>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="rootPath" value="rO0ABXQANy9Vc2Vycy9hc2hpc2hwYXRlbC9wcm9waGVjeS1kZXYvc3Bhcmsta2Fma2EtZ3JhZGxlL2RhdGE=" />
+            </map>
+          </option>
+          <option name="fqn" value="com.jetbrains.bigdatatools.common.rfs.settings.local.RfsLocalConnectionData" />
+          <option name="groupId" value="RfsLocalConnectionGroup" />
+          <option name="innerId" value="Local@RfsLocalConnectionGroup@-277120763203137362" />
+          <option name="name" value="Local" />
+        </ExtendedConnectionData>
+      </list>
+    </option>
+  </component>
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/drools-input/People.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/drools-input/Sample.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/src/main/resources/Sample.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/drools-input/data-lkemxJDGcMukI2QbvSXtW.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/build/libs/live.ashish.spark-gradle-template-1.1-SNAPSHOT-all.jar!/Sample.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/POC/HSBC_Abinition_demo/Obtain_List_Of_Unprocessed_Directories_Processed_Directory_File.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/POC/HSBC_Abinition_demo/Obtain_List_Of_Unprocessed_Directories_Processed_Directory_File_1.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/csv_skip_header_footer/skip-Header_footer.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/csv_skip_header_footer/csv_normal.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/csv_skip_header_footer/CSV_LESS_HEADER.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/jpmc_calendar.csv" />
+        <option value="Users/ashishpatel/pateash/spp/sparkplusplus/src/test/resources/csv/OrdersDatasetInput.csv" />
+        <option value="file__Users_ashishpatel_pateash_spark_sql_core_src_test_resources_test_data_dec_in_i32_parquet_0.data.csv/dec_in_i32.parquet(downloaded)" />
+        <option value="file__Users_ashishpatel_pateash_spark_sql_core_src_test_resources_test_data_dec_in_i64_parquet_0.data.csv/dec_in_i64.parquet(downloaded)" />
+        <option value="file__Users_ashishpatel_prophecy_dev_code_xtable_delta_dataset_people_city_3DDFW_part_00009_91ed4a44_f702_4759_8c02_5495e703f0bd_c000_snappy_parquet_0/part_00009_91ed4a44_f702_4759_8c02_5495e703f0bd_c000_snappy.parquet(downloaded)" />
+        <option value="part-00009-91ed4a44-f702-4759-8c02-5495e703f0bd.c000.snappy.parquet" />
+        <option value="part-00001-414101a9-e893-4150-8974-2c6034ffd4b4.c000.snappy.parquet" />
+        <option value="part-00006-19d183a2-4459-407f-9a22-6ba63105e853.c000.snappy.parquet" />
+        <option value="Users/ashishpatel/prophecy-dev/code/snowflake/customer2.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/single_file_creation/input/part-00000-a70f9d96-d709-4189-beb8-6a512f2e2621-c000.csv" />
       </list>
     </option>
-    <option name="mainDirPath" value="/private/var/folders/04/0m30sqlx3j71qsb3qwjytpx80000gp/T/HDFS-downloaded" />
+    <option name="mainDirPath" value="/private/var/folders/8g/_dzr6s_53hbcbd27tpcx3xf40000gn/T/HDFS-downloaded" />
   </component>
 </application>

@@ -24,7 +24,6 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value=".*INFO.*" />
                     </GrepExpressionItem>
@@ -128,7 +127,6 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="color" value="-7170916" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="foregroundColor">

@@ -2,6 +2,18 @@
   <component name="AIAssistantPromptLibraryStorage">
     <option name="prompts">
       <map>
+        <entry key="48561bbc-2cf1-45c1-b346-c6038fc5032c">
+          <value>
+            <AIAssistantStoredPrompt>
+              <option name="content" value="I am getting error in this &#10;&#10;$SELECTION&#10;&#10;Error looks like &#10;" />
+              <option name="createdAt" value="1705854962" />
+              <option name="hasCustomTitle" value="true" />
+              <option name="id" value="48561bbc-2cf1-45c1-b346-c6038fc5032c" />
+              <option name="name" value="Find Problems with given error" />
+              <option name="waitForInput" value="true" />
+            </AIAssistantStoredPrompt>
+          </value>
+        </entry>
         <entry key="builtin_findproblems">
           <value>
             <AIAssistantStoredPrompt>
@@ -9,7 +21,7 @@
               <option name="content" value="Find potential problems in the code:&#10;&#10;$SELECTION" />
               <option name="hasCustomTitle" value="true" />
               <option name="id" value="builtin_findproblems" />
-              <option name="name" value="Find problems in code" />
+              <option name="name" value="Find Problems" />
               <option name="priority" value="30" />
               <option name="showInInput" value="false" />
             </AIAssistantStoredPrompt>
@@ -22,23 +34,10 @@
               <option name="content" value="&#10;&#10;$SELECTION" />
               <option name="hasCustomTitle" value="true" />
               <option name="id" value="builtin_newchat" />
-              <option name="name" value="New chat using selection" />
+              <option name="name" value="New Chat Using Selection" />
               <option name="priority" value="20" />
               <option name="showInInput" value="false" />
               <option name="waitForInput" value="true" />
-            </AIAssistantStoredPrompt>
-          </value>
-        </entry>
-        <entry key="builtin_refactoring">
-          <value>
-            <AIAssistantStoredPrompt>
-              <option name="builtIn" value="true" />
-              <option name="content" value="Refactor the following code:&#10;&#10;$SELECTION" />
-              <option name="hasCustomTitle" value="true" />
-              <option name="id" value="builtin_refactoring" />
-              <option name="name" value="Suggest refactoring" />
-              <option name="priority" value="40" />
-              <option name="showInInput" value="false" />
             </AIAssistantStoredPrompt>
           </value>
         </entry>

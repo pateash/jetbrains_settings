@@ -1,20 +1,13 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-10-28T17:38:14</property>
+    <property name="created">2023-12-15T17:46:02</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2023-12-07T14:28:56</property>
+    <property name="ideVersion">2023.3.1.0.0</property>
+    <property name="modified">2024-04-15T16:30:11</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Ayuthaya" />
-  <attributes>
-    <option name="EDITORCONFIG_SPECIAL_SYMBOL">
-      <value>
-        <option name="BACKGROUND" value="41312d" />
-      </value>
-    </option>
-  </attributes>
 </scheme>

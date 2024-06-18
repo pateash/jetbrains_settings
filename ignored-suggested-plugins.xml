@@ -11,6 +11,7 @@
         <option value="com.intellij.bigdatatools.rfs" />
         <option value="com.intellij.bigdatatools.kafka" />
         <option value="com.intellij.aqua" />
+        <option value="org.jetbrains.plugins.javaFX" />
       </list>
     </option>
   </component>

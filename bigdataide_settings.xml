@@ -19,8 +19,8 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/faker/output.csv" />
         <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/faker/output/output.csv" />
+        <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/faker/output.csv" />
         <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/output/output.csv" />
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/jpmc_calendar.csv" />
         <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/single_file_creation/input/part-00000-a70f9d96-d709-4189-beb8-6a512f2e2621-c000.csv" />

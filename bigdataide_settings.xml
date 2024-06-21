@@ -20,6 +20,7 @@
     <option name="fileList">
       <list>
         <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/faker/output.csv" />
+        <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/faker/output/output.csv" />
         <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/output/output.csv" />
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/jpmc_calendar.csv" />
         <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/single_file_creation/input/part-00000-a70f9d96-d709-4189-beb8-6a512f2e2621-c000.csv" />
@@ -28,7 +29,6 @@
         <option value="part-00001-414101a9-e893-4150-8974-2c6034ffd4b4.c000.snappy.parquet" />
         <option value="part-00009-91ed4a44-f702-4759-8c02-5495e703f0bd.c000.snappy.parquet" />
         <option value="file__Users_ashishpatel_prophecy_dev_code_xtable_delta_dataset_people_city_3DDFW_part_00009_91ed4a44_f702_4759_8c02_5495e703f0bd_c000_snappy_parquet_0/part_00009_91ed4a44_f702_4759_8c02_5495e703f0bd_c000_snappy.parquet(downloaded)" />
-        <option value="file__Users_ashishpatel_pateash_spark_sql_core_src_test_resources_test_data_dec_in_i64_parquet_0.data.csv/dec_in_i64.parquet(downloaded)" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/8g/_dzr6s_53hbcbd27tpcx3xf40000gn/T/HDFS-downloaded" />

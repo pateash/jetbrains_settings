@@ -5,7 +5,7 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*test*" />
+    <option name="FILE_MASK" value="*test_*" />
     <mask>pom.xml</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>
@@ -57,5 +57,6 @@
     <mask>!*.py,!*test*</mask>
     <mask>*.py,!*test*</mask>
     <mask>*test*</mask>
+    <mask>*test_*</mask>
   </component>
 </application>

@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="fromCursor" value="false" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>pom.xml</mask>
     <mask>*config</mask>
@@ -56,8 +54,8 @@
     <mask>*.scala</mask>
     <mask>*test*.scala</mask>
     <mask>!*.py,!*test*</mask>
-    <mask>*.py,!*test*</mask>
     <mask>*test*</mask>
     <mask>*test_*</mask>
+    <mask>*.py,!*test*</mask>
   </component>
 </application>

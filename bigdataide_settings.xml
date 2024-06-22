@@ -19,6 +19,7 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="file__Users_ashishpatel_pateash_hckr_tests_cli_resources_data_faker_output_output_parquet_0/output.parquet(downloaded)" />
         <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/faker/output/output.csv" />
         <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/faker/output.csv" />
         <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/output/output.csv" />
@@ -28,7 +29,6 @@
         <option value="part-00006-19d183a2-4459-407f-9a22-6ba63105e853.c000.snappy.parquet" />
         <option value="part-00001-414101a9-e893-4150-8974-2c6034ffd4b4.c000.snappy.parquet" />
         <option value="part-00009-91ed4a44-f702-4759-8c02-5495e703f0bd.c000.snappy.parquet" />
-        <option value="file__Users_ashishpatel_prophecy_dev_code_xtable_delta_dataset_people_city_3DDFW_part_00009_91ed4a44_f702_4759_8c02_5495e703f0bd_c000_snappy_parquet_0/part_00009_91ed4a44_f702_4759_8c02_5495e703f0bd_c000_snappy.parquet(downloaded)" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/8g/_dzr6s_53hbcbd27tpcx3xf40000gn/T/HDFS-downloaded" />

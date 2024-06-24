@@ -1822,7 +1822,6 @@
             <root url="file://$USER_HOME$/.pyenv/versions/3.9.16/lib/python3.9" type="simple" />
             <root url="file://$USER_HOME$/.pyenv/versions/3.9.16/lib/python3.9/lib-dynload" type="simple" />
             <root url="file://$USER_HOME$/pateash/airflow_uploader_service/venv/lib/python3.9/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/pateash/airflow_uploader_service" type="simple" />
             <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2024.1/python_stubs/-1561643530" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib" type="simple" />

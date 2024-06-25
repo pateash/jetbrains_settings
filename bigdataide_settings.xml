@@ -19,16 +19,16 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="input.parquet" />
+        <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/peek/input.csv" />
+        <option value="file__Users_ashishpatel_pateash_hckr_tests_cli_resources_data_peek_input_parquet_0/input.parquet(downloaded)" />
+        <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/peek/Account.csv" />
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/dev-env/snowflake/output/AccountContactRole.csv" />
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/dev-env/snowflake/output/Account.csv" />
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/jpmc_calendar.csv" />
-        <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/peek/Account.csv" />
         <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/peek/Opportunity.csv" />
         <option value="Users/ashishpatel/pateash/hckr/invalid.csv" />
         <option value="file__Users_ashishpatel_pateash_hckr_tests_cli_resources_data_faker_output_output_parquet_0/output.parquet(downloaded)" />
-        <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/faker/output/output.csv" />
-        <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/faker/output.csv" />
-        <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/output/output.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/8g/_dzr6s_53hbcbd27tpcx3xf40000gn/T/HDFS-downloaded" />

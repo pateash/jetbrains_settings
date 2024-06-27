@@ -1988,20 +1988,20 @@
       </additional>
     </jdk>
     <jdk version="2">
-      <name value="Python 3.12 (hckr)" />
+      <name value="Python 3.9 (hckr)" />
       <type value="Python SDK" />
-      <version value="Python 3.12.3" />
-      <homePath value="$USER_HOME$/pateash/hckr/.venv/bin/python" />
+      <version value="Python 3.9.16" />
+      <homePath value="$USER_HOME$/pateash/hckr/venv/bin/python" />
       <roots>
         <annotationsPath>
           <root type="composite" />
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="file:///opt/homebrew/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12" type="simple" />
-            <root url="file:///opt/homebrew/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/pateash/hckr/.venv/lib/python3.12/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2024.1/python_stubs/81085917" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.9.16/lib/python3.9" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.9.16/lib/python3.9/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/pateash/hckr/venv/lib/python3.9/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2024.1/python_stubs/958423245" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/gdb" type="simple" />
@@ -2161,8 +2161,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional SDK_UUID="fc45842f-59a7-409a-8872-c3b4e64f77ed">
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/pateash/hckr/src" />
+      <additional SDK_UUID="ba8f0261-cf17-45c6-a426-52fc8cb05fe7">
         <setting name="FLAVOR_ID" value="MacPythonSdkFlavor" />
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>

@@ -19,7 +19,6 @@
       <mapping pattern="scripts" type="PLAIN_TEXT" />
       <mapping pattern="syntastic.vim" type="PLAIN_TEXT" />
       <mapping ext="vim" type="PLAIN_TEXT" />
-      <mapping ext="txt" type="PLAIN_TEXT" />
       <mapping ext="ebcdic" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />

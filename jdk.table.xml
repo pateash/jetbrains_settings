@@ -2349,7 +2349,7 @@
       <name value="Python 3.8 (hckr)" />
       <type value="Python SDK" />
       <version value="Python 3.12.4" />
-      <homePath value="$USER_HOME$/pateash/hckr/.venv/bin/python" />
+      <homePath value="$USER_HOME$/pateash/hckr/hatch-venv/bin/python" />
       <roots>
         <annotationsPath>
           <root type="composite" />

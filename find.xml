@@ -42,7 +42,6 @@
     <mask>!*.scala</mask>
     <mask>*.js</mask>
     <mask>*.py,!test*</mask>
-    <mask>*.py</mask>
     <mask>*.md</mask>
     <mask>*.js,*json</mask>
     <mask>!*doc*, !*test*,*.html</mask>
@@ -52,11 +51,12 @@
     <mask>*.vim</mask>
     <mask>*.scala</mask>
     <mask>*test*.scala</mask>
-    <mask>!*.py,!*test*</mask>
     <mask>*test*</mask>
     <mask>*test_*</mask>
     <mask>*.py,!*test*</mask>
     <mask>*.txt</mask>
     <mask>*.rb</mask>
+    <mask>!*.py,!*test*</mask>
+    <mask>*.py</mask>
   </component>
 </application>

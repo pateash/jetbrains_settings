@@ -5,12 +5,18 @@
         <option value="English (GB)" />
       </set>
     </option>
+    <option name="userDisabledRules">
+      <set>
+        <option value="LanguageTool.EN.OXFORD_SPELLING_Z_NOT_S" />
+        <option value="LanguageTool.EN.OXFORD_SPELLING_GRAM" />
+      </set>
+    </option>
     <option name="suppressingContext">
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="license" />
             <option value=".." />
+            <option value="license" />
           </set>
         </option>
       </SuppressingContext>

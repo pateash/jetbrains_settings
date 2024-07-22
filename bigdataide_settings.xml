@@ -19,16 +19,16 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/covid_data_india.csv" />
-        <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/peek/Account.csv" />
-        <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/peek/TabSeparated.csv" />
-        <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/peek/TabSeparated.tsv" />
-        <option value="file__Users_ashishpatel_pateash_hckr_tests_cli_resources_data_faker_output_output_parquet_0/output.parquet(downloaded)" />
-        <option value="Users/ashishpatel/pateash/hckr/invalid.csv" />
-        <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/peek/Opportunity.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/jpmc_calendar.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/covid_data_india2.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/dev-env/snowflake/dynamic_role/fake_customers.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/dev-env/snowflake/dynamic_role/test.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/fake_customers.csv" />
         <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/people-example.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/covid_data_india2.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/jpmc_calendar.csv" />
+        <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/peek/Opportunity.csv" />
+        <option value="Users/ashishpatel/pateash/hckr/invalid.csv" />
+        <option value="file__Users_ashishpatel_pateash_hckr_tests_cli_resources_data_faker_output_output_parquet_0/output.parquet(downloaded)" />
+        <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/peek/TabSeparated.tsv" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/8g/_dzr6s_53hbcbd27tpcx3xf40000gn/T/HDFS-downloaded" />

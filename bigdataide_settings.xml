@@ -19,6 +19,7 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/jpmc_calendar.csv" />
         <option value="file__Users_ashishpatel_pateash_hckr_cli_hckr_tests_cli_resources_data_faker_output_output_parquet_0/output.parquet(downloaded)" />
         <option value="file__Users_ashishpatel_pateash_hckr_cli_hckr_tests_cli_resources_data_peek_input_parquet_0/input.parquet(downloaded)" />
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/dev-env/snowflake/dynamic_role/fake_customers.csv" />
@@ -26,7 +27,6 @@
         <option value="Users/ashishpatel/prophecy-dev/code/fake_customers.csv" />
         <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/people-example.csv" />
         <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/covid_data_india2.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/jpmc_calendar.csv" />
         <option value="Users/ashishpatel/pateash/hckr/tests/cli/resources/data/peek/Opportunity.csv" />
         <option value="Users/ashishpatel/pateash/hckr/invalid.csv" />
       </list>

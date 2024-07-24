@@ -2960,6 +2960,7 @@
             <root url="file://$USER_HOME$/.pyenv/versions/3.9.16/lib/python3.9" type="simple" />
             <root url="file://$USER_HOME$/.pyenv/versions/3.9.16/lib/python3.9/lib-dynload" type="simple" />
             <root url="file://$USER_HOME$/.pyenv/versions/pye39/lib/python3.9/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/pateash/fat_wheel/src" type="simple" />
             <root url="file://$USER_HOME$/prophecy-dev/ComponentBuilderPython" type="simple" />
             <root url="jar://$USER_HOME$/.pyenv/versions/pye39/lib/python3.9/site-packages/pjs-1.0.2-py3.9.egg!/" type="simple" />
             <root url="file://$USER_HOME$/.pyenv/versions/pye39/lib/python3.9/site-packages/click-7.1.2-py3.9.egg" type="simple" />

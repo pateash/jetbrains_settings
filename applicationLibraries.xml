@@ -950,6 +950,7 @@
         <root url="file://$USER_HOME$/.pyenv/versions/3.9.16/lib/python3.9" />
         <root url="file://$USER_HOME$/.pyenv/versions/3.9.16/lib/python3.9/lib-dynload" />
         <root url="file://$USER_HOME$/.pyenv/versions/pye39/lib/python3.9/site-packages" />
+        <root url="file://$USER_HOME$/pateash/fat_wheel/src" />
         <root url="file://$USER_HOME$/prophecy-dev/ComponentBuilderPython" />
         <root url="jar://$USER_HOME$/.pyenv/versions/pye39/lib/python3.9/site-packages/pjs-1.0.2-py3.9.egg!/" />
         <root url="file://$USER_HOME$/.pyenv/versions/pye39/lib/python3.9/site-packages/click-7.1.2-py3.9.egg" />
@@ -1122,6 +1123,7 @@
         <root url="file://$USER_HOME$/.pyenv/versions/3.9.16/lib/python3.9" />
         <root url="file://$USER_HOME$/.pyenv/versions/3.9.16/lib/python3.9/lib-dynload" />
         <root url="file://$USER_HOME$/.pyenv/versions/pye39/lib/python3.9/site-packages" />
+        <root url="file://$USER_HOME$/pateash/fat_wheel/src" />
         <root url="file://$USER_HOME$/prophecy-dev/ComponentBuilderPython" />
         <root url="jar://$USER_HOME$/.pyenv/versions/pye39/lib/python3.9/site-packages/pjs-1.0.2-py3.9.egg!/" />
         <root url="file://$USER_HOME$/.pyenv/versions/pye39/lib/python3.9/site-packages/click-7.1.2-py3.9.egg" />

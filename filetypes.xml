@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="epub" type="ARCHIVE" />
       <mapping ext="htmlz" type="ARCHIVE" />
+      <mapping ext="whl" type="ARCHIVE_7ZIP" />
       <mapping pattern="gdc_ib_actuals_summary" type="AUTO_DETECTED" />
       <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping pattern="test1" type="AUTO_DETECTED" />

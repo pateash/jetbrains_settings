@@ -5,6 +5,7 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scala" />
     <mask>pom.xml</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>
@@ -36,7 +37,6 @@
     <mask>!test*.py</mask>
     <mask>!*.py</mask>
     <mask>*.sql</mask>
-    <mask>!*test*.py</mask>
     <mask>!*test*.py,*.py</mask>
     <mask>!*.scala</mask>
     <mask>*.js</mask>
@@ -48,7 +48,6 @@
     <mask>!*test*</mask>
     <mask>!*test*,*.scala</mask>
     <mask>*.vim</mask>
-    <mask>*.scala</mask>
     <mask>*test*.scala</mask>
     <mask>*test*</mask>
     <mask>*test_*</mask>
@@ -59,5 +58,7 @@
     <mask>*test_*.py</mask>
     <mask>*test*.py</mask>
     <mask>*.py</mask>
+    <mask>!*test*.py</mask>
+    <mask>*.scala</mask>
   </component>
 </application>

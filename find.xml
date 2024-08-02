@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="fromCursor" value="false" />
-    <option name="localRegularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scala,!*test*" />
     <mask>pom.xml</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>

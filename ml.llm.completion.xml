@@ -1,0 +1,7 @@
+<application>
+  <component name="LLM Completion Third Parties">
+    <thirdParties>
+      <entry id="com.google.gct.core" is-enabled="false" />
+    </thirdParties>
+  </component>
+</application>

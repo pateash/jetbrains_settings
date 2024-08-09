@@ -19,16 +19,16 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="Users/ashishpatel/pateash/pyspark-template/data/people-example.csv" />
-        <option value="Users/ashishpatel/pateash/pyspark-template/data/people-processed.csv/part-00000-9d282aff-b5b8-4fcd-867f-692bcd93dae9-c000.csv" />
         <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/people-example.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/DI_Data.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/person.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/processed_directory.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/covid_data_india.csv" />
-        <option value="file__Users_ashishpatel_pateash_hckr_cli_hckr_tests_cli_resources_data_faker_output_output_parquet_0/output.parquet(downloaded)" />
-        <option value="file__Users_ashishpatel_pateash_hckr_cli_hckr_tests_cli_resources_data_peek_input_parquet_0/input.parquet(downloaded)" />
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/dev-env/snowflake/dynamic_role/fake_customers.csv" />
+        <option value="file__Users_ashishpatel_pateash_hckr_cli_hckr_tests_cli_resources_data_peek_input_parquet_0/input.parquet(downloaded)" />
+        <option value="file__Users_ashishpatel_pateash_hckr_cli_hckr_tests_cli_resources_data_faker_output_output_parquet_0/output.parquet(downloaded)" />
+        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/covid_data_india.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/processed_directory.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/person.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/DI_Data.csv" />
+        <option value="Users/ashishpatel/pateash/pyspark-template/data/people-processed.csv/part-00000-9d282aff-b5b8-4fcd-867f-692bcd93dae9-c000.csv" />
+        <option value="Users/ashishpatel/pateash/pyspark-template/data/people-example.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/8g/_dzr6s_53hbcbd27tpcx3xf40000gn/T/HDFS-downloaded" />

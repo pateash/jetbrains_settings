@@ -2975,7 +2975,6 @@
             <root url="file://$USER_HOME$/.pyenv/versions/pye39/lib/python3.9/site-packages/jmespath-1.0.1-py3.9.egg" type="simple" />
             <root url="file://$USER_HOME$/.pyenv/versions/pye39/lib/python3.9/site-packages/botocore-1.29.165-py3.9.egg" type="simple" />
             <root url="file://$USER_HOME$/.pyenv/versions/pye39/lib/python3.9/site-packages/pydantic-1.10.15-py3.9-macosx-13.2-arm64.egg" type="simple" />
-            <root url="file://$USER_HOME$/pateash/pyspark-template" type="simple" />
             <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2024.1/python_stubs/1732187023" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib" type="simple" />

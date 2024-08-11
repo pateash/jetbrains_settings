@@ -515,8 +515,8 @@
   </action>
   <action id="Scala.ShowImplicitConversions" />
   <action id="Scala.ShowImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt subtract" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="Scala.TypeInfo" />
   <action id="ScrollPane-scrollEnd">

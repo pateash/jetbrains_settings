@@ -36,6 +36,9 @@
   <action id="AIAssistant.Editor.GenerateCodeInplace">
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="g" />
   </action>
+  <action id="AIAssistant.ToolWindow.ShowOrFocus">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
   <action id="ActivateAIAssistantToolWindow">
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="t" />
   </action>
@@ -500,6 +503,10 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="Scala.ExpandImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="Scala.RunWorksheet">
     <keyboard-shortcut first-keystroke="meta period" />
   </action>
@@ -508,8 +515,8 @@
   </action>
   <action id="Scala.ShowImplicitConversions" />
   <action id="Scala.ShowImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt subtract" />
   </action>
   <action id="Scala.TypeInfo" />
   <action id="ScrollPane-scrollEnd">

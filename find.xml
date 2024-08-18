@@ -5,6 +5,7 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>pom.xml</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>
@@ -23,7 +24,6 @@
     <mask>*Hook*</mask>
     <mask>req*db*.txt</mask>
     <mask>!*.js</mask>
-    <mask>*.yml</mask>
     <mask>*.conf</mask>
     <mask>*.in</mask>
     <mask>*.json</mask>
@@ -60,5 +60,6 @@
     <mask>*.scala</mask>
     <mask>*.scala,!*test*</mask>
     <mask>*.py</mask>
+    <mask>*.yml</mask>
   </component>
 </application>

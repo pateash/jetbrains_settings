@@ -664,7 +664,7 @@
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="tasks.and.contexts">
-    <keyboard-shortcut first-keystroke="meta alt i" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
   <action id="tasks.close" />
   <action id="tasks.goto" />

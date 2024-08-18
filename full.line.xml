@@ -1,8 +1,0 @@
-<application>
-  <component name="ExplicitFeedbackState">
-    <languageToSessions>
-      <entry language="Python" sessions-count="100" />
-    </languageToSessions>
-    <option name="isNotificationShown" value="true" />
-  </component>
-</application>

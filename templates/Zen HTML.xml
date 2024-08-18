@@ -573,9 +573,7 @@
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="html:xml" value="&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;$END$&lt;/html&gt;" description="&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;...&lt;/html&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
+  <template name="html:xml" value="&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;$END$&lt;/html&gt;" description="&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;...&lt;/html&gt;" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="keygen" value="&lt;keygen&gt;" description="&lt;keygen&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
@@ -806,27 +804,22 @@
   <template name="html:4t" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;&#10;&lt;html lang=&quot;$ENV_LANG$&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html;charset=UTF-8&quot;&gt;&#10;&lt;title&gt;$TITLE$&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;  $END$&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ENV_LANG" expression="" defaultValue="&quot;en&quot;" alwaysStopAt="true" />
     <variable name="TITLE" expression="" defaultValue="&quot;Document&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="html:4s" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01//EN&quot; &quot;http://www.w3.org/TR/html4/strict.dtd&quot;&gt;&#10;&lt;html lang=&quot;$ENV_LANG$&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html;charset=UTF-8&quot;&gt;&#10;&lt;title&gt;$TITLE$&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;  $END$&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ENV_LANG" expression="" defaultValue="&quot;en&quot;" alwaysStopAt="true" />
     <variable name="TITLE" expression="" defaultValue="&quot;Document&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="html:xt" value="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;&#10;&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; xml:lang=&quot;$ENV_LANG$&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html;charset=UTF-8&quot;&gt;&#10;&lt;title&gt;$TITLE$&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;  $END$&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ENV_LANG" expression="" defaultValue="&quot;en&quot;" alwaysStopAt="true" />
     <variable name="TITLE" expression="" defaultValue="&quot;Document&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="html:xs" value="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Strict//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd&quot;&gt;&#10;&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; xml:lang=&quot;$ENV_LANG$&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html;charset=UTF-8&quot;&gt;&#10;&lt;title&gt;$TITLE$&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;  $END$&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ENV_LANG" expression="" defaultValue="&quot;en&quot;" alwaysStopAt="true" />
     <variable name="TITLE" expression="" defaultValue="&quot;Document&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="html:xxs" value="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.1//EN&quot; &quot;http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd&quot;&gt;&#10;&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; xml:lang=&quot;$ENV_LANG$&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html;charset=UTF-8&quot;&gt;&#10;&lt;title&gt;$TITLE$&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;  $END$&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ENV_LANG" expression="" defaultValue="&quot;en&quot;" alwaysStopAt="true" />
     <variable name="TITLE" expression="" defaultValue="&quot;Document&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="html:5" value="&lt;!doctype html&gt;&#10;&lt;html lang=&quot;$ENV_LOCALE$&quot;&gt;&#10;&lt;head&gt;&#10;&lt;meta charset=&quot;$CHARSET$&quot;&gt;&#10;             &lt;meta name=&quot;viewport&quot; content=&quot;width=$WIDTH$, user-scalable=$SCALABLE$, initial-scale=$INITIAL_SCALE$, maximum-scale=$MAX_SCALE$, minimum-scale=$MIN_SCALE$&quot;&gt;&#10;                         &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;ie=$IE$&quot;&gt;&#10;             &lt;title&gt;$TITLE$&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;  $END$&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ENV_LOCALE" expression="" defaultValue="&quot;en&quot;" alwaysStopAt="true" />

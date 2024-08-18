@@ -11,6 +11,8 @@
     <entry key="python.scientific.always_use_sci_view" value="true" />
     <entry key="editor.minimap.enabled" value="true" />
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
+    <entry key="moved.to.new.ui" value="true" />
+    <entry key="ide.experimental.ui" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

@@ -1,5 +1,5 @@
 <application>
-  <component name="DatabaseSettings" version="9">
+  <component name="DatabaseSettings" version="10">
     <exec-options>
       <exec-option exec-inside="2" />
       <exec-option exec-inside="2" />
@@ -41,6 +41,16 @@
       <csv-format name="Pipe-separated" id="Pipe-separated_id">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="|" recordSeparator="&#10;">
+            <quotation>
+              <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </data>
+      </csv-format>
+      <csv-format name="Semicolon-separated" id="Semicolon-separated_id">
+        <data>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator=";" recordSeparator="&#10;">
             <quotation>
               <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
               <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />

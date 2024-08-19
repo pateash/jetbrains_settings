@@ -5,5 +5,10 @@
         <option name="filterDevelopmentTools" value="false" />
       </process-tab>
     </option>
+    <option name="runToolbarWidgetOptions">
+      <run-toolbar-widget>
+        <option name="show" value="false" />
+      </run-toolbar-widget>
+    </option>
   </component>
 </application>

@@ -5,12 +5,11 @@
         <entry key="48561bbc-2cf1-45c1-b346-c6038fc5032c">
           <value>
             <AIAssistantStoredPrompt>
-              <option name="content" value="I am getting error in this &#10;&#10;$SELECTION&#10;&#10;Error looks like &#10;" />
-              <option name="createdAt" value="1705854962" />
               <option name="hasCustomTitle" value="true" />
               <option name="id" value="48561bbc-2cf1-45c1-b346-c6038fc5032c" />
               <option name="name" value="Find Problems with given error" />
               <option name="waitForInput" value="true" />
+              <option name="content" value="I am getting error in this &#10;&#10;$SELECTION&#10;&#10;Error looks like &#10;" />
             </AIAssistantStoredPrompt>
           </value>
         </entry>
@@ -18,12 +17,12 @@
           <value>
             <AIAssistantStoredPrompt>
               <option name="builtIn" value="true" />
-              <option name="content" value="Find potential problems in the code:&#10;&#10;$SELECTION" />
               <option name="hasCustomTitle" value="true" />
               <option name="id" value="builtin_findproblems" />
               <option name="name" value="Find Problems" />
-              <option name="priority" value="30" />
+              <option name="priority" value="100500" />
               <option name="showInInput" value="false" />
+              <option name="content" value="Find potential problems in the code:&#10;&#10;$SELECTION" />
             </AIAssistantStoredPrompt>
           </value>
         </entry>
@@ -31,13 +30,13 @@
           <value>
             <AIAssistantStoredPrompt>
               <option name="builtIn" value="true" />
-              <option name="content" value="&#10;&#10;$SELECTION" />
               <option name="hasCustomTitle" value="true" />
               <option name="id" value="builtin_newchat" />
               <option name="name" value="New Chat Using Selection" />
-              <option name="priority" value="20" />
+              <option name="priority" value="100500" />
               <option name="showInInput" value="false" />
               <option name="waitForInput" value="true" />
+              <option name="content" value="&#10;&#10;$SELECTION" />
             </AIAssistantStoredPrompt>
           </value>
         </entry>

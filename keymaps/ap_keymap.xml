@@ -158,6 +158,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt minus" />
     <keyboard-shortcut first-keystroke="meta alt minus" />
   </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
   <action id="CollapseRegionRecursively">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
@@ -313,9 +316,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt equals" />
     <keyboard-shortcut first-keystroke="meta alt equals" />
   </action>
-  <action id="ExpandRegionRecursively">
-    <keyboard-shortcut first-keystroke="meta equals" />
-  </action>
+  <action id="ExpandRegionRecursively" />
   <action id="ExportToTextFile" />
   <action id="ExpressionTypeInfo">
     <keyboard-shortcut first-keystroke="alt slash" />

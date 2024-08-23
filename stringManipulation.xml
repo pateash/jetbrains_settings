@@ -2,9 +2,9 @@
   <component name="StringManipulationState">
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToWordCapitalizedOrCamelCaseAction" />
-        <option name="description" value="Toggle: Capitalized Words / camelCase" />
-        <option name="textWithMnemonic" value="Capitalized Words / camelCase" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToLowerCaseAction" />
+        <option name="description" value="To lower case" />
+        <option name="textWithMnemonic" value="To lower case" />
       </UniversalActionModel>
     </option>
     <option name="version" value="2" />

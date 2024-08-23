@@ -3,5 +3,6 @@
     <ignoreAction name="CSS/Replace quotes" />
     <ignoreAction name="Scala/Internal/Extract Java String to Intellj Bundle" />
     <ignoreAction name="Python/Hide type annotations" />
+    <ignoreAction name="Language injection/Inject language or reference" />
   </component>
 </application>

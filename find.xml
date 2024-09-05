@@ -5,6 +5,7 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.go" />
     <mask>pom.xml</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>
@@ -60,5 +61,6 @@
     <mask>*.scala,!*test*</mask>
     <mask>*.yml</mask>
     <mask>*.py</mask>
+    <mask>*.go</mask>
   </component>
 </application>

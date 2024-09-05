@@ -12,9 +12,6 @@
     <option name="SHOW_INPLACE_COMMENTS" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
-    <option name="SHOW_TOOL_WINDOW_NAMES" value="true" />
-    <option name="TOOL_WINDOW_LEFT_SIDE_CUSTOM_WIDTH" value="97" />
-    <option name="TOOL_WINDOW_RIGHT_SIDE_CUSTOM_WIDTH" value="50" />
     <option name="UI_DENSITY" value="COMPACT" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>

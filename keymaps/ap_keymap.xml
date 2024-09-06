@@ -45,7 +45,9 @@
   <action id="ActivateBigDataToolWindowToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl meta b" />
   </action>
-  <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateBookmarksToolWindow">
+    <keyboard-shortcut first-keystroke="alt b" second-keystroke="t" />
+  </action>
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />

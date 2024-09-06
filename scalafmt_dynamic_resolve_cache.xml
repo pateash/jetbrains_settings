@@ -87,6 +87,36 @@
             </array>
           </value>
         </entry>
+        <entry key="3.3.0">
+          <value>
+            <array>
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/scalafmt-core_2.13/jars/scalafmt-core_2.13-3.3.0.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/scalafmt-sysops_2.13/jars/scalafmt-sysops_2.13-3.3.0.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scala-lang.modules/scala-parallel-collections_2.13/jars/scala-parallel-collections_2.13-1.0.4.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/scalafmt-config_2.13/jars/scalafmt-config_2.13-3.3.0.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/com.geirsson/metaconfig-core_2.13/jars/metaconfig-core_2.13-0.9.15.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.typelevel/paiges-core_2.13/jars/paiges-core_2.13-0.4.2.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scala-lang.modules/scala-collection-compat_2.13/jars/scala-collection-compat_2.13-2.5.0.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/com.lihaoyi/pprint_2.13/jars/pprint_2.13-0.6.6.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/com.lihaoyi/fansi_2.13/jars/fansi_2.13-0.2.14.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/com.lihaoyi/sourcecode_2.13/jars/sourcecode_2.13-0.2.7.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/com.geirsson/metaconfig-typesafe-config_2.13/jars/metaconfig-typesafe-config_2.13-0.9.15.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/com.typesafe/config/bundles/config-1.4.1.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/scalameta_2.13/jars/scalameta_2.13-4.4.31.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/parsers_2.13/jars/parsers_2.13-4.4.31.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/trees_2.13/jars/trees_2.13-4.4.31.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/common_2.13/jars/common_2.13-4.4.31.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/fastparse-v2_2.13/jars/fastparse-v2_2.13-2.3.1.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/com.lihaoyi/geny_2.13/jars/geny_2.13-0.6.5.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scala-lang/scalap/jars/scalap-2.13.7.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.13.7.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.jline/jline/jars/jline-3.20.0.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/net.java.dev.jna/jna/jars/jna-5.8.0.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.13.11.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.11.jar" />
+            </array>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

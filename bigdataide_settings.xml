@@ -20,15 +20,15 @@
     <option name="fileList">
       <list>
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/AccountContactRole.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/ActionCadenceAsyncJob.csv" />
-        <option value="file__Users_ashishpatel_pateash_hckr_cli_hckr_tests_cli_resources_data_peek_input_parquet_0/input.parquet(downloaded)" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/dev-env/snowflake/dynamic_role/fake_customers.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/covid_data_india.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/DI_Data.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/dev-env/snowflake/dynamic_role/test.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/jpmc_calendar.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/dynamic_role/fake_customers.csv" />
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/Account.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/dynamic_role/fake_customers.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/jpmc_calendar.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/dev-env/snowflake/dynamic_role/test.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/DI_Data.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/covid_data_india.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/dev-env/snowflake/dynamic_role/fake_customers.csv" />
+        <option value="file__Users_ashishpatel_pateash_hckr_cli_hckr_tests_cli_resources_data_peek_input_parquet_0/input.parquet(downloaded)" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/ActionCadenceAsyncJob.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/8g/_dzr6s_53hbcbd27tpcx3xf40000gn/T/HDFS-downloaded" />

@@ -33,7 +33,6 @@
     <mask>*target*</mask>
     <mask>*.rst</mask>
     <mask>!test*.py</mask>
-    <mask>!*.py</mask>
     <mask>*.sql</mask>
     <mask>!*test*.py,*.py</mask>
     <mask>!*.scala</mask>
@@ -61,5 +60,6 @@
     <mask>*.yml</mask>
     <mask>*.py</mask>
     <mask>*.go</mask>
+    <mask>!*.py</mask>
   </component>
 </application>

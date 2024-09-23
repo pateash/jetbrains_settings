@@ -1469,6 +1469,8 @@
             <root url="file://$USER_HOME$/prophecy-dev/prophecy-build-tool/venv/lib/python3.9/site-packages/gitdb-4.0.11-py3.9.egg" type="simple" />
             <root url="file://$USER_HOME$/prophecy-dev/prophecy-build-tool/venv/lib/python3.9/site-packages/smmap-5.0.1-py3.9.egg" type="simple" />
             <root url="jar://$USER_HOME$/prophecy-dev/prophecy-build-tool/venv/lib/python3.9/site-packages/prophecy_build_tool-1.2.29.dev0-py3.9.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/prophecy-dev/prophecy-build-tool/venv/lib/python3.9/site-packages/prophecy_build_tool-1.2.30-py3.9.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/prophecy-dev/prophecy-build-tool/venv/lib/python3.9/site-packages/prophecy_build_tool-1.2.31.dev0-py3.9.egg!/" type="simple" />
             <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2024.2/python_stubs/-1537920627" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />

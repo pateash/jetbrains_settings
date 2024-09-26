@@ -21,12 +21,12 @@
       <list>
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/WorkStepTemplate.csv" />
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/WorkType.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/TenantSecurityHealthCheckBaselineTrend.csv" />
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/WorkTypeGroupMember.csv" />
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/PushProfileMapping.csv" />
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/PromptError.csv" />
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/Account.csv" />
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/StreamActivityAccess.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/TenantSecurityHealthCheckBaselineTrend.csv" />
         <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/ActionCadenceAsyncJob.csv" />
         <option value="file__Users_ashishpatel_pateash_hckr_cli_hckr_tests_cli_resources_data_peek_input_parquet_0/input.parquet(downloaded)" />
       </list>

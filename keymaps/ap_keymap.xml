@@ -508,10 +508,6 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
-  <action id="Scala.ExpandImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
   <action id="Scala.MakeExplicit" />
   <action id="Scala.RunWorksheet">
     <keyboard-shortcut first-keystroke="meta period" />

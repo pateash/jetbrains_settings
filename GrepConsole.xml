@@ -64,6 +64,10 @@
                       <option name="fold" value="true" />
                       <option name="grepExpression" value=".*WARNING.*" />
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value=".*SLF4J:.*" />
+                    </GrepExpressionItem>
                   </list>
                 </option>
               </GrepExpressionGroup>
@@ -80,6 +84,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
+                              <option name="color" value="-6547947" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -119,18 +124,32 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-11772260" />
-                              <option name="enabled" value="true" />
+                              <option name="color" value="-6515889" />
                             </GrepColor>
                           </option>
                           <option name="bold" value="true" />
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-6515889" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value=".*INFO.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-9999250" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="fold" value="true" />
@@ -172,7 +191,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-10263709" />
+                              <option name="color" value="-6515889" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>

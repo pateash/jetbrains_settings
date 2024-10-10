@@ -4,7 +4,6 @@
     <option name="autoscrollToSource" value="true" />
     <option name="compactDirectories" value="true" />
     <option name="flattenModules" value="true" />
-    <option name="flattenPackages" value="true" />
     <option name="openDirectoriesWithSingleClick" value="true" />
   </component>
 </application>

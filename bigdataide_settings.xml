@@ -19,16 +19,16 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/person.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/people-example.csv" />
+        <option value="file__Users_ashishpatel_prophecy_dev_spark_kafka_gradle_data_parquet_person_compressed_zstd_part_00000_7ae721d7_dec8_4b7b_bb99_4b665fd2c1cf_c000_zstd_parquet_0/part_00000_7ae721d7_dec8_4b7b_bb99_4b665fd2c1cf_c000_zstd.parquet(downloaded)" />
+        <option value="file__Users_ashishpatel_prophecy_dev_spark_kafka_gradle_data_parquet_person_compressed_gzip_part_00000_3d2ea886_7b46_459a_a120_369d50069dbf_c000_gz_parquet_0/part_00000_3d2ea886_7b46_459a_a120_369d50069dbf_c000_gz.parquet(downloaded)" />
+        <option value="file__Users_ashishpatel_prophecy_dev_spark_kafka_gradle_data_parquet_person_input_part_00000_24adb6e7_57c1_48a4_a995_12ccee8a6c08_c000_snappy_parquet_0/part_00000_24adb6e7_57c1_48a4_a995_12ccee8a6c08_c000_snappy.parquet(downloaded)" />
+        <option value="file__Users_ashishpatel_prophecy_dev_spark_kafka_gradle_data_parquet_person_compressed_simple_part_00000_ad0075c1_4155_41ba_9e39_8ed0d2918557_c000_zstd_parquet_0/part_00000_ad0075c1_4155_41ba_9e39_8ed0d2918557_c000_zstd.parquet(downloaded)" />
+        <option value="part-00000-41ee5a01-8288-4152-968a-14efbdff0970-c000.zstd.parquet" />
+        <option value="file__Users_ashishpatel_prophecy_dev_spark_kafka_gradle_data_parquet_person_compressed_part_00000_41ee5a01_8288_4152_968a_14efbdff0970_c000_zstd_parquet_0/part_00000_41ee5a01_8288_4152_968a_14efbdff0970_c000_zstd.parquet(downloaded)" />
+        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/data-Xhq756YbOzaHjeQSeqiGC.csv" />
         <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/DI_Data.csv" />
         <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/covid_data_india2.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/covid_data_india.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/prophecy-libs/src/test/resources/csv/us-500-delete.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/prophecy-libs/src/test/resources/csv/annual-enterprise-3-rows.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/WorkStepTemplate.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/WorkType.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/PushProfileMapping.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/people-example.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/8g/_dzr6s_53hbcbd27tpcx3xf40000gn/T/HDFS-downloaded" />

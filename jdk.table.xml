@@ -5090,7 +5090,6 @@
     <jdk version="2">
       <name value="Python 3.12 (prophecy-lineage-extractor)" />
       <type value="Python SDK" />
-      <version value="Python 3.12.5" />
       <homePath value="$USER_HOME$/pateash/prophecy-lineage-extractor/.venv/bin/python" />
       <roots>
         <annotationsPath>

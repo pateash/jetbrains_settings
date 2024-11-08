@@ -19,16 +19,16 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/WorkStepTemplate.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/PromptError.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/WorkTypeGroupMember.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/PushProfileMapping.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/WorkType.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/Account.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/TenantSecurityHealthCheckBaselineTrend.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/people-example.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/covid_data_india2.csv" />
+        <option value="Users/ashishpatel/pateash/prophecy-lineage/output/lineage.csv" />
         <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/DI_Data.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/covid_data_india2.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/people-example.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/TenantSecurityHealthCheckBaselineTrend.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/Account.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/WorkType.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/PushProfileMapping.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/WorkTypeGroupMember.csv" />
+        <option value="Users/ashishpatel/prophecy-dev/code/prophecy/workshop-auto-env/snowflake/output/PromptError.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/8g/_dzr6s_53hbcbd27tpcx3xf40000gn/T/HDFS-downloaded" />

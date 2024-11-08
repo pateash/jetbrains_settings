@@ -57,11 +57,9 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="fold" value="true" />
                       <option name="grepExpression" value=".*warn.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="fold" value="true" />
                       <option name="grepExpression" value=".*WARNING.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>

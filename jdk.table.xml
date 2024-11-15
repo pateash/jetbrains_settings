@@ -3,7 +3,7 @@
     <jdk version="2">
       <name value="zulu-11" />
       <type value="JavaSDK" />
-      <version value="java version &quot;11.0.21&quot;" />
+      <version value="Azul Zulu 11.0.21 - aarch64" />
       <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/azul-11.0.21/Contents/Home" />
       <roots>
         <annotationsPath>

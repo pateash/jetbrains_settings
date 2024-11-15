@@ -190,7 +190,6 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="color" value="-6515889" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                         </GrepStyle>

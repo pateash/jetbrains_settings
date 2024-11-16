@@ -5,6 +5,7 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tf" />
     <mask>pom.xml</mask>
     <mask>*config</mask>
     <mask>*.vue</mask>
@@ -61,5 +62,6 @@
     <mask>*.py</mask>
     <mask>*.go</mask>
     <mask>!*.py</mask>
+    <mask>*.tf</mask>
   </component>
 </application>

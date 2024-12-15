@@ -19,16 +19,16 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="Users/ashishpatel/pateash/ProphecyHelloWorld/output/lineage_customer_orders_demo.csv" />
-        <option value="Users/ashishpatel/pateash/prophecy-lineage/OUTPUT_DIR/lineage_customer_orders_demo.csv" />
         <option value="Users/ashishpatel/pateash/prophecy-lineage/output/lineage_customer_orders_demo.csv" />
+        <option value="Users/ashishpatel/pateash/ProphecyHelloWorld/output1/lineage_customer_orders_demo.csv" />
+        <option value="Users/ashishpatel/pateash/ProphecyHelloWorld/output/lineage_customer_orders_demo.csv" />
+        <option value="Users/ashishpatel/pateash/ProphecyHelloWorld/ignored/output/lineage_customer_orders_demo.csv" />
+        <option value="Users/ashishpatel/pateash/prophecy-lineage/OUTPUT_DIR/lineage_customer_orders_demo.csv" />
         <option value="Users/ashishpatel/pateash/prophecy-lineage/output/lineage_L4-omop531-etl-synthea.csv" />
         <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/processed_directory.csv" />
         <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/person.csv" />
         <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/DI_Data.csv" />
         <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/input.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/people-example.csv" />
-        <option value="Users/ashishpatel/prophecy-dev/spark-kafka-gradle/data/csv/covid_data_india2.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/8g/_dzr6s_53hbcbd27tpcx3xf40000gn/T/HDFS-downloaded" />
